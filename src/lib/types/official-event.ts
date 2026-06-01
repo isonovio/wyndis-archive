@@ -16,6 +16,7 @@ type CSEventRaw = {
     name: string;
     duration: DateRangeRaw;
     links?: ExternalLink[];
+    tags?: string[];
     participants?: LineupShorthandRaw[];
     brackets: BracketRaw[];
     note?: string;
@@ -27,11 +28,14 @@ const csEventsBlob = import.meta.glob<CSEventRaw>("$data/**/events/*.json", {
 
 const csEventsRaw = Object.values(csEventsBlob) satisfies CSEventRaw[];
 
+export type CSEventTag = "impact";
+
 export type CSEvent = {
     slug: string;
     name: string;
     duration: DateRange;
     links: ExternalLink[];
+    tags: CSEventTag[];
     note?: string;
 };
 
@@ -41,6 +45,9 @@ const processRawCSEvent = (raw: CSEventRaw): [CSEvent, Match[]] => {
         name: raw.name,
         duration: dateRangeFromRaw(raw.duration),
         links: raw.links ?? [],
+        tags:
+            raw.tags?.map((tag) => tag as CSEventTag satisfies CSEventTag) ||
+            [],
         note: raw.note,
     };
 

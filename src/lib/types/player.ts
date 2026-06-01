@@ -3,7 +3,7 @@ import { Temporal } from "$lib/utils/temporal";
 type PlayerRaw = {
     slug: string;
     nickname: string;
-    name: string;
+    name?: string;
     birthday?: string;
     nationality: string;
     tags?: string[];
@@ -15,12 +15,12 @@ const playersBlob = import.meta.glob<PlayerRaw>("$data/**/players/*.json", {
 
 const playersRaw = Object.values(playersBlob) satisfies PlayerRaw[];
 
-export type PlayerTag = "ninja";
+export type PlayerTag = "twin" | "ninja";
 
 export type Player = {
     slug: string;
     nickname: string;
-    name: string;
+    name?: string;
     birthday?: Temporal.PlainDate;
     nationality: string;
     tags: PlayerTag[];

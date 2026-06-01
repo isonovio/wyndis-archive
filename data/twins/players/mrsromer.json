@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "mrsromer",
+    "nickname": "MrsRømer",
+    "nationality": "dk"
+}

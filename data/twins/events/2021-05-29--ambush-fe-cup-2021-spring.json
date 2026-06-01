@@ -1,0 +1,72 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "ambush-fe-cup-2021-spring",
+    "name": "Ambush Female Spring Cup",
+    "duration": { "start": "2021-05-29", "end": "2021-05-29" },
+    "links": [{ "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/Ambush_Female_Cup/2021/Spring" }],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nsc", "lineup": { "roster": "nsc-2021-1" } }],
+    "brackets": [
+        {
+            "slug": "p2m",
+            "name": "Main Event",
+            "links": [{ "name": "Challengermode", "url": "https://www.challengermode.com/s/ACL/tournaments/ec16f8d0-d7c0-41dd-eafc-08d91eab5d22" }],
+            "tags": ["transparent"],
+            "brackets": [
+                {
+                    "slug": "s1g",
+                    "name": "Group Stage",
+                    "tags": ["transparent"],
+                    "brackets": [
+                        {
+                            "slug": "g4",
+                            "name": "Group D",
+                            "matches": [
+                                {
+                                    "id": 2,
+                                    "date": "2021-05-29",
+                                    "lineups": { "team1": { "shorthand": "nsc" }, "team2": { "name": "Bifrost Blue" } },
+                                    "maps": [
+                                        {
+                                            "id": 1,
+                                            "map": "d2",
+                                            "result": "9:16",
+                                            "links": [{ "name": "Challengermode", "url": "https://www.challengermode.com/s/ACL/games/fe322754-f66b-4f69-7e77-08d91c58a461" }]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 3,
+                                    "date": "2021-05-29",
+                                    "lineups": { "team1": { "shorthand": "nsc" }, "team2": { "name": "Arcane Wave" } },
+                                    "maps": [
+                                        {
+                                            "id": 1,
+                                            "map": "trn",
+                                            "result": "5:16",
+                                            "links": [{ "name": "Challengermode", "url": "https://www.challengermode.com/s/ACL/games/98b6c6c0-28f6-47ac-7d23-08d91c58a461" }]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 6,
+                                    "date": "2021-05-29",
+                                    "lineups": { "team1": { "name": "Hyperspace girls" }, "team2": { "shorthand": "nsc" } },
+                                    "maps": [
+                                        {
+                                            "id": 1,
+                                            "map": "nuke",
+                                            "result": "16:4",
+                                            "links": [{ "name": "Challengermode", "url": "https://www.challengermode.com/s/ACL/games/61cedb11-443c-4949-7fc1-08d91c58a461" }]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

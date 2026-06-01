@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schemas/roster.schema.json",
+    "slug": "nsc-2021-1",
+    "team": "nsc",
+    "players": ["ann4", "beauvillain", "mrsromer", "nayomy", "qiyarah"],
+    "duration": { "start": "2021-02-14", "end": "2025-05-29" }
+}

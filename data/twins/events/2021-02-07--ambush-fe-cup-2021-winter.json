@@ -1,0 +1,80 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "ambush-fe-cup-2021-winter",
+    "name": "Ambush Female Winter Cup",
+    "duration": { "start": "2021-02-07", "end": "2021-02-28" },
+    "links": [{ "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/Ambush_Female_Cup/2021/Winter" }],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nsc", "lineup": { "roster": "nsc-2021-1" } }],
+    "brackets": [
+        {
+            "slug": "p1q",
+            "name": "Open Qualifiers",
+            "tags": ["transparent"],
+            "brackets": [
+                {
+                    "slug": "q1",
+                    "name": "Open Qualifier #1",
+                    "duration": { "start": "2021-02-07", "end": "2021-02-07" },
+                    "links": [{ "name": "Esportal", "url": "https://esportal.com/en/tournament/1121/ambush-female-winter-cup-1/info" }]
+                },
+                {
+                    "slug": "q2",
+                    "name": "Open Qualifier #2",
+                    "duration": { "start": "2021-02-14", "end": "2021-02-14" },
+                    "links": [{ "name": "Esportal", "url": "https://esportal.com/en/tournament/1122/ambush-female-winter-cup-2/info" }],
+                    "brackets": [
+                        {
+                            "slug": "r1",
+                            "name": "Round of 16",
+                            "matches": [
+                                {
+                                    "id": 3,
+                                    "date": "2021-02-14",
+                                    "lineups": { "team1": { "shorthand": "nsc" }, "team2": { "name": "777 Femme" } },
+                                    "links": [{ "name": "Esportal", "url": "https://esportal.com/en/tournament/1122/ambush-female-winter-cup-2/match/2665788" }],
+                                    "maps": [{ "id": 1, "map": "d2", "result": "16:12" }]
+                                }
+                            ]
+                        },
+                        {
+                            "slug": "r2",
+                            "name": "Quarter-finals",
+                            "matches": [
+                                {
+                                    "id": 2,
+                                    "date": "2021-02-14",
+                                    "lineups": { "team1": { "shorthand": "nsc" }, "team2": { "name": "TeamSaiprah" } },
+                                    "links": [{ "name": "Esportal", "url": "https://esportal.com/en/tournament/1122/ambush-female-winter-cup-2/match/2666068" }],
+                                    "maps": [{ "id": 1, "map": "inf", "result": "7:16" }]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "slug": "q3",
+                    "name": "Open Qualifier #3",
+                    "duration": { "start": "2021-02-20", "end": "2021-02-20" },
+                    "links": [{ "name": "Esportal", "url": "https://esportal.com/en/tournament/1123/ambush-female-winter-cup-3/info" }],
+                    "brackets": [
+                        {
+                            "slug": "r1",
+                            "name": "Round of 16",
+                            "matches": [
+                                {
+                                    "id": 7,
+                                    "date": "2021-02-20",
+                                    "lineups": { "team1": { "name": "Fragbox Female" }, "team2": { "shorthand": "nsc" } },
+                                    "links": [{ "name": "Esportal", "url": "https://esportal.com/en/tournament/1123/ambush-female-winter-cup-3/match/2689234" }],
+                                    "maps": [{ "id": 1, "map": "inf", "result": "19:16" }]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

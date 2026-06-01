@@ -1,0 +1,9 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "beauvillain",
+    "nickname": "beauvillain",
+    "name": "Samantha Brito e Cunha",
+    "birthday": "1992-04-10",
+    "nationality": "pt"
+}

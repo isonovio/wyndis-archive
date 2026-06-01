@@ -2,5 +2,5 @@
     "$schema": "http://json-schema.org/draft-07/schema",
 
     "type": "string",
-    "enum": ["bg", "br", "ca", "de", "es", "fr", "gb", "ge", "il", "nl", "pl", "pt", "ro", "ru", "se", "ua"]
+    "enum": ["bg", "br", "ca", "de", "dk", "es", "fr", "gb", "ge", "il", "lv", "nl", "pl", "pt", "ro", "ru", "se", "ua"]
 }

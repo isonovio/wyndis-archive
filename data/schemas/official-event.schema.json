@@ -11,8 +11,16 @@
         "name": { "type": "string" },
         "duration": { "$ref": "daterange.schema.json" },
         "links": { "type": "array", "items": { "$ref": "extern-link.schema.json" } },
+        "tags": { "type": "array", "items": { "$ref": "#/$defs/tag" } },
         "participants": { "type": "array", "items": { "$ref": "official-lineup.schema.json#/$defs/shorthand" } },
         "brackets": { "type": "array", "items": { "$ref": "official-bracket.schema.json" } },
         "note": { "type": "string" }
+    },
+
+    "$defs": {
+        "tag": {
+            "type": "string",
+            "enum": ["impact"]
+        }
     }
 }

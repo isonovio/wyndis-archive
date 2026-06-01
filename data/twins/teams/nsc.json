@@ -1,5 +1,5 @@
 {
     "$schema": "../../schemas/team.schema.json",
-    "slug": "nip-impact",
-    "name": "NIP Impact"
+    "slug": "nsc",
+    "name": "New School Crew"
 }
