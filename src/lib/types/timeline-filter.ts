@@ -75,6 +75,14 @@ export class PlayerFilter implements EntryFilter {
     }
 }
 
+export class TeamFilter implements EntryFilter {
+    constructor(private teamSlug: string) {}
+
+    filter(e: Entry): boolean {
+        return e.related.teams.some((team) => team.slug === this.teamSlug);
+    }
+}
+
 export const filterFromParams = (params: URLSearchParams): EntryFilter => {
     const genres = params
         .getAll("genre")
@@ -86,6 +94,11 @@ export const filterFromParams = (params: URLSearchParams): EntryFilter => {
         .map((p) => p as string)
         .map((playerSlug) => new PlayerFilter(playerSlug));
     const playerFilter = new OrFilter(players);
+    const teams = params
+        .getAll("team")
+        .map((t) => t as string)
+        .map((teamSlug) => new TeamFilter(teamSlug));
+    const teamFilter = new OrFilter(teams);
     const from = params.get("from");
     const fromDateFilter = from
         ? new DateFromFilter(Temporal.PlainDate.from(from))
@@ -97,6 +110,7 @@ export const filterFromParams = (params: URLSearchParams): EntryFilter => {
     const filters = [
         genreFilter,
         playerFilter,
+        teamFilter,
         fromDateFilter,
         toDateFilter,
     ].filter((f) => f !== undefined);
@@ -115,6 +129,13 @@ export const paramsFilterHasPlayer = (
     playerSlug: string,
 ): boolean => {
     return params.getAll("player").includes(playerSlug);
+};
+
+export const paramsFilterHasTeam = (
+    params: URLSearchParams,
+    teamSlug: string,
+): boolean => {
+    return params.getAll("team").includes(teamSlug);
 };
 
 export const paramsFilterHasFromDate = (params: URLSearchParams): boolean => {

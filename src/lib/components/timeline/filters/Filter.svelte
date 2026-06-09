@@ -3,6 +3,7 @@
     import DateFilterBox from "./DateFilterBox.svelte";
     import GenreFilterBox from "./GenreFilterBox.svelte";
     import PlayerFilterBox from "./PlayerFilterBox.svelte";
+    import TeamFilterBox from "./TeamFilterBox.svelte";
 
     interface Props {
         params: URLSearchParams;
@@ -16,6 +17,7 @@
     function clearFilter(): void {
         params.delete("genre");
         params.delete("player");
+        params.delete("team");
         params.delete("from");
         params.delete("to");
         onUpdate();
@@ -30,4 +32,5 @@
 </div>
 <DateFilterBox {params} {onUpdate} />
 <GenreFilterBox {params} {timeline} {onUpdate} />
+<TeamFilterBox {params} {timeline} {onUpdate} />
 <PlayerFilterBox {params} {timeline} {onUpdate} />
