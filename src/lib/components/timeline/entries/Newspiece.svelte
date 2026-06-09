@@ -1,7 +1,7 @@
 <script lang="ts">
     import { type Newspiece } from "$lib/types/newspiece";
-    import LinkExternal from "$lib/components/snippets/LinkExternal.svelte";
-    import LinkPlayers from "$lib/components/snippets/LinkPlayers.svelte";
+    import LinkExternal from "$lib/components/timeline/links/LinkExternal.svelte";
+    import LinkPlayers from "$lib/components/timeline/links/LinkPlayers.svelte";
 
     export let newspiece: Newspiece;
 </script>

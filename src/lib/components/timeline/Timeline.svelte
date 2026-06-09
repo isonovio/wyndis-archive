@@ -17,8 +17,8 @@
     } from "$lib/types/timeline-filter";
     import { playerCompare, type Player } from "$lib/types/player";
 
-    import Match from "./Match.svelte";
-    import Newspiece from "./Newspiece.svelte";
+    import Match from "./entries/Match.svelte";
+    import Newspiece from "./entries/Newspiece.svelte";
 
     interface Props {
         prefilter?: EntryFilter;

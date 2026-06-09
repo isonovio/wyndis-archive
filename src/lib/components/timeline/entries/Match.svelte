@@ -1,8 +1,8 @@
 <script lang="ts">
     import { type Match } from "$lib/types/official-match";
-    import LinkExternal from "$lib/components/snippets/LinkExternal.svelte";
-    import LinkRewatch from "$lib/components/snippets/LinkRewatch.svelte";
-    import LinkPlayers from "$lib/components/snippets/LinkPlayers.svelte";
+    import LinkExternal from "$lib/components/timeline/links/LinkExternal.svelte";
+    import LinkRewatch from "$lib/components/timeline/links/LinkRewatch.svelte";
+    import LinkPlayers from "$lib/components/timeline/links/LinkPlayers.svelte";
     export let match: Match;
 </script>
 
