@@ -1,0 +1,56 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "esl-impact-cashcup-eu-2022-spring-4",
+    "name": "ESL Impact Cash Cup: Europe - Spring 2022 #4",
+    "duration": { "start": "2022-05-07", "end": "2022-05-08" },
+    "links": [
+        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/ESL/Impact_Cash_Cup/Europe/2022/Spring/4" },
+        { "name": "ESEA", "url": "https://play.esea.net/events/1438" },
+        { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=1438" },
+        { "name": "HLTV", "url": "https://www.hltv.org/events/6567/esl-impact-spring-2022-cash-cup-4-europe" }
+    ],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nsc", "lineup": { "roster": "nsc-2021-2" } }],
+    "brackets": [
+        {
+            "slug": "r2",
+            "name": "Round 2",
+            "matches": [
+                {
+                    "id": 5,
+                    "date": "2022-05-07",
+                    "lineups": { "team1": { "shorthand": "nsc" }, "team2": { "name": "rising from the ashes" } },
+                    "maps": [{ "id": 1, "map": "inf", "result": "16:13", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16909843" }] }]
+                }
+            ]
+        },
+        {
+            "slug": "r3",
+            "name": "Round 3",
+            "matches": [
+                {
+                    "id": 3,
+                    "date": "2022-05-07",
+                    "lineups": { "team1": { "shorthand": "nsc" }, "team2": { "name": "Entropiq Queens" } },
+                    "maps": [{ "id": 1, "map": "inf", "result": "16:12", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16909904" }] }]
+                }
+            ]
+        },
+        {
+            "slug": "r4",
+            "name": "Round 4",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2022-05-08",
+                    "lineups": { "team1": { "name": "nsc" }, "team2": { "name": "NAVI Javelins" } },
+                    "maps": [
+                        { "id": 1, "map": "d2", "result": "7:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16910354" }] },
+                        { "id": 2, "map": "nuke", "result": "14:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16910376" }] }
+                    ]
+                }
+            ]
+        }
+    ]
+}

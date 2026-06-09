@@ -1,0 +1,73 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "esea-fe-cashcup-eu-2022-winter-3",
+    "name": "ESEA Female Cash Cup: Europe - Winter 2022 #3",
+    "duration": { "start": "2022-02-12", "end": "2022-02-13" },
+    "links": [
+        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/ESEA/Cash_Cup/Female/Europe/2022/Winter/3" },
+        { "name": "ESEA", "url": "https://play.esea.net/events/1336" },
+        { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=1336" },
+        { "name": "HLTV", "url": "https://www.hltv.org/events/6406/esea-winter-2021-women-cash-cup-3-europe" }
+    ],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nsc", "lineup": { "roster": "nsc-2021-2" } }],
+    "brackets": [
+        {
+            "slug": "r2",
+            "name": "Round 2",
+            "matches": [
+                {
+                    "id": 6,
+                    "date": "2022-02-12",
+                    "lineups": { "team1": { "shorthand": "nsc" }, "team2": { "name": "AYM Esports" } },
+                    "maps": [{ "id": 1, "map": "inf", "result": "16:3", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16855876" }] }]
+                }
+            ]
+        },
+        {
+            "slug": "r3",
+            "name": "Round 3",
+            "matches": [
+                {
+                    "id": 3,
+                    "date": "2022-02-12",
+                    "lineups": { "team1": { "name": "Totalne Gituwy" }, "team2": { "shorthand": "nsc" } },
+                    "maps": [{ "id": 1, "map": "inf", "result": "13:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16855929" }] }]
+                }
+            ]
+        },
+        {
+            "slug": "r4",
+            "name": "Round 4",
+            "matches": [
+                {
+                    "id": 2,
+                    "date": "2022-02-13",
+                    "lineups": { "team1": { "shorthand": "nsc" }, "team2": { "name": "GODSENT" } },
+                    "maps": [
+                        { "id": 1, "map": "vtg", "result": "16:12", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16856482" }] },
+                        { "id": 2, "map": "anc", "result": "14:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16856502" }] },
+                        { "id": 3, "map": "ovp", "result": "16:2", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16856523" }] }
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "r5",
+            "name": "Round 5",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2022-02-13",
+                    "lineups": { "team1": { "name": "equipa" }, "team2": { "shorthand": "nsc" } },
+                    "links": [{ "name": "HLTV", "url": "https://www.hltv.org/matches/2354442/equipa-vs-nsc-esea-winter-2021-women-cash-cup-3-europe" }],
+                    "maps": [
+                        { "id": 1, "map": "inf", "result": "16:7", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16856545" }] },
+                        { "id": 2, "map": "ovp", "result": "16:9", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16856570" }] }
+                    ]
+                }
+            ]
+        }
+    ]
+}

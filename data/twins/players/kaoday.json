@@ -1,0 +1,17 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "kaoday",
+    "nickname": "Kaoday",
+    "name": "Coline Le Floc'h",
+    "birthday": "1997-04-26",
+    "nationality": "fr",
+    "links": [
+        { "name": "Twitter", "url": "https://x.com/notkaoday" },
+        { "name": "Instagram", "url": "https://www.instagram.com/notkaoday" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/Kaoday" },
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/thelizard666" },
+        { "name": "ESEA", "url": "https://play.esea.net/users/1901221" },
+        { "name": "Steam", "url": "https://steamcommunity.com/id/lizardo67676767/" }
+    ]
+}

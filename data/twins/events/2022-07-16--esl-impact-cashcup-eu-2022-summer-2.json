@@ -1,0 +1,72 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "esl-impact-cashcup-eu-2022-summer-2",
+    "name": "ESL Impact Cash Cup: Europe - Summer 2022 #2",
+    "duration": { "start": "2022-07-16", "end": "2022-07-17" },
+    "links": [
+        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/ESL/Impact_Cash_Cup/Europe/2022/Summer/2" },
+        { "name": "ESEA", "url": "https://play.esea.net/events/1626" },
+        { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=1626" },
+        { "name": "HLTV", "url": "https://www.hltv.org/events/6668/esl-impact-summer-2022-cash-cup-2-europe" }
+    ],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nsc", "lineup": { "roster": "nsc-2021-2" } }],
+    "brackets": [
+        {
+            "slug": "r2",
+            "name": "Round 2",
+            "matches": [
+                {
+                    "id": 8,
+                    "date": "2022-07-16",
+                    "lineups": { "team1": { "name": "REDraGEN Female" }, "team2": { "shorthand": "nsc" } },
+                    "maps": [{ "id": 1, "map": "nuke", "result": "2:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16944067" }] }]
+                }
+            ]
+        },
+        {
+            "slug": "r3",
+            "name": "Round 3",
+            "matches": [
+                {
+                    "id": 4,
+                    "date": "2022-07-16",
+                    "lineups": { "team1": { "name": "zlol" }, "team2": { "shorthand": "nsc" } },
+                    "maps": [{ "id": 1, "map": "d2", "result": "9:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16944097" }] }]
+                }
+            ]
+        },
+        {
+            "slug": "r4",
+            "name": "Round 4",
+            "matches": [
+                {
+                    "id": 2,
+                    "date": "2022-07-17",
+                    "lineups": { "team1": { "name": "NOFEAR5" }, "team2": { "shorthand": "nsc" } },
+                    "maps": [
+                        { "id": 1, "map": "ovp", "result": "8:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16944391" }] },
+                        { "id": 2, "map": "vtg", "result": "3:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16944400" }] }
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "r5",
+            "name": "Round 5",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2022-07-17",
+                    "lineups": { "team1": { "name": "MostValuablePlayers" }, "team2": { "shorthand": "nsc" } },
+                    "links": [{ "name": "HLTV", "url": "https://www.hltv.org/matches/2357429/mvp-vs-nsc-esl-impact-summer-2022-cash-cup-2-europe" }],
+                    "maps": [
+                        { "id": 1, "map": "vtg", "result": "3:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16944422" }] },
+                        { "id": 2, "map": "d2", "result": "1:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16944434" }] }
+                    ]
+                }
+            ]
+        }
+    ]
+}

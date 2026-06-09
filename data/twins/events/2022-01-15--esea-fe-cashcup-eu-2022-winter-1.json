@@ -1,0 +1,41 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "esea-fe-cashcup-eu-2022-winter-1",
+    "name": "ESEA Female Cash Cup: Europe - Winter 2022 #1",
+    "duration": { "start": "2022-01-15", "end": "2022-01-16" },
+    "links": [
+        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/ESEA/Cash_Cup/Female/Europe/2022/Winter/1" },
+        { "name": "ESEA", "url": "https://play.esea.net/events/1297" },
+        { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=1297" },
+        { "name": "HLTV", "url": "https://www.hltv.org/events/6356/esea-winter-2021-women-cash-cup-1-europe" }
+    ],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nsc", "lineup": { "roster": "nsc-2021-2" } }],
+    "brackets": [
+        {
+            "slug": "r1",
+            "name": "Round 1",
+            "matches": [
+                {
+                    "id": 4,
+                    "date": "2022-01-15",
+                    "lineups": { "team1": { "shorthand": "nsc" }, "team2": { "name": "proklyatie" } },
+                    "maps": [{ "id": 1, "map": "vtg", "result": "16:1", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16832960" }] }]
+                }
+            ]
+        },
+        {
+            "slug": "r2",
+            "name": "Round 2",
+            "matches": [
+                {
+                    "id": 6,
+                    "date": "2022-01-15",
+                    "lineups": { "team1": { "shorthand": "nsc" }, "team2": { "name": "equipa" } },
+                    "maps": [{ "id": 1, "map": "ovp", "result": "11:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16833022" }] }]
+                }
+            ]
+        }
+    ]
+}

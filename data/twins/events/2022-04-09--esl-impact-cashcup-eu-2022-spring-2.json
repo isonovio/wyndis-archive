@@ -1,0 +1,56 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "esl-impact-cashcup-eu-2022-spring-2",
+    "name": "ESL Impact Cash Cup: Europe - Spring 2022 #2",
+    "duration": { "start": "2022-04-09", "end": "2022-04-10" },
+    "links": [
+        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/ESL/Impact_Cash_Cup/Europe/2022/Spring/2" },
+        { "name": "ESEA", "url": "https://play.esea.net/events/1436" },
+        { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=1436" },
+        { "name": "HLTV", "url": "https://www.hltv.org/events/6521/esl-impact-spring-2022-cash-cup-2-europe" }
+    ],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nsc", "lineup": { "roster": "nsc-2021-2" } }],
+    "brackets": [
+        {
+            "slug": "r2",
+            "name": "Round 2",
+            "matches": [
+                {
+                    "id": 4,
+                    "date": "2022-04-09",
+                    "lineups": { "team1": { "name": "Sigma Mindset" }, "team2": { "shorthand": "nsc" } },
+                    "maps": [{ "id": 1, "map": "d2", "result": "8:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16890842" }] }]
+                }
+            ]
+        },
+        {
+            "slug": "r3",
+            "name": "Round 3",
+            "matches": [
+                {
+                    "id": 2,
+                    "date": "2022-04-09",
+                    "lineups": { "team1": { "name": "Entropiq Queens" }, "team2": { "shorthand": "nsc" } },
+                    "maps": [{ "id": 1, "map": "nuke", "result": "6:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16890931" }] }]
+                }
+            ]
+        },
+        {
+            "slug": "r4",
+            "name": "Round 4",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2022-04-10",
+                    "lineups": { "team1": { "name": "Nigma Galaxy" }, "team2": { "shorthand": "nsc" } },
+                    "maps": [
+                        { "id": 1, "map": "d2", "result": "19:17", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16891445" }] },
+                        { "id": 2, "map": "vtg", "result": "16:2", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16891469" }] }
+                    ]
+                }
+            ]
+        }
+    ]
+}

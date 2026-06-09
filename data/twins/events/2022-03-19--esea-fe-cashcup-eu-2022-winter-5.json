@@ -1,0 +1,73 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "esea-fe-cashcup-eu-2022-winter-5",
+    "name": "ESEA Female Cash Cup: Europe - Winter 2022 #5",
+    "duration": { "start": "2022-03-19", "end": "2022-03-20" },
+    "links": [
+        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/ESEA/Cash_Cup/Female/Europe/2022/Winter/5" },
+        { "name": "ESEA", "url": "https://play.esea.net/events/1375" },
+        { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=1375" },
+        { "name": "HLTV", "url": "https://www.hltv.org/events/6486/esl-impact-winter-2021-cash-cup-5-europe" }
+    ],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nsc", "lineup": { "roster": "nsc-2021-2" } }],
+    "brackets": [
+        {
+            "slug": "r2",
+            "name": "Round 2",
+            "matches": [
+                {
+                    "id": 8,
+                    "date": "2022-03-19",
+                    "lineups": { "team1": { "name": "Dark Lane fe" }, "team2": { "shorthand": "nsc" } },
+                    "maps": [{ "id": 1, "map": "inf", "result": "1:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16879143" }] }]
+                }
+            ]
+        },
+        {
+            "slug": "r3",
+            "name": "Round 3",
+            "matches": [
+                {
+                    "id": 4,
+                    "date": "2022-03-19",
+                    "lineups": { "team1": { "name": "Union Association" }, "team2": { "shorthand": "nsc" } },
+                    "maps": [{ "id": 1, "map": "vtg", "result": "14:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16879174" }] }]
+                }
+            ]
+        },
+        {
+            "slug": "r4",
+            "name": "Round 4",
+            "matches": [
+                {
+                    "id": 2,
+                    "date": "2022-03-20",
+                    "lineups": { "team1": { "name": "equipa" }, "team2": { "shorthand": "nsc" } },
+                    "maps": [
+                        { "id": 1, "map": "anc", "result": "7:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16879676" }] },
+                        { "id": 2, "map": "ovp", "result": "16:12", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16879696" }] },
+                        { "id": 3, "map": "inf", "result": "13:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16879715" }] }
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "r5",
+            "name": "Round 5",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2022-03-20",
+                    "lineups": { "team1": { "name": "Nigma Galaxy" }, "team2": { "shorthand": "nsc" } },
+                    "links": [{ "name": "HLTV", "url": "https://www.hltv.org/matches/2355268/galaxy-racer-fe-vs-nsc-esl-impact-winter-2021-cash-cup-5-europe" }],
+                    "maps": [
+                        { "id": 1, "map": "inf", "result": "16:7", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16879736" }] },
+                        { "id": 2, "map": "vtg", "result": "16:10", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16879767" }] }
+                    ]
+                }
+            ]
+        }
+    ]
+}

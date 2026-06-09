@@ -1,0 +1,72 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "esl-impact-cashcup-eu-2022-spring-6",
+    "name": "ESL Impact Cash Cup: Europe - Spring 2022 #6",
+    "duration": { "start": "2022-06-11", "end": "2022-06-12" },
+    "links": [
+        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/ESL/Impact_Cash_Cup/Europe/2022/Spring/6" },
+        { "name": "ESEA", "url": "https://play.esea.net/events/1623" },
+        { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=1623" },
+        { "name": "HLTV", "url": "https://www.hltv.org/events/6619/esl-impact-spring-2022-cash-cup-6-europe" }
+    ],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nsc", "lineup": { "roster": "nsc-2021-2" } }],
+    "brackets": [
+        {
+            "slug": "r2",
+            "name": "Round 2",
+            "matches": [
+                {
+                    "id": 8,
+                    "date": "2022-06-11",
+                    "lineups": { "team1": { "name": "Illusion" }, "team2": { "shorthand": "nsc" } },
+                    "maps": [{ "id": 1, "map": "nuke", "result": "8:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16930054" }] }]
+                }
+            ]
+        },
+        {
+            "slug": "r3",
+            "name": "Round 3",
+            "matches": [
+                {
+                    "id": 4,
+                    "date": "2022-06-11",
+                    "lineups": { "team1": { "name": "Insilio Female" }, "team2": { "shorthand": "nsc" } },
+                    "maps": [{ "id": 1, "map": "d2", "result": "10:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16930093" }] }]
+                }
+            ]
+        },
+        {
+            "slug": "r4",
+            "name": "Round 4",
+            "matches": [
+                {
+                    "id": 2,
+                    "date": "2022-06-12",
+                    "lineups": { "team1": { "name": "Ambush Esport Female" }, "team2": { "shorthand": "nsc" } },
+                    "maps": [
+                        { "id": 1, "map": "d2", "result": "2:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16930451" }] },
+                        { "id": 2, "map": "nuke", "result": "13:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16930468" }] }
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "r5",
+            "name": "Round 5",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2022-06-12",
+                    "lineups": { "team1": { "name": "NAVI Javelins" }, "team2": { "shorthand": "nsc" } },
+                    "links": [{ "name": "HLTV", "url": "https://www.hltv.org/matches/2356827/navi-javelins-vs-nsc-esl-impact-spring-2022-cash-cup-6-europe" }],
+                    "maps": [
+                        { "id": 1, "map": "inf", "result": "16:14", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16930514" }] },
+                        { "id": 2, "map": "nuke", "result": "16:8", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16930552" }] }
+                    ]
+                }
+            ]
+        }
+    ]
+}

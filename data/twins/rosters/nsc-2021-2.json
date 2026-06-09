@@ -1,0 +1,7 @@
+{
+    "$schema": "../../schemas/roster.schema.json",
+    "slug": "nsc-2021-2",
+    "team": "nsc",
+    "players": ["beauvillain", "kaoday", "nayomy", "oxycet", "qiyarah"],
+    "duration": { "start": "2021-10-16", "end": "2022-08-23" }
+}
