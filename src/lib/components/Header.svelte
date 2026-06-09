@@ -12,7 +12,7 @@
     @reference "$lib/styles/global.css";
 
     header {
-        @apply px-6 py-4;
+        @apply px-4 py-3;
         @apply flex justify-between;
     }
 
@@ -21,7 +21,7 @@
     }
 
     a {
-        @apply text-nowrap text-3xl font-medium font-sc text-prim-500;
+        @apply text-nowrap text-2xl font-medium font-sc text-prim-500;
     }
 
     a.home {

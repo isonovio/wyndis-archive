@@ -7,9 +7,10 @@
 </script>
 
 <div class="relative">
-    <div class="absolute -top-3.5 left-6 z-20 grid grid-cols-[172px_60px_auto] font-medium text-xl">
+    <div class="absolute -top-3 left-6 z-20 grid grid-cols-[193px_60px_auto] font-medium text-base">
         <div class="relative inline-block ml-auto pl-2 bg-white text-nowrap text-right team-name team-{match.outcomes[0]}">
-            {match.lineups[0].teamname}
+            <!-- {match.lineups[0].teamname} -->
+            CPH Flames Shieldmaidens
             <div class="absolute -bottom-2 right-0">
                 <LinkPlayers players={match.lineups[0].players} />
             </div>
@@ -27,7 +28,7 @@
     <div class="absolute -top-2.5 right-0 bg-white px-2 flex gap-1.5 text-sm">
         <div class="relative text-lime-600">
             {match.name}
-            <div class="absolute -bottom-3 right-0 flex gap-1.5 justify-end text-nowrap text-xs">
+            <div class="absolute -bottom-2.5 right-0 flex gap-1.5 justify-end text-nowrap text-xs">
                 {#each match.links as link}
                     <LinkExternal {link} />
                 {/each}
@@ -37,7 +38,7 @@
             <div>&lt;</div>
             <div class="relative text-yellow-600">
                 {bracket.name}
-                <div class="absolute -bottom-3 right-0 flex gap-1.5 justify-end text-nowrap text-xs">
+                <div class="absolute -bottom-2.5 right-0 flex gap-1.5 justify-end text-nowrap text-xs">
                     {#each bracket.links as link}
                         <LinkExternal {link} />
                     {/each}
@@ -47,7 +48,7 @@
         <div>&lt;</div>
         <div class="relative text-amber-600">
             {match.event.name}
-            <div class="absolute -bottom-3 right-0 flex gap-1.5 justify-end text-nowrap text-xs">
+            <div class="absolute -bottom-2.5 right-0 flex gap-1.5 justify-end text-nowrap text-xs">
                 {#each match.event.links as link}
                     <LinkExternal {link} />
                 {/each}
@@ -55,10 +56,10 @@
         </div>
     </div>
 
-    <div class="mt-4 pt-6 pb-2 pl-4 border-t border-l border-lime-700 text-sm">
+    <div class="mt-2 pt-4 pb-1 pl-4 border-t border-l border-lime-700 text-xs">
         <div>
             {#each match.maps as map}
-                <div class="flex justify-between border-b border-dashed border-gray-400">
+                <div class="pt-0.5 flex justify-between border-b border-dashed border-gray-400">
                     <div class="text-nowrap">
                         <span class="inline-block w-4 text-lime-950 font-light">
                             {map.id}
@@ -66,8 +67,9 @@
                         <span class="inline-block w-8 text-lime-950 font-medium">
                             {map.map}
                         </span>
-                        <span class="inline-block w-30 text-right team-name team-{map.outcomes[0]}">
-                            {match.lineups[0].teamname}
+                        <span class="inline-block w-36 text-right team-name team-{map.outcomes[0]}">
+                            <!-- {match.lineups[0].teamname} -->
+                            CPH Flames Shieldmaidens
                         </span>
                         <span class="inline-block w-6 text-right font-bold font-mono team-score team-{map.outcomes[0]}">
                             {map.results[0]}
@@ -76,11 +78,11 @@
                         <span class="inline-block w-6 font-bold font-mono team-score team-{map.outcomes[1]}">
                             {map.results[1]}
                         </span>
-                        <span class="inline-block w-30 team-name team-{map.outcomes[1]}">
+                        <span class="inline-block w-36 team-name team-{map.outcomes[1]}">
                             {match.lineups[1].teamname}
                         </span>
                     </div>
-                    <div class="flex justify-center items-end flex-wrap gap-x-4 text-xs">
+                    <div class="flex justify-center items-end flex-wrap gap-x-4">
                         {#if map.note}<div class="text-gray-500">{map.note}</div>{/if}
                         {#each map.links as link}
                             <LinkExternal {link} />
@@ -92,7 +94,7 @@
                 </div>
             {/each}
             {#if match.note}
-                <div class="pt-1 text-gray-500 text-sm">
+                <div class="pt-1 text-gray-500 text-xs">
                     {match.note}
                 </div>
             {/if}
