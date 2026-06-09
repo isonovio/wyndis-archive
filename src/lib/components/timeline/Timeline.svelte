@@ -27,7 +27,7 @@
 </script>
 
 <div class="w-7xl mx-auto flex gap-4">
-    <div class="sticky top-0 max-h-screen pt-10 flex flex-col gap-4">
+    <div class="sticky top-0 max-h-screen overflow-y-auto py-10 flex flex-col gap-4">
         <Filter {params} timeline={prefilteredTimeline} onUpdate={refreshParams} />
     </div>
 
