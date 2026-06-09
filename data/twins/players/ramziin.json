@@ -1,0 +1,21 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "ramziin",
+    "nickname": "ramziiN",
+    "name": "Anna Ramsing",
+    "birthday": "2003-05-04",
+    "nationality": "dk",
+    "links": [
+        { "name": "ESEA", "url": "https://play.esea.net/users/2466593" },
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/ramziiN" },
+        { "name": "HLTV", "url": "https://www.hltv.org/player/22095/ramziin" },
+        { "name": "Instagram", "url": "https://www.instagram.com/anna_ramsing" },
+        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/RamziiN" },
+        { "name": "Steam", "url": "https://steamcommunity.com/profiles/76561198382620143" },
+        { "name": "TikTok", "url": "https://www.tiktok.com/@aramziin" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/annatrold0307" },
+        { "name": "Twitter", "url": "https://x.com/ramziiNCS" },
+        { "name": "YouTube", "url": "https://www.youtube.com/@ramziiNxo" }
+    ]
+}

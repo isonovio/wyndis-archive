@@ -5,5 +5,10 @@
     "nickname": "Ann4",
     "name": "Anna Laurinoviča",
     "birthday": "2002-09-27",
-    "nationality": "lv"
+    "nationality": "lv",
+    "links": [
+        { "name": "HLTV", "url": "https://www.hltv.org/player/22104/ann4" },
+        { "name": "Instagram", "url": "https://www.instagram.com/laurinovica" },
+        { "name": "Twitter", "url": "https://x.com/Ann4CSGO" }
+    ]
 }

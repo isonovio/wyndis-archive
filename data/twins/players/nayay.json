@@ -1,0 +1,13 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "nayay",
+    "nickname": "nayay",
+    "name": "Naja Block Bach",
+    "birthday": "1998-08-27",
+    "nationality": "dk",
+    "links": [
+        { "name": "HLTV", "url": "https://www.hltv.org/player/22651/nayay" },
+        { "name": "Twitter", "url": "https://x.com/nayaycs" }
+    ]
+}

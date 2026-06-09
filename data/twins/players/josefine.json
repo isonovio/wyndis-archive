@@ -1,0 +1,14 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "josefine",
+    "nickname": "Josefine",
+    "name": "Josefine Jensen",
+    "birthday": "2003-05-04",
+    "nationality": "dk",
+    "links": [
+        { "name": "HLTV", "url": "https://www.hltv.org/player/22094/josefine" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/josefinecs" },
+        { "name": "Twitter", "url": "https://x.com/JosefineCSGO" }
+    ]
+}

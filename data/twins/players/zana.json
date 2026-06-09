@@ -2,9 +2,21 @@
     "$schema": "../../schemas/player.schema.json",
 
     "slug": "zana",
-    "nickname": "Zana",
+    "nickname": "Zana-th",
     "name": "Ana Sofia Queiroz Marques",
     "birthday": "2001-07-26",
     "nationality": "pt",
-    "tags": ["ninja"]
+    "tags": ["ninja"],
+    "links": [
+        { "name": "ESEA", "url": "https://play.esea.net/users/1639930" },
+        { "name": "Facebook", "url": "https://www.facebook.com/zanasofs" },
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/ZAna-th" },
+        { "name": "HLTV", "url": "https://www.hltv.org/player/16764/zana" },
+        { "name": "Instagram", "url": "https://www.instagram.com/zanacs2" },
+        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/Zana" },
+        { "name": "Steam", "url": "https://steamcommunity.com/id/zana_th/" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/zanacs2" },
+        { "name": "Twitter", "url": "https://x.com/zanaCS2" },
+        { "name": "YouTube", "url": "https://www.youtube.com/ZanaSofs" }
+    ]
 }

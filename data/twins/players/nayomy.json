@@ -6,5 +6,17 @@
     "name": "Naomi Janssen",
     "birthday": "2003-11-05",
     "nationality": "nl",
-    "tags": ["twin", "ninja"]
+    "tags": ["twin", "ninja"],
+    "links": [
+        { "name": "ESEA", "url": "https://play.esea.net/users/1870921" },
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/Nayomy" },
+        { "name": "HLTV", "url": "https://www.hltv.org/player/21798/nayomy" },
+        { "name": "Instagram", "url": "https://www.instagram.com/nayomy.cs" },
+        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/Nayomy" },
+        { "name": "Steam", "url": "https://steamcommunity.com/id/Nayomy/" },
+        { "name": "TikTok", "url": "https://www.tiktok.com/@nayomy.cs" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/Nayomy_cs" },
+        { "name": "Twitter", "url": "https://x.com/Nayomy_cs" },
+        { "name": "YouTube", "url": "https://www.youtube.com/@Nayomy" }
+    ]
 }

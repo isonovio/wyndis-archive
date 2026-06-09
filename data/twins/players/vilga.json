@@ -6,5 +6,17 @@
     "name": "Ксения Клюенкова",
     "birthday": "1991-08-03",
     "nationality": "ru",
-    "tags": ["ninja"]
+    "tags": ["ninja"],
+    "links": [
+        { "name": "ESEA", "url": "https://play.esea.net/users/594610" },
+        { "name": "Facebook", "url": "https://www.facebook.com/vilgaCSGO" },
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/vilga" },
+        { "name": "HLTV", "url": "https://www.hltv.org/player/1572/vilga" },
+        { "name": "Instagram", "url": "https://www.instagram.com/vilgaCS" },
+        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/Vilga" },
+        { "name": "Steam", "url": "https://steamcommunity.com/id/vilgaCS/" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/vilga" },
+        { "name": "Twitter", "url": "https://x.com/vilgacs" },
+        { "name": "VK", "url": "https://vk.com/vilgacs" }
+    ]
 }

@@ -6,5 +6,8 @@
     "name": "Tude Gürsoy",
     "birthday": "1999-10-09",
     "nationality": "tr",
-    "links": [{ "name": "Twitter", "url": "https://x.com/oxycetcsgo" }]
+    "links": [
+        { "name": "HLTV", "url": "https://www.hltv.org/player/21795/oxycet" },
+        { "name": "Twitter", "url": "https://x.com/oxycetcsgo" }
+    ]
 }

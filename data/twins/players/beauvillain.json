@@ -2,8 +2,12 @@
     "$schema": "../../schemas/player.schema.json",
 
     "slug": "beauvillain",
-    "nickname": "beauvillain",
+    "nickname": "Beauvillain",
     "name": "Samantha Brito e Cunha",
     "birthday": "1992-04-10",
-    "nationality": "pt"
+    "nationality": "pt",
+    "links": [
+        { "name": "HLTV", "url": "https://www.hltv.org/player/21797/beauvillain" },
+        { "name": "Twitter", "url": "https://x.com/beaucsgo" }
+    ]
 }
