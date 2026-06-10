@@ -5,7 +5,7 @@
     "duration": { "start": "2026-04-09", "end": "2026-06-09" },
     "links": [
         { "name": "Rules", "url": "https://drive.google.com/file/d/1wkrDHUMRMCJyugCJ5W0xoN-jojwD2M4V/view" },
-        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/Athena_League/Season_1" }
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/Athena_League/Season_1" }
     ],
     "participants": [
         { "shorthand": "lhc", "lineup": { "roster": "let-her-cook-2026-1" } },

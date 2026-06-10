@@ -59,7 +59,7 @@ export const matchFromRaw = (raw: MatchRaw, ctx: MatchContext): Match => {
     const name =
         ctx.brackets.length > 0 && ctx.brackets.at(-1)?.isTransparent
             ? ctx.brackets.at(-1)!.name
-            : `Match ${raw.id}`;
+            : `M${raw.id}`;
 
     const related: Related = {
         players: [...lineups[0].players, ...lineups[1].players],

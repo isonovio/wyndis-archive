@@ -1,0 +1,70 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "esl-impact-cashcup-eu-2022-autumn-5",
+    "name": "ESL Impact Cash Cup: Europe - Autumn 2022 #5",
+    "duration": { "start": "2022-12-03", "end": "2022-12-04" },
+    "links": [
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_Cash_Cup/Europe/2022/Autumn/5" },
+        { "name": "ESEA", "url": "https://play.esea.net/events/2084" },
+        { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=2084" }
+    ],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "cfs", "lineup": { "roster": "cfs-2022-2" } }],
+    "brackets": [
+        {
+            "slug": "r1",
+            "name": "R1",
+            "matches": [
+                {
+                    "id": 4,
+                    "date": "2022-12-03",
+                    "lineups": { "team1": { "shorthand": "cfs" }, "team2": { "name": "VisAVis" } },
+                    "maps": [{ "id": 1, "map": "anc", "result": "16:5", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/17006482" }] }]
+                }
+            ]
+        },
+        {
+            "slug": "r2",
+            "name": "R2",
+            "matches": [
+                {
+                    "id": 2,
+                    "date": "2022-12-03",
+                    "lineups": { "team1": { "name": "Clown5" }, "team2": { "shorthand": "cfs" } },
+                    "maps": [{ "id": 1, "map": "ovp", "result": "4:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/17006596" }] }]
+                }
+            ]
+        },
+        {
+            "slug": "r3",
+            "name": "R3",
+            "matches": [
+                {
+                    "id": 2,
+                    "date": "2022-12-03",
+                    "lineups": { "team1": { "name": "9Pandas Fearless" }, "team2": { "shorthand": "cfs" } },
+                    "maps": [
+                        { "id": 1, "map": "vtg", "result": "6:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/17006617" }] },
+                        { "id": 2, "map": "anc", "result": "3:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/17006636" }] }
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "r4",
+            "name": "R4",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2022-12-04",
+                    "lineups": { "team1": { "shorthand": "cfs" }, "team2": { "name": "shinigami" } },
+                    "maps": [
+                        { "id": 1, "map": "ovp", "result": "16:12", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/17006774" }] },
+                        { "id": 2, "map": "anc", "result": "16:12", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/17006794" }] }
+                    ]
+                }
+            ]
+        }
+    ]
+}

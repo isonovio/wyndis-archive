@@ -1,0 +1,60 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "esl-impact-cashcup-eu-2022-autumn-4",
+    "name": "ESL Impact Cash Cup: Europe - Autumn 2022 #4",
+    "duration": { "start": "2022-11-26", "end": "2022-11-27" },
+    "links": [
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_Cash_Cup/Europe/2022/Autumn/4" },
+        { "name": "ESEA", "url": "https://play.esea.net/events/2083" },
+        { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=2083" },
+        { "name": "HLTV", "url": "https://www.hltv.org/events/6913/esl-impact-autumn-2022-cash-cup-4-europe" }
+    ],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "cfs", "lineup": { "roster": "cfs-2022-2" } }],
+    "brackets": [
+        {
+            "slug": "r2",
+            "name": "R2",
+            "matches": [
+                {
+                    "id": 4,
+                    "date": "2022-11-26",
+                    "lineups": { "team1": { "name": "shinigami" }, "team2": { "shorthand": "cfs" } },
+                    "maps": [{ "id": 1, "map": "ovp", "result": "16:19", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/17005500" }] }]
+                }
+            ]
+        },
+        {
+            "slug": "r3",
+            "name": "R3",
+            "matches": [
+                {
+                    "id": 2,
+                    "date": "2022-11-26",
+                    "lineups": { "team1": { "name": "FIFTY FIVE POWER" }, "team2": { "shorthand": "cfs" } },
+                    "maps": [
+                        { "id": 1, "map": "vtg", "result": "8:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/17005521" }] },
+                        { "id": 2, "map": "ovp", "result": "11:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/17005535" }] }
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "r4",
+            "name": "R4",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2022-11-27",
+                    "lineups": { "team1": { "name": "NAVI Javelins" }, "team2": { "shorthand": "cfs" } },
+                    "links": [{ "name": "HLTV", "url": "https://www.hltv.org/matches/2360356/navi-javelins-vs-flames-shieldmaidens-esl-impact-autumn-2022-cash-cup-4-europe" }],
+                    "maps": [
+                        { "id": 1, "map": "vtg", "result": "16:11", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/17005724" }] },
+                        { "id": 2, "map": "anc", "result": "22:19", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/17005736" }] }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -5,7 +5,7 @@
     "name": "CCT Season 3 Europe Series 15",
     "duration": { "start": "2026-02-08", "end": "2026-02-20" },
     "links": [
-        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/CCT/Season_3/Europe/Series_15" },
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/CCT/Season_3/Europe/Series_15" },
         { "name": "Rules", "url": "https://drive.google.com/file/d/1jwjc4U7bnwICaWGCoGTtlafeACh060Vy/edit" }
     ],
     "participants": [{ "shorthand": "big", "lineup": { "roster": "big-equipa-2026-1" } }],

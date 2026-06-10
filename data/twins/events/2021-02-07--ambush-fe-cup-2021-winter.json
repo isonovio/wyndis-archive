@@ -4,7 +4,7 @@
     "slug": "ambush-fe-cup-2021-winter",
     "name": "Ambush Female Winter Cup",
     "duration": { "start": "2021-02-07", "end": "2021-02-28" },
-    "links": [{ "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/Ambush_Female_Cup/2021/Winter" }],
+    "links": [{ "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/Ambush_Female_Cup/2021/Winter" }],
     "tags": ["impact"],
     "participants": [{ "shorthand": "nsc", "lineup": { "roster": "nsc-2021-1" } }],
     "brackets": [
@@ -26,8 +26,8 @@
                     "links": [{ "name": "Esportal", "url": "https://esportal.com/en/tournament/1122/ambush-female-winter-cup-2/info" }],
                     "brackets": [
                         {
-                            "slug": "r1",
-                            "name": "Round of 16",
+                            "slug": "r2",
+                            "name": "R2",
                             "matches": [
                                 {
                                     "id": 3,
@@ -39,8 +39,8 @@
                             ]
                         },
                         {
-                            "slug": "r2",
-                            "name": "Quarter-finals",
+                            "slug": "r3",
+                            "name": "R3",
                             "matches": [
                                 {
                                     "id": 2,
@@ -60,8 +60,8 @@
                     "links": [{ "name": "Esportal", "url": "https://esportal.com/en/tournament/1123/ambush-female-winter-cup-3/info" }],
                     "brackets": [
                         {
-                            "slug": "r1",
-                            "name": "Round of 16",
+                            "slug": "r2",
+                            "name": "R2",
                             "matches": [
                                 {
                                     "id": 7,

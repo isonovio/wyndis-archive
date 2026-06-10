@@ -1,0 +1,21 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "jenkon",
+    "nickname": "jenkon",
+    "name": "Jennica Sjögren",
+    "birthday": "1998-02-28",
+    "nationality": "se",
+    "links": [
+        { "name": "ESEA", "url": "https://play.esea.net/users/1287926" },
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/jenboob" },
+        { "name": "HLTV", "url": "https://www.hltv.org/player/18783/jenkon" },
+        { "name": "Instagram", "url": "https://www.instagram.com/jenkonlol" },
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/Jenkon" },
+        { "name": "Steam", "url": "https://steamcommunity.com/id/jenkonlol/" },
+        { "name": "TikTok", "url": "https://www.tiktok.com/@j3nkon" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/jenkoon" },
+        { "name": "Twitter", "url": "https://x.com/jenkoncs" },
+        { "name": "YouTube", "url": "https://www.youtube.com/@jenkonlol" }
+    ]
+}

@@ -5,7 +5,7 @@
     "name": "ESL Impact Cash Cup: Europe - Summer 2022 #1",
     "duration": { "start": "2022-06-25", "end": "2022-06-26" },
     "links": [
-        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/ESL/Impact_Cash_Cup/Europe/2022/Summer/1" },
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_Cash_Cup/Europe/2022/Summer/1" },
         { "name": "ESEA", "url": "https://play.esea.net/events/1624" },
         { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=1624" },
         { "name": "HLTV", "url": "https://www.hltv.org/events/6635/esl-impact-summer-2022-cash-cup-1-europe" }
@@ -15,7 +15,7 @@
     "brackets": [
         {
             "slug": "r1",
-            "name": "Round 1",
+            "name": "R1",
             "matches": [
                 {
                     "id": 1,
@@ -27,7 +27,7 @@
         },
         {
             "slug": "r2",
-            "name": "Round 2",
+            "name": "R2",
             "matches": [
                 {
                     "id": 1,
@@ -39,7 +39,7 @@
         },
         {
             "slug": "r3",
-            "name": "Round 3",
+            "name": "R3",
             "matches": [
                 {
                     "id": 1,

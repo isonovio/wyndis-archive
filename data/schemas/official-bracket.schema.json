@@ -19,7 +19,7 @@
     "$defs": {
         "tag": {
             "type": "string",
-            "enum": ["transparent"]
+            "enum": ["transparent", "lan"]
         }
     }
 }

@@ -7,7 +7,7 @@
     "links": [
         { "name": "Ferjee", "url": "https://www.ferjee.org/en/events/6cfe22c9-4c3a-4b75-b149-0d1ae5e4450c" },
         { "name": "Rules", "url": "https://docs.google.com/document/d/1vs6ixM6wXFQkC732NyXThgxK4hPuUBAkJAkNN3iHW9g/edit" },
-        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/FERJEE/Rainhas_do_Clutch/2026" }
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/FERJEE/Rainhas_do_Clutch/2026" }
     ],
     "participants": [{ "shorthand": "zen", "lineup": { "roster": "zen-2026-1" } }],
     "brackets": [
@@ -16,7 +16,7 @@
             "name": "Qualifiers",
             "tags": ["transparent"],
             "links": [
-                { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/FERJEE/Rainhas_do_Clutch/2026/Europe" },
+                { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/FERJEE/Rainhas_do_Clutch/2026/Europe" },
                 { "name": "Faceit", "url": "https://www.faceit.com/en/championship/6e278785-4881-4a42-9b25-1f927050412b" }
             ],
             "brackets": [

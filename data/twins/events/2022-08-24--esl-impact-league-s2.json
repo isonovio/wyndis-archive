@@ -1,0 +1,116 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "esl-impact-league-s2",
+    "name": "ESL Impact League Season 2",
+    "duration": { "start": "2022-08-24", "end": "2022-11-27" },
+    "links": [
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_2" },
+        { "name": "ESL", "url": "https://pro.eslgaming.com/csgo/impact/season2/" },
+        { "name": "Rules", "url": "https://drive.google.com/drive/folders/1T6wVEKOXslH_j3B_By_L69pF2s2eqJWd" }
+    ],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "cfs", "lineup": { "roster": "cfs-2022-2" } }],
+    "brackets": [
+        {
+            "slug": "s1",
+            "name": "Regular Season",
+            "tags": ["transparent"],
+            "brackets": [
+                {
+                    "slug": "d1eu",
+                    "name": "Europe",
+                    "links": [{ "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_2/Europe" }],
+                    "brackets": [
+                        {
+                            "slug": "s1",
+                            "name": "Qualifiers",
+                            "tags": ["transparent"],
+                            "brackets": [
+                                {
+                                    "slug": "q1",
+                                    "name": "Open Qualifier #1",
+                                    "links": [
+                                        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_2/Europe/Qualifier/1" },
+                                        { "name": "ESEA", "url": "https://play.esea.net/events/1790" },
+                                        { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=1790" }
+                                    ],
+                                    "brackets": [
+                                        {
+                                            "slug": "r2",
+                                            "name": "R2",
+                                            "matches": [
+                                                {
+                                                    "id": 8,
+                                                    "date": "2022-08-24",
+                                                    "lineups": { "team1": { "name": "Venary Female" }, "team2": { "shorthand": "cfs" } },
+                                                    "maps": [
+                                                        { "id": 1, "map": "ovp", "result": "1:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16965210" }] }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "slug": "r3",
+                                            "name": "R3",
+                                            "matches": [
+                                                {
+                                                    "id": 4,
+                                                    "date": "2022-08-24",
+                                                    "lineups": { "team1": { "name": "Clown5" }, "team2": { "shorthand": "cfs" } },
+                                                    "maps": [
+                                                        { "id": 1, "map": "nuke", "result": "10:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16965477" }] }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "slug": "r4",
+                                            "name": "R4",
+                                            "matches": [
+                                                {
+                                                    "id": 2,
+                                                    "date": "2022-08-25",
+                                                    "lineups": { "team1": { "name": "SUL CLAN" }, "team2": { "shorthand": "cfs" } },
+                                                    "maps": [
+                                                        { "id": 1, "map": "mrg", "result": "16:14", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16965962" }] },
+                                                        { "id": 2, "map": "vtg", "result": "12:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16966156" }] },
+                                                        { "id": 3, "map": "ovp", "result": "16:8", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16966171" }] }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "slug": "q2",
+                                    "name": "Open Qualifier #2",
+                                    "links": [
+                                        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_2/Europe/Qualifier/2" },
+                                        { "name": "ESEA", "url": "https://play.esea.net/events/1791" },
+                                        { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=1791" }
+                                    ],
+                                    "brackets": [
+                                        {
+                                            "slug": "r2",
+                                            "name": "R2",
+                                            "matches": [
+                                                {
+                                                    "id": 8,
+                                                    "date": "2022-08-27",
+                                                    "lineups": { "team1": { "name": "HIPER JELONKI" }, "team2": { "shorthand": "cfs" } },
+                                                    "maps": [],
+                                                    "note": "CPH Flames Shieldmaidens forfeited the match."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

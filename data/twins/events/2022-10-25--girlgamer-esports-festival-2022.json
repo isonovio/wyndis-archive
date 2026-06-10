@@ -1,0 +1,162 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "girlgamer-esports-festival-2022",
+    "name": "GIRLGAMER Esports Festival 2022",
+    "duration": { "start": "2022-10-25", "end": "2023-03-18" },
+    "links": [{ "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/GIRLGAMER_Esports_Festival/2022" }],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "cfs", "lineup": { "roster": "cfs-2022-2" } }],
+    "brackets": [
+        {
+            "slug": "s1",
+            "name": "Regular Season",
+            "tags": ["transparent"],
+            "brackets": [
+                {
+                    "slug": "d1",
+                    "name": "Ceuta",
+                    "links": [{ "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/GIRLGAMER_Esports_Festival/2022/Ceuta" }],
+                    "brackets": [
+                        {
+                            "slug": "s1",
+                            "name": "Qualifiers",
+                            "tags": ["transparent"],
+                            "brackets": [
+                                {
+                                    "slug": "q1",
+                                    "name": "Open Qualifier #1",
+                                    "links": [
+                                        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/GIRLGAMER_Esports_Festival/2022/Ceuta/Qualifier/1" },
+                                        { "name": "ESEA", "url": "https://play.esea.net/events/2048" },
+                                        { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=2048" }
+                                    ],
+                                    "brackets": [
+                                        {
+                                            "slug": "r2",
+                                            "name": "R2",
+                                            "matches": [
+                                                {
+                                                    "id": 3,
+                                                    "date": "2022-10-25",
+                                                    "lineups": { "team1": { "shorthand": "cfs" }, "team2": { "name": "Flawless" } },
+                                                    "maps": [
+                                                        { "id": 1, "map": "ovp", "result": "10:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16990413" }] }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "slug": "q2",
+                                    "name": "Open Qualifier #2",
+                                    "links": [
+                                        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/GIRLGAMER_Esports_Festival/2022/Ceuta/Qualifier/2" },
+                                        { "name": "ESEA", "url": "https://play.esea.net/events/2049" },
+                                        { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=2049" }
+                                    ],
+                                    "brackets": [
+                                        {
+                                            "slug": "r2",
+                                            "name": "R2",
+                                            "matches": [
+                                                {
+                                                    "id": 5,
+                                                    "date": "2022-10-27",
+                                                    "lineups": { "team1": { "shorthand": "cfs" }, "team2": { "name": "GirlGamers" } },
+                                                    "maps": [
+                                                        { "id": 1, "map": "ovp", "result": "16:8", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16991665" }] }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "slug": "r3",
+                                            "name": "R3",
+                                            "matches": [
+                                                {
+                                                    "id": 3,
+                                                    "date": "2022-10-27",
+                                                    "lineups": { "team1": { "shorthand": "cfs" }, "team2": { "name": "Clown5" } },
+                                                    "maps": [
+                                                        { "id": 1, "map": "ovp", "result": "16:13", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16991701" }] }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "slug": "r4",
+                                            "name": "R4",
+                                            "matches": [
+                                                {
+                                                    "id": 2,
+                                                    "date": "2022-10-28",
+                                                    "lineups": { "team1": { "shorthand": "cfs" }, "team2": { "name": "Flawless" } },
+                                                    "maps": [
+                                                        { "id": 1, "map": "ovp", "result": "16:1", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16992139" }] },
+                                                        { "id": 2, "map": "vtg", "result": "12:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16992144" }] },
+                                                        { "id": 3, "map": "d2", "result": "16:11", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16992150" }] }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "slug": "r5",
+                                            "name": "R5",
+                                            "matches": [
+                                                {
+                                                    "id": 1,
+                                                    "date": "2022-10-28",
+                                                    "lineups": { "team1": { "name": "NOFEAR5" }, "team2": { "shorthand": "cfs" } },
+                                                    "maps": [
+                                                        { "id": 1, "map": "vtg", "result": "16:14", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16992166" }] }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "slug": "s2",
+                            "name": "Main Event",
+                            "tags": ["transparent", "lan"],
+                            "brackets": [
+                                {
+                                    "slug": "r1b1",
+                                    "name": "Upper Semifinals",
+                                    "matches": [
+                                        {
+                                            "id": 1,
+                                            "date": "2022-11-17",
+                                            "lineups": { "team1": { "name": "NAVI Javelins" }, "team2": { "shorthand": "cfs" } },
+                                            "maps": [{ "id": 1, "map": "d2", "result": "16:11" }]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "slug": "r1b1",
+                                    "name": "Lower Semifinal",
+                                    "tags": ["transparent"],
+                                    "matches": [
+                                        {
+                                            "id": 1,
+                                            "date": "2022-11-17",
+                                            "lineups": { "team1": { "shorthand": "cfs" }, "team2": { "name": "9Pandas Fearless" } },
+                                            "maps": [
+                                                { "id": 1, "map": "ovp", "result": "14:16" },
+                                                { "id": 2, "map": "d2", "result": "4:16" }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

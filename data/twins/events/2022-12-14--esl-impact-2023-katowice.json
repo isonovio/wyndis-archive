@@ -1,0 +1,113 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "esl-impact-2023-katowice",
+    "name": "ESL Impact Katowice 2023",
+    "duration": { "start": "2022-12-14", "end": "2023-02-12" },
+    "links": [
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact/2023/Katowice" },
+        { "name": "ESL", "url": "https://pro.eslgaming.com/csgo/impact/katowice/" },
+        { "name": "Rules", "url": "https://drive.google.com/drive/folders/1T6wVEKOXslH_j3B_By_L69pF2s2eqJWd" }
+    ],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "cfs", "lineup": { "roster": "cfs-2022-2" } }],
+    "brackets": [
+        {
+            "slug": "s1",
+            "name": "Qualifiers",
+            "tags": ["transparent"],
+            "brackets": [
+                {
+                    "slug": "d1eu",
+                    "name": "Europe",
+                    "brackets": [
+                        {
+                            "slug": "q1",
+                            "name": "Qualifier #1",
+                            "links": [
+                                { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact/2023/Katowice/Europe/1" },
+                                { "name": "ESEA", "url": "https://play.esea.net/events/2096" },
+                                { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=2096" },
+                                { "name": "HLTV", "url": "https://www.hltv.org/events/6946/esl-impact-katowice-2023-europe-open-qualifier-1" }
+                            ],
+                            "brackets": [
+                                {
+                                    "slug": "r1",
+                                    "name": "R1",
+                                    "matches": [
+                                        {
+                                            "id": 9,
+                                            "date": "2022-12-14",
+                                            "lineups": { "team1": { "shorthand": "cfs" }, "team2": { "name": "XI Fe Gamerpay" } },
+                                            "maps": [{ "id": 1, "map": "anc", "result": "16:5", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/17010648" }] }]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "slug": "r2",
+                                    "name": "R2",
+                                    "matches": [
+                                        {
+                                            "id": 6,
+                                            "date": "2022-12-14",
+                                            "lineups": { "team1": { "name": "FIFTY FIVE POWER" }, "team2": { "shorthand": "cfs" } },
+                                            "maps": [{ "id": 1, "map": "ovp", "result": "19:22", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/17010683" }] }]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "slug": "r3",
+                                    "name": "R3",
+                                    "matches": [
+                                        {
+                                            "id": 4,
+                                            "date": "2022-12-14",
+                                            "lineups": { "team1": { "name": "Astralis W" }, "team2": { "shorthand": "cfs" } },
+                                            "maps": [{ "id": 1, "map": "ovp", "result": "16:6", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/17010716" }] }]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "slug": "q2",
+                            "name": "Qualifier #2",
+                            "links": [
+                                { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact/2023/Katowice/Europe/2" },
+                                { "name": "ESEA", "url": "https://play.esea.net/events/2160" },
+                                { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=2160" },
+                                { "name": "HLTV", "url": "https://www.hltv.org/events/6950/esl-impact-katowice-2023-europe-open-qualifier-2" }
+                            ],
+                            "brackets": [
+                                {
+                                    "slug": "r2",
+                                    "name": "R2",
+                                    "matches": [
+                                        {
+                                            "id": 4,
+                                            "date": "2022-12-17",
+                                            "lineups": { "team1": { "name": "ASTRONUTS" }, "team2": { "shorthand": "cfs" } },
+                                            "maps": [{ "id": 1, "map": "anc", "result": "14:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/17011418" }] }]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "slug": "r3",
+                                    "name": "R3",
+                                    "matches": [
+                                        {
+                                            "id": 4,
+                                            "date": "2022-12-17",
+                                            "lineups": { "team1": { "team": "nipi" }, "team2": { "shorthand": "cfs" } },
+                                            "maps": [{ "id": 1, "map": "ovp", "result": "19:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/17011428" }] }]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

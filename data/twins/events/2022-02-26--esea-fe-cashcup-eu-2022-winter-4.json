@@ -5,7 +5,7 @@
     "name": "ESEA Female Cash Cup: Europe - Winter 2022 #4",
     "duration": { "start": "2022-02-26", "end": "2022-02-27" },
     "links": [
-        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/ESEA/Cash_Cup/Female/Europe/2022/Winter/4" },
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESEA/Cash_Cup/Female/Europe/2022/Winter/4" },
         { "name": "ESEA", "url": "https://play.esea.net/events/1337" },
         { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=1337" },
         { "name": "HLTV", "url": "https://www.hltv.org/events/6439/esea-winter-2021-women-cash-cup-4-europe" }
@@ -15,7 +15,7 @@
     "brackets": [
         {
             "slug": "r2",
-            "name": "Round 2",
+            "name": "R2",
             "matches": [
                 {
                     "id": 4,
@@ -27,7 +27,7 @@
         },
         {
             "slug": "r3",
-            "name": "Round 3",
+            "name": "R3",
             "matches": [
                 {
                     "id": 2,

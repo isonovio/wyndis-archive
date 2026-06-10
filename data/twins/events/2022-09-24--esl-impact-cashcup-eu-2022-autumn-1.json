@@ -5,7 +5,7 @@
     "name": "ESL Impact Cash Cup: Europe - Autumn 2022 #1",
     "duration": { "start": "2022-09-24", "end": "2022-09-25" },
     "links": [
-        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/ESL/Impact_Cash_Cup/Europe/2022/Autumn/1" },
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_Cash_Cup/Europe/2022/Autumn/1" },
         { "name": "ESEA", "url": "https://play.esea.net/events/1969" },
         { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=1969" },
         { "name": "HLTV", "url": "https://www.hltv.org/events/6820/esl-impact-autumn-2022-cash-cup-1-europe" }
@@ -15,7 +15,7 @@
     "brackets": [
         {
             "slug": "r2",
-            "name": "Round 2",
+            "name": "R2",
             "matches": [
                 {
                     "id": 1,
@@ -27,7 +27,7 @@
         },
         {
             "slug": "r3",
-            "name": "Round 3",
+            "name": "R3",
             "matches": [
                 {
                     "id": 1,
@@ -36,14 +36,14 @@
                     "maps": [
                         { "id": 1, "map": "inf", "result": "11:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16980269" }] },
                         { "id": 2, "map": "vtg", "result": "16:6", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16980291" }] },
-                        { "id": 1, "map": "ovp", "result": "16:10", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16980309" }] }
+                        { "id": 3, "map": "ovp", "result": "16:10", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16980309" }] }
                     ]
                 }
             ]
         },
         {
             "slug": "r4",
-            "name": "Round 4",
+            "name": "R4",
             "matches": [
                 {
                     "id": 1,

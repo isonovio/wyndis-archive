@@ -1,0 +1,40 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "esl-impact-cashcup-eu-2022-autumn-2",
+    "name": "ESL Impact Cash Cup: Europe - Autumn 2022 #2",
+    "duration": { "start": "2022-10-15", "end": "2022-10-16" },
+    "links": [
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_Cash_Cup/Europe/2022/Autumn/2" },
+        { "name": "ESEA", "url": "https://play.esea.net/events/1975" },
+        { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=1975" }
+    ],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "cfs", "lineup": { "roster": "cfs-2022-2" } }],
+    "brackets": [
+        {
+            "slug": "r2",
+            "name": "R2",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2022-10-15",
+                    "lineups": { "team1": { "shorthand": "cfs" }, "team2": { "name": "QFHAX" } },
+                    "maps": [{ "id": 1, "map": "nuke", "result": "16:14", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16985700" }] }]
+                }
+            ]
+        },
+        {
+            "slug": "r3",
+            "name": "R3",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2022-10-15",
+                    "lineups": { "team1": { "shorthand": "cfs" }, "team2": { "name": "FIFTY FIVE POWER" } },
+                    "maps": [{ "id": 1, "map": "ovp", "result": "8:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16985730" }] }]
+                }
+            ]
+        }
+    ]
+}

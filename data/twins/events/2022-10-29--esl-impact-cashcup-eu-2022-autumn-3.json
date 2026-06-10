@@ -1,0 +1,58 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "esl-impact-cashcup-eu-2022-autumn-3",
+    "name": "ESL Impact Cash Cup: Europe - Autumn 2022 #3",
+    "duration": { "start": "2022-10-29", "end": "2022-10-30" },
+    "links": [
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_Cash_Cup/Europe/2022/Autumn/3" },
+        { "name": "ESEA", "url": "https://play.esea.net/events/1981" },
+        { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=1981" }
+    ],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "cfs", "lineup": { "roster": "cfs-2022-2" } }],
+    "brackets": [
+        {
+            "slug": "r2",
+            "name": "R2",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2022-10-29",
+                    "lineups": { "team1": { "shorthand": "cfs" }, "team2": { "name": "MostValuablePlayers" } },
+                    "maps": [{ "id": 1, "map": "d2", "result": "16:12", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16992388" }] }]
+                }
+            ]
+        },
+        {
+            "slug": "r3",
+            "name": "R3",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2022-10-29",
+                    "lineups": { "team1": { "shorthand": "cfs" }, "team2": { "name": "Clown5" } },
+                    "maps": [
+                        { "id": 1, "map": "inf", "result": "19:17", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16992451" }] },
+                        { "id": 2, "map": "vtg", "result": "16:3", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16992478" }] }
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "r4",
+            "name": "R4",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2022-10-30",
+                    "lineups": { "team1": { "shorthand": "cfs" }, "team2": { "name": "proxy" } },
+                    "maps": [
+                        { "id": 1, "map": "d2", "result": "8:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16992646" }] },
+                        { "id": 2, "map": "ovp", "result": "10:16", "links": [{ "name": "ESEA", "url": "https://play.esea.net/match/16992694" }] }
+                    ]
+                }
+            ]
+        }
+    ]
+}

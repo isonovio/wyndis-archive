@@ -6,7 +6,7 @@
     "duration": { "start": "2026-02-20", "end": "2026-03-04" },
     "links": [
         { "name": "Google Docs", "url": "https://docs.google.com/document/d/1ha8xvrMaunmKYjuBbLqfKt9PbrvVfDBuRB895GyEfBc" },
-        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/Exort/Meteor/Season_2" }
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/Exort/Meteor/Season_2" }
     ],
     "participants": [{ "shorthand": "big", "lineup": { "roster": "big-equipa-2026-1" } }],
     "brackets": [

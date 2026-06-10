@@ -4,7 +4,7 @@
     "slug": "ambush-fe-cup-2021-spring",
     "name": "Ambush Female Spring Cup",
     "duration": { "start": "2021-05-29", "end": "2021-05-29" },
-    "links": [{ "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/Ambush_Female_Cup/2021/Spring" }],
+    "links": [{ "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/Ambush_Female_Cup/2021/Spring" }],
     "tags": ["impact"],
     "participants": [{ "shorthand": "nsc", "lineup": { "roster": "nsc-2021-1" } }],
     "brackets": [

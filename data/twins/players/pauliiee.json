@@ -1,0 +1,21 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "pauliiee",
+    "nickname": "pauliiee",
+    "name": "Paulie Barazani",
+    "birthday": "2005-12-23",
+    "nationality": "il",
+    "links": [
+        { "name": "ESEA", "url": "https://play.esea.net/users/2737094" },
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/pauliiee" },
+        { "name": "HLTV", "url": "https://www.hltv.org/player/22871/pauliiee" },
+        { "name": "Instagram", "url": "https://www.instagram.com/paulie_barazani" },
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/Pauliiee" },
+        { "name": "Steam", "url": "https://steamcommunity.com/profiles/76561198171026003" },
+        { "name": "TikTok", "url": "https://www.tiktok.com/@pauliieecs" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/pauliieecs" },
+        { "name": "Twitter", "url": "https://x.com/pauliiee_" },
+        { "name": "YouTube", "url": "https://www.youtube.com/@pauliiee" }
+    ]
+}

@@ -7,7 +7,7 @@
     "links": [
         { "name": "JBPL", "url": "https://jbproleague.com/news/11b110d1-1125-483a-b5bd-bcbd115afac4" },
         { "name": "GitHub", "url": "https://github.com/VANTAGL/JB-Pro-League-2026-female-1" },
-        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/JB_Pro_League/Female/Season_1" }
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/JB_Pro_League/Female/Season_1" }
     ],
     "participants": [
         { "shorthand": "big", "lineup": { "roster": "big-equipa-2026-1" } },
@@ -25,7 +25,7 @@
                     "duration": { "start": "2026-01-17", "end": "2026-01-18" },
                     "links": [
                         { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/tournaments/2433d911-686d-46d3-7ad9-08de3ae2e258" },
-                        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/JB_Pro_League/Female/Season_1/Qualifier/1" }
+                        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/JB_Pro_League/Female/Season_1/Qualifier/1" }
                     ],
                     "participants": [{ "shorthand": "lhc", "lineup": { "roster": "let-her-cook-2026-1" } }],
                     "brackets": [
@@ -402,7 +402,7 @@
                     "duration": { "start": "2026-01-24", "end": "2026-01-25" },
                     "links": [
                         { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/tournaments/af8accf4-262d-44fb-1876-08de40692357" },
-                        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/JB_Pro_League/Female/Season_1/Qualifier/2" }
+                        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/JB_Pro_League/Female/Season_1/Qualifier/2" }
                     ],
                     "participants": [{ "shorthand": "lhc", "lineup": { "roster": "let-her-cook-2026-2" } }],
                     "brackets": [
@@ -715,7 +715,7 @@
                     "duration": { "start": "2026-01-31", "end": "2026-02-01" },
                     "links": [
                         { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/tournaments/acd3cf54-edac-4040-1877-08de40692357" },
-                        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/JB_Pro_League/Female/Season_1/Qualifier/3" }
+                        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/JB_Pro_League/Female/Season_1/Qualifier/3" }
                     ],
                     "participants": [{ "shorthand": "lhc", "lineup": { "roster": "let-her-cook-2026-2" } }],
                     "brackets": [

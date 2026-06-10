@@ -1,0 +1,14 @@
+{
+    "$schema": "../../schemas/newspiece.schema.json",
+
+    "slug": "qiyarah-nayomy-pauliiee-nip-impact",
+    "title": "NIP welcome Qiyarah, Nayomy, and pauliiee to Impact roster",
+    "date": "2023-01-13",
+    "related": { "players": ["astra", "jenkon", "nayomy", "pauliiee", "qiyarah"], "teams": ["nipi"] },
+    "links": [
+        { "name": "NIP Tweet", "url": "https://x.com/NIPCS/status/1613883570195697665" },
+        { "name": "Nayomy Retweet", "url": "https://x.com/Nayomy_cs/status/1613886593340784644" },
+        { "name": "pauliee Retweet", "url": "https://x.com/pauliiee_/status/1613899779301318657" },
+        { "name": "Qiyarah Retweet", "url": "https://x.com/Qiyarahcs/status/1613885852333080578" }
+    ]
+}

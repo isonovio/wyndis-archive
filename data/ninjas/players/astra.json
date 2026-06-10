@@ -1,9 +1,0 @@
-{
-    "$schema": "../../schemas/player.schema.json",
-
-    "slug": "astra",
-    "nickname": "ASTRA",
-    "name": "Mayline-Joy Champliaud",
-    "birthday": "2000-09-26",
-    "nationality": "fr"
-}

@@ -7,7 +7,7 @@
         { "name": "ESL", "url": "https://pro.eslgaming.com/csgo/ecl/" },
         { "name": "Rules", "url": "https://drive.google.com/drive/folders/1ahfZG_LSokjOPjyvh31dEESexzmZiICI" },
         { "name": "Faceit", "url": "https://www.faceit.com/en/championship/e60df5bb-0b65-47c3-bfed-5d73b94d6d65" },
-        { "name": "Liquipedia", "url": "https://liquipedia.net/counterstrike/ESL/Challenger_League/Season_51/Europe/Cup_3" },
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Challenger_League/Season_51/Europe/Cup_3" },
         { "name": "HLTV", "url": "https://www.hltv.org/events/9051/nodwin-clutch-series-6" }
     ],
     "participants": [{ "shorthand": "big", "lineup": { "team": "big-equipa", "players": ["aim", "astra", "emmsan", "sosya", "wieenn"] } }],

@@ -29,7 +29,7 @@ export type BracketRaw = {
     tags?: BracketTag[];
 };
 
-type BracketTag = "transparent";
+type BracketTag = "transparent" | "lan";
 
 export type Bracket = {
     slug: string;
