@@ -5,5 +5,8 @@
     "title": "vilga join Midas Gaming as coach",
     "date": "2026-06-06",
     "related": { "players": ["vilga"] },
-    "links": [{ "name": "vilga Tweet", "url": "https://x.com/vilgaCS/status/2063248479871287365" }]
+    "links": [
+        { "name": "vilga Tweet", "url": "https://x.com/vilgaCS/status/2063248479871287365" },
+        { "name": "Fragbite News", "url": "https://fragbite.se/cs/news/62313/tidigare-nip-veteranen-gar-over-till-coaching-med-nytt-projekt" }
+    ]
 }
