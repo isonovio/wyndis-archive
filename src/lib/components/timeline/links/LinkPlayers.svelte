@@ -6,7 +6,7 @@
     }
     let { players }: Props = $props();
 
-    const ps = $derived(players.filter((p) => p.tags.includes("ninja")));
+    const ps = $derived(players.filter((p) => p.tags.includes("twin")));
 </script>
 
 <div class="flex gap-1.5 text-nowrap">
