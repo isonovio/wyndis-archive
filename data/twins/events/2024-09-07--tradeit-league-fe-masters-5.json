@@ -1,0 +1,65 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "tradeit-league-fe-masters-5",
+    "name": "Tradeit League FE Masters #5",
+    "duration": { "start": "2024-09-07", "end": "2024-09-15" },
+    "links": [
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/Tradeit_League/FE_Masters/5" },
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/championship/7bf9c8c9-722c-44d4-a3a8-c7d190e28535" }
+    ],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-2" } }],
+    "brackets": [
+        { "slug": "r1", "name": "Round of 32", "links": [{ "name": "Faceit", "url": "https://www.faceit.com/en/championship/8d937794-d151-4c42-885a-b1aa930636be" }] },
+        {
+            "slug": "r2",
+            "name": "Round of 16",
+            "matches": [
+                {
+                    "id": 7,
+                    "date": "2024-09-07",
+                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "K10 Ashes" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-fd3d4945-2215-4f19-931b-eff96e410a92" }],
+                    "maps": [
+                        { "id": 1, "map": "anc", "result": "13:1" },
+                        { "id": 2, "map": "inf", "result": "13:6" }
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "r3",
+            "name": "Round of 8",
+            "matches": [
+                {
+                    "id": 4,
+                    "date": "2024-09-14",
+                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "Insilio Female" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-bfbe956b-904c-4223-a8bd-71efd95d555d" }],
+                    "maps": [
+                        { "id": 1, "map": "inf", "result": "13:6" },
+                        { "id": 2, "map": "d2", "result": "13:11" }
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "r4",
+            "name": "Semi-finals",
+            "matches": [
+                {
+                    "id": 2,
+                    "date": "2024-09-14",
+                    "lineups": { "team1": { "name": "NAVI Javelins" }, "team2": { "shorthand": "nipi" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-49be25b0-e151-4652-995d-1460ee9fc5c4" }],
+                    "maps": [
+                        { "id": 1, "map": "d2", "result": "13:8" },
+                        { "id": 2, "map": "anb", "result": "9:13" },
+                        { "id": 3, "map": "inf", "result": "13:10" }
+                    ]
+                }
+            ]
+        }
+    ]
+}

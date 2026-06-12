@@ -1,0 +1,18 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "spike",
+    "nickname": "spike",
+    "name": "Selin Sinem Alak",
+    "birthday": "2001-04-06",
+    "nationality": "de",
+    "links": [
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/spike" },
+        { "name": "HLTV", "url": "https://www.hltv.org/player/22023/spike" },
+        { "name": "Instagram", "url": "https://www.instagram.com/spikeakasel" },
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/Spike" },
+        { "name": "Steam", "url": "https://steamcommunity.com/id/spikeakasel/" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/spikeakasel" },
+        { "name": "Twitter", "url": "https://x.com/spikeakasel" }
+    ]
+}

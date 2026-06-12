@@ -1,0 +1,46 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "tradeit-league-fe-masters-6",
+    "name": "Tradeit League FE Masters #6",
+    "duration": { "start": "2025-01-17", "end": "2025-01-19" },
+    "links": [
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/Tradeit_League/FE_Masters/6" },
+        { "name": "INUI", "url": "https://inui.com/fe-masters-season-6" }
+    ],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-2" } }],
+    "brackets": [
+        {
+            "slug": "r2",
+            "name": "Round of 16",
+            "matches": [
+                {
+                    "id": 7,
+                    "date": "2025-01-17",
+                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "KAJO" } },
+                    "maps": [
+                        { "id": 1, "map": "mrg", "result": "13:2" },
+                        { "id": 2, "map": "inf", "result": "10:13" },
+                        { "id": 3, "map": "anc", "result": "13:4" }
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "r3",
+            "name": "Round of 8",
+            "matches": [
+                {
+                    "id": 4,
+                    "date": "2025-01-18",
+                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "Permitta W" } },
+                    "maps": [
+                        { "id": 1, "map": "anb", "result": "4:13" },
+                        { "id": 2, "map": "anc", "result": "6:13" }
+                    ]
+                }
+            ]
+        }
+    ]
+}

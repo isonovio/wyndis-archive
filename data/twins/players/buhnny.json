@@ -1,0 +1,15 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "buhnny",
+    "nickname": "buhnny",
+    "name": "Anna Cheung",
+    "birthday": "1999-01-15",
+    "nationality": "us",
+    "links": [
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/anna" },
+        { "name": "HLTV", "url": "https://www.hltv.org/player/22890/buhnny" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/buhnnycs" },
+        { "name": "Twitter", "url": "https://x.com/buhnnyCS" }
+    ]
+}

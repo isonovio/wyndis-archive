@@ -1,0 +1,64 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "tradeit-league-fe-masters-4",
+    "name": "Tradeit League FE Masters #4",
+    "duration": { "start": "2024-07-19", "end": "2024-07-21" },
+    "links": [
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/Tradeit_League/FE_Masters/4" },
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/championship/781d8384-2120-49a0-9cdc-39a1d748711a" }
+    ],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-2" } }],
+    "brackets": [
+        { "slug": "r1", "name": "Round of 32", "links": [{ "name": "Faceit", "url": "https://www.faceit.com/en/championship/be63e7ed-d605-4068-9e5d-71b084023b6e" }] },
+        {
+            "slug": "r2",
+            "name": "Round of 16",
+            "matches": [
+                {
+                    "id": 7,
+                    "date": "2024-07-20",
+                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "PHYSE ANGELS" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-b8f2b211-2301-4472-926f-44c31e55bd4e" }],
+                    "maps": [
+                        { "id": 1, "map": "anb", "result": "13:6" },
+                        { "id": 2, "map": "d2", "result": "13:1" }
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "r3",
+            "name": "Round of 8",
+            "matches": [
+                {
+                    "id": 4,
+                    "date": "2024-07-20",
+                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "YeYO" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-4885782a-53b1-48f2-8bae-16192120ca8f" }],
+                    "maps": [
+                        { "id": 1, "map": "anb", "result": "13:6" },
+                        { "id": 2, "map": "anc", "result": "13:5" }
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "r4",
+            "name": "Semi-finals",
+            "matches": [
+                {
+                    "id": 2,
+                    "date": "2024-07-21",
+                    "lineups": { "team1": { "name": "France Women" }, "team2": { "shorthand": "nipi" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-328d3366-03e6-4160-8ce6-2c39cb1986c6" }],
+                    "maps": [
+                        { "id": 1, "map": "inf", "result": "13:7" },
+                        { "id": 2, "map": "anc", "result": "13:7" }
+                    ]
+                }
+            ]
+        }
+    ]
+}

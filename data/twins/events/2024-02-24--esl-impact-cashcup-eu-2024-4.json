@@ -1,0 +1,41 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "esl-impact-cashcup-eu-2024-4",
+    "name": "ESL Impact Cash Cup 2024: Europe #4",
+    "duration": { "start": "2024-02-24", "end": "2024-02-25" },
+    "links": [
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_Cash_Cup/2024/Europe/4" },
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/championship/5e7455d9-f4ea-406b-a4f5-7f69b10714e0" }
+    ],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-1" } }],
+    "brackets": [
+        {
+            "slug": "r2",
+            "name": "Round of 16",
+            "matches": [
+                {
+                    "id": 5,
+                    "date": "2024-02-24",
+                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "gDEBbl" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-b9262b36-b30e-48ea-91b0-15974ae6e0f1" }],
+                    "maps": [{ "id": 1, "map": "anc", "result": "13:11" }]
+                }
+            ]
+        },
+        {
+            "slug": "r3",
+            "name": "Round of 8",
+            "matches": [
+                {
+                    "id": 3,
+                    "date": "2024-02-24",
+                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "more whiskey" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-5e8d3011-12a2-463d-a291-bdd1a85b20d9" }],
+                    "maps": [{ "id": 1, "map": "anb", "result": "9:13" }]
+                }
+            ]
+        }
+    ]
+}

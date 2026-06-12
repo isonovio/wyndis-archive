@@ -1,0 +1,41 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "esl-impact-cashcup-eu-2024-2",
+    "name": "ESL Impact Cash Cup 2024: Europe #2",
+    "duration": { "start": "2024-01-27", "end": "2024-01-28" },
+    "links": [
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_Cash_Cup/2024/Europe/2" },
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/championship/69d6340b-d218-4d2a-9d8b-5eb9778a4de2" }
+    ],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-1" } }],
+    "brackets": [
+        {
+            "slug": "r2",
+            "name": "Round of 16",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2024-01-27",
+                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "Washington5M" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-bcec4918-5eb2-4849-b3ea-265f44a4618a" }],
+                    "maps": [{ "id": 1, "map": "mrg", "result": "13:10" }]
+                }
+            ]
+        },
+        {
+            "slug": "r3",
+            "name": "Round of 8",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2024-01-27",
+                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "Questionmark" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-ab28ec82-4c2b-4357-87f8-e1426c50a183" }],
+                    "maps": [{ "id": 1, "map": "anb", "result": "11:13" }]
+                }
+            ]
+        }
+    ]
+}

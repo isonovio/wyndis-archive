@@ -1,0 +1,41 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "esl-impact-cashcup-eu-2024-3",
+    "name": "ESL Impact Cash Cup 2024: Europe #3",
+    "duration": { "start": "2024-02-03", "end": "2024-02-04" },
+    "links": [
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_Cash_Cup/2024/Europe/3" },
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/championship/4497ab8d-924b-4d05-8c4a-03d7198f9572" }
+    ],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nipi", "lineup": { "team": "nipi", "players": ["aim", "buhnny", "jenkon", "nayomy", "qiyarah"] } }],
+    "brackets": [
+        {
+            "slug": "r2",
+            "name": "Round of 16",
+            "matches": [
+                {
+                    "id": 5,
+                    "date": "2024-02-03",
+                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "Hell on Heels" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-90ffa687-945b-4a63-9607-37c592a26da2" }],
+                    "maps": [{ "id": 1, "map": "anb", "result": "13:7" }]
+                }
+            ]
+        },
+        {
+            "slug": "r3",
+            "name": "Round of 8",
+            "matches": [
+                {
+                    "id": 3,
+                    "date": "2024-02-03",
+                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "VIOLET" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-8a7035a0-1371-4438-90a1-ec4dc119049a" }],
+                    "maps": [{ "id": 1, "map": "vtg", "result": "11:13" }]
+                }
+            ]
+        }
+    ]
+}
