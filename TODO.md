@@ -1,9 +1,5 @@
 ## short-term
 - Code
-    - [ ] type `MatchTags`
-        - [ ] used by `Match`, `Event`, and `Bracket`
-        - [ ] tags of `Event` and `Bracket` cascade to `Match`
-        - [ ] `transparent` is no longer a tag, but automatically applies for all brackets whose name is `""`
     - [ ] inside each module, use simplistic names instead of flatnames
     - [ ] rename `official-` types to `OfficialEvent`, `OfficialBracket`, etc.
     - [ ] rename: `record`, `record-genre`, `record-filter`; `timeline` = `record` grouped by `date`
