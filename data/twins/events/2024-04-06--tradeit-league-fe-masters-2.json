@@ -6,7 +6,8 @@
     "duration": { "start": "2024-04-06", "end": "2024-04-07" },
     "links": [
         { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/Tradeit_League/FE_Masters/2" },
-        { "name": "FACEIT", "url": "https://www.faceit.com/en/championship/d74fc0f8-f6be-430a-aa21-3a74a05c1ef1" }
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/championship/d74fc0f8-f6be-430a-aa21-3a74a05c1ef1" },
+        { "name": "HLTV", "url": "https://www.hltv.org/events/7753/tradeit-league-fe-masters-season-2" }
     ],
     "tags": ["impact"],
     "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-1" } }],
@@ -35,7 +36,10 @@
                     "id": 4,
                     "date": "2024-04-06",
                     "lineups": { "team1": { "name": "GUILD" }, "team2": { "shorthand": "nipi" } },
-                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-095b1e83-aee6-4f23-868b-7d52890f3f45" }],
+                    "links": [
+                        { "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-095b1e83-aee6-4f23-868b-7d52890f3f45" },
+                        { "name": "HLTV", "url": "https://www.hltv.org/matches/2371164/nip-impact-vs-guild-fe-tradeit-league-fe-masters-season-2" }
+                    ],
                     "maps": [
                         { "id": 1, "map": "mrg", "result": "4:13" },
                         { "id": 2, "map": "anb", "result": "13:7" },
@@ -52,10 +56,35 @@
                     "id": 2,
                     "date": "2024-04-07",
                     "lineups": { "team1": { "name": "Fearless Cheetahs" }, "team2": { "shorthand": "nipi" } },
-                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-3b863ef6-9a9e-41d7-b3a9-04edafec72d4" }],
+                    "links": [
+                        { "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-3b863ef6-9a9e-41d7-b3a9-04edafec72d4" },
+                        { "name": "HLTV", "url": "https://www.hltv.org/matches/2371166/fearless-cheetahs-vs-nip-impact-tradeit-league-fe-masters-season-2" }
+                    ],
                     "maps": [
-                        { "id": 1, "map": "nuke", "result": "5:13" },
-                        { "id": 2, "map": "vtg", "result": "10:13" }
+                        {
+                            "id": 1,
+                            "map": "nuke",
+                            "result": "5:13",
+                            "rewatches": [
+                                {
+                                    "language": "en",
+                                    "casters": ["cass"],
+                                    "parts": [{ "link": { "name": "Twitch", "url": "https://www.twitch.tv/videos/2113310715" }, "duration": "00:10:48-00:57:19" }]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "map": "vtg",
+                            "result": "10:13",
+                            "rewatches": [
+                                {
+                                    "language": "en",
+                                    "casters": ["cass"],
+                                    "parts": [{ "link": { "name": "Twitch", "url": "https://www.twitch.tv/videos/2113310715" }, "duration": "01:01:13-02:10:54" }]
+                                }
+                            ]
+                        }
                     ]
                 }
             ]
@@ -68,7 +97,10 @@
                     "name": "Grand Final",
                     "date": "2024-04-07",
                     "lineups": { "team1": { "name": "Pigeons" }, "team2": { "shorthand": "nipi" } },
-                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-7ef03d42-e212-43c3-bd99-acf200a2ec93" }],
+                    "links": [
+                        { "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-7ef03d42-e212-43c3-bd99-acf200a2ec93" },
+                        { "name": "HLTV", "url": "https://www.hltv.org/matches/2371167/nip-impact-vs-pigeons-tradeit-league-fe-masters-season-2" }
+                    ],
                     "maps": [
                         { "id": 1, "map": "anc", "result": "13:10" },
                         { "id": 2, "map": "vtg", "result": "13:9" }

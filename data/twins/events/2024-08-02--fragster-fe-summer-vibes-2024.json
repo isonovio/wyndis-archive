@@ -1,0 +1,77 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "fragster-fe-summer-vibes-2024",
+    "name": "Fragster Female Summer Vibes 2024",
+    "duration": { "start": "2024-08-02", "end": "2024-08-04" },
+    "links": [
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/Fragster/Female_Summer_Vibes/2024" },
+        { "name": "HLTV", "url": "https://www.hltv.org/events/8002/betswap-fragster-summer-vibes-fe-2024" }
+    ],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-2" } }],
+    "brackets": [
+        {
+            "slug": "s1",
+            "name": "",
+            "matches": [
+                {
+                    "id": 1,
+                    "name": "Opening Match 1",
+                    "date": "2024-08-02",
+                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "Spirit Female" } },
+                    "links": [
+                        { "name": "FACEIT", "url": "https://www.faceit.com/en/match/room/1-ef75b3ed-6bdf-4281-8f76-0f8161117ca5" },
+                        { "name": "HLTV", "url": "https://www.hltv.org/matches/2374336/nip-impact-vs-spirit-fe-betswap-fragster-summer-vibes-fe-2024" }
+                    ],
+                    "maps": [
+                        { "id": 1, "map": "anb", "result": "19:17" },
+                        { "id": 2, "map": "anc", "result": "13:9" }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Upper Final",
+                    "date": "2024-08-03",
+                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "Imperial Valkyries" } },
+                    "links": [
+                        { "name": "FACEIT", "url": "https://www.faceit.com/en/match/room/1-44eaa3f8-59b2-4944-9e62-0b1aa93bf9af" },
+                        { "name": "HLTV", "url": "https://www.hltv.org/matches/2374339/nip-impact-vs-imperial-valkyries-betswap-fragster-summer-vibes-fe-2024" }
+                    ],
+                    "maps": [
+                        { "id": 1, "map": "mrg", "result": "7:13" },
+                        { "id": 2, "map": "inf", "result": "10:13" }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Consolidation Final",
+                    "date": "2024-08-04",
+                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "Spirit Female" } },
+                    "links": [
+                        { "name": "FACEIT", "url": "https://www.faceit.com/en/match/room/1-fc538180-da9f-47b0-bdb0-85ca9e1c82e8" },
+                        { "name": "HLTV", "url": "https://www.hltv.org/matches/2374340/spirit-fe-vs-nip-impact-betswap-fragster-summer-vibes-fe-2024" }
+                    ],
+                    "maps": [
+                        { "id": 1, "map": "d2", "result": "13:2" },
+                        { "id": 2, "map": "mrg", "result": "13:0" }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Grand Final",
+                    "date": "2024-08-04",
+                    "lineups": { "team1": { "name": "Imperial Valkyries" }, "team2": { "shorthand": "nipi" } },
+                    "links": [
+                        { "name": "FACEIT", "url": "https://www.faceit.com/en/match/room/1-102d149d-6eb3-4663-87c7-7caa49118470" },
+                        { "name": "HLTV", "url": "https://www.hltv.org/matches/2374341/imperial-valkyries-vs-nip-impact-betswap-fragster-summer-vibes-fe-2024" }
+                    ],
+                    "maps": [
+                        { "id": 1, "map": "inf", "result": "13:8" },
+                        { "id": 2, "map": "nuke", "result": "13:2" }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -142,8 +142,12 @@
                                                                     "casters": ["cass"],
                                                                     "parts": [
                                                                         {
-                                                                            "link": { "name": "Twitch", "url": "https://www.twitch.tv/videos/2096515544" },
+                                                                            "link": { "name": "Game", "url": "https://www.twitch.tv/videos/2096515544" },
                                                                             "duration": "00:11:13-00:54:20"
+                                                                        },
+                                                                        {
+                                                                            "link": { "name": "Interview", "url": "https://www.twitch.tv/videos/2096565616" },
+                                                                            "duration": "00:00:00-00:09:25"
                                                                         }
                                                                     ]
                                                                 }

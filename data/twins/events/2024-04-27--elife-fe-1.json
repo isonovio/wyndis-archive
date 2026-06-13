@@ -1,0 +1,80 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "elife-fe-1",
+    "name": "ELITE FE #1",
+    "duration": { "start": "2024-04-27", "end": "2024-04-27" },
+    "links": [
+        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ELITE_FE/1" },
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/championship/036cc9e9-5651-4945-9791-26004d59df71" },
+        { "name": "HLTV", "url": "https://www.hltv.org/events/7772/european-pro-league-female-season-1" }
+    ],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-1" } }],
+    "brackets": [
+        {
+            "slug": "r1",
+            "name": "Round of 16",
+            "matches": [
+                {
+                    "id": 5,
+                    "date": "2024-04-27",
+                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "AKA HERO Althea" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-bf036a06-bf9d-4b49-8464-f3395ad7c8cb" }],
+                    "maps": [{ "id": 1, "map": "anc", "result": "13:3" }]
+                }
+            ]
+        },
+        {
+            "slug": "r2",
+            "name": "Quarterfinals",
+            "matches": [
+                {
+                    "id": 3,
+                    "date": "2024-04-27",
+                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "Permitta W" } },
+                    "links": [
+                        { "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-2a057bc7-00ca-46f3-bccd-f1e6c2658a8e" },
+                        { "name": "HLTV", "url": "https://www.hltv.org/matches/2371247/navi-javelins-vs-nip-impact-european-pro-league-female-season-1" }
+                    ],
+                    "maps": [{ "id": 1, "map": "anc", "result": "13:11" }]
+                }
+            ]
+        },
+        {
+            "slug": "r3",
+            "name": "Semifinals",
+            "matches": [
+                {
+                    "id": 2,
+                    "date": "2024-04-27",
+                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "ENCE Athena" } },
+                    "links": [
+                        { "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-5c4384f4-084d-4c59-8471-4e534447ef66" },
+                        { "name": "HLTV", "url": "https://www.hltv.org/matches/2371852/nip-impact-vs-ence-athena-elite-fe-cup-1" }
+                    ],
+                    "maps": [{ "id": 1, "map": "anb", "result": "13:11" }]
+                }
+            ]
+        },
+        {
+            "slug": "r4",
+            "name": "Grand Final",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2024-04-27",
+                    "lineups": { "team1": { "name": "Pigeons" }, "team2": { "shorthand": "nipi" } },
+                    "links": [
+                        { "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-938b4aad-4417-4a7f-b55a-39167b3a41b0" },
+                        { "name": "HLTV", "url": "https://www.hltv.org/matches/2371853/nip-impact-vs-pigeons-elite-fe-cup-1" }
+                    ],
+                    "maps": [
+                        { "id": 1, "map": "nuke", "result": "13:2" },
+                        { "id": 2, "map": "anc", "result": "13:6" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
