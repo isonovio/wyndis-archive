@@ -66,9 +66,42 @@
                     "lineups": { "team1": { "name": "Pigeons" }, "team2": { "shorthand": "nipi" } },
                     "links": [{ "name": "HLTV", "url": "https://www.hltv.org/matches/2371255/pigeons-vs-nip-impact-european-pro-league-female-season-1" }],
                     "maps": [
-                        { "id": 1, "map": "anc", "result": "11:13" },
-                        { "id": 2, "map": "vtg", "result": "13:9" },
-                        { "id": 3, "map": "mrg", "result": "13:6" }
+                        {
+                            "id": 1,
+                            "map": "anc",
+                            "result": "11:13",
+                            "rewatches": [
+                                {
+                                    "language": "en",
+                                    "casters": ["cass"],
+                                    "parts": [{ "link": { "name": "Twitch", "url": "https://www.twitch.tv/videos/2119734783" }, "duration": "00:08:47-01:08:03" }]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "map": "vtg",
+                            "result": "13:9",
+                            "rewatches": [
+                                {
+                                    "language": "en",
+                                    "casters": ["cass"],
+                                    "parts": [{ "link": { "name": "Twitch", "url": "https://www.twitch.tv/videos/2119734783" }, "duration": "01:19:33-02:04:34" }]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "map": "mrg",
+                            "result": "13:6",
+                            "rewatches": [
+                                {
+                                    "language": "en",
+                                    "casters": ["cass"],
+                                    "parts": [{ "link": { "name": "Twitch", "url": "https://www.twitch.tv/videos/2119734783" }, "duration": "02:19:03-03:13:01" }]
+                                }
+                            ]
+                        }
                     ]
                 },
                 {
