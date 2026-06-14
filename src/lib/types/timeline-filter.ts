@@ -150,10 +150,9 @@ export function queryTeamFilter(
     return "none";
 }
 
-export function queryFromDateFilter(params: URLSearchParams): boolean {
-    return params.get("from") !== null;
-}
-
-export function queryToDateFilter(params: URLSearchParams): boolean {
-    return params.get("to") !== null;
+export function queryDateFilter(
+    params: URLSearchParams,
+    key: "from" | "to",
+): boolean {
+    return params.get(key) !== null;
 }

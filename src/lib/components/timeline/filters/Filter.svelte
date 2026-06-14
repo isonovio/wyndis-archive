@@ -27,13 +27,15 @@
     }
 </script>
 
-<div class="flex justify-between">
-    <div class="text-xl font-bold">Filters</div>
-    {#if hasFilter}
-        <button class="cursor-pointer text-base pt-1/2 hover:text-gray-400" onclick={() => clearFilter()}>[Clear]</button>
-    {/if}
+<div class="h-full overflow-y-auto w-50 py-10 flex flex-col gap-4">
+    <div class="flex justify-between">
+        <div class="text-xl font-bold">Filters</div>
+        {#if hasFilter}
+            <button class="cursor-pointer text-base pt-1/2 hover:text-gray-400" onclick={() => clearFilter()}>[Clear]</button>
+        {/if}
+    </div>
+    <DateFilterBox {params} {onUpdate} />
+    <GenreFilterBox {params} {timeline} {onUpdate} />
+    <TeamFilterBox {params} {timeline} {onUpdate} />
+    <PlayerFilterBox {params} {timeline} {onUpdate} />
 </div>
-<DateFilterBox {params} {onUpdate} />
-<GenreFilterBox {params} {timeline} {onUpdate} />
-<TeamFilterBox {params} {timeline} {onUpdate} />
-<PlayerFilterBox {params} {timeline} {onUpdate} />

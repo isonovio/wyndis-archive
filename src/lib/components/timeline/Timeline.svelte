@@ -31,9 +31,7 @@
 </script>
 
 <div class="h-full w-7xl mx-auto flex gap-4">
-    <div class="h-full overflow-y-auto py-10 flex flex-col gap-4">
-        <Filter {params} timeline={prefilteredTimeline} onUpdate={refreshParams} />
-    </div>
+    <Filter {params} timeline={prefilteredTimeline} onUpdate={refreshParams} />
 
     <div class="h-full overflow-y-auto pt-6 pl-6 flex-1 flex flex-col gap-4">
         {#if recordCount === 0}
