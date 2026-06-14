@@ -2,7 +2,7 @@
     "$schema": "../../schemas/talent.schema.json",
     "slug": "cass",
     "nickname": "Cass",
-    "socials": [
+    "links": [
         { "name": "Twitch", "url": "https://www.twitch.tv/cassthefriendlygoat" },
         { "name": "Twitter", "url": "https://x.com/cassthefriend" }
     ]

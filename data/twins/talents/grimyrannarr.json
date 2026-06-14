@@ -2,7 +2,7 @@
     "$schema": "../../schemas/talent.schema.json",
     "slug": "grimyrannarr",
     "nickname": "GrimyRannarr",
-    "socials": [
+    "links": [
         { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/GrimyRannarr" },
         { "name": "Twitter", "url": "https://x.com/GrimyRannarr" }
     ]

@@ -1,0 +1,9 @@
+{
+    "$schema": "../../schemas/talent.schema.json",
+    "slug": "squid",
+    "nickname": "Squid",
+    "name": "Jamie Stewart",
+    "birthday": "1998-10-14",
+    "nationality": "gb",
+    "links": [{ "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Squid" }]
+}

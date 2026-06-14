@@ -2,7 +2,7 @@
     "$schema": "../../schemas/talent.schema.json",
     "slug": "cptjamesforce",
     "nickname": "CptJamesForce",
-    "socials": [
+    "links": [
         { "name": "Twitch", "url": "https://www.twitch.tv/cptjamesforce" },
         { "name": "Twitter", "url": "https://x.com/CptJamesForce" }
     ]

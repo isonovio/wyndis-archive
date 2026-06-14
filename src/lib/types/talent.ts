@@ -1,10 +1,13 @@
+import { Temporal } from "$lib/utils/temporal";
 import { type ExternalLink } from "./externlink";
 
 type TalentRaw = {
     slug: string;
     nickname: string;
     name?: string;
-    socials?: ExternalLink[];
+    birthday?: string;
+    nationality?: string;
+    links?: ExternalLink[];
 };
 
 const talentsBlob = import.meta.glob<TalentRaw>("$data/**/talents/*.json", {
@@ -19,13 +22,18 @@ export type Talent = {
     slug: string;
     nickname: string;
     name?: string;
-    socials: ExternalLink[];
+    birthday?: Temporal.PlainDate;
+    nationality?: string;
+    links: ExternalLink[];
 };
 
 function talentFromRaw(raw: TalentRaw): Talent {
     return {
         ...raw,
-        socials: raw.socials ?? [],
+        birthday: raw.birthday
+            ? Temporal.PlainDate.from(raw.birthday)
+            : undefined,
+        links: raw.links ?? [],
     };
 }
 

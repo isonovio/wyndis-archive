@@ -42,7 +42,15 @@
                                                     "id": 1,
                                                     "map": "ovp",
                                                     "result": "16:11",
-                                                    "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/games/c8eb559d-0a86-4174-8555-08db5bcf0c9a" }]
+                                                    "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/games/c8eb559d-0a86-4174-8555-08db5bcf0c9a" }],
+                                                    "rewatches": [
+                                                        {
+                                                            "language": "en",
+                                                            "casters": ["pop", "squid"],
+                                                            "tags": ["official"],
+                                                            "parts": [{ "link": { "name": "YouTube", "url": "https://youtu.be/-sPkE0yPfuQ" }, "duration": "01:00:17-01:53:17" }]
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         },
@@ -68,7 +76,15 @@
                                                     "id": 1,
                                                     "map": "inf",
                                                     "result": "2:16",
-                                                    "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/games/5b732533-5ce1-4970-8659-08db5bcf0c9a" }]
+                                                    "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/games/5b732533-5ce1-4970-8659-08db5bcf0c9a" }],
+                                                    "rewatches": [
+                                                        {
+                                                            "language": "en",
+                                                            "casters": ["pop", "squid"],
+                                                            "tags": ["official"],
+                                                            "parts": [{ "link": { "name": "YouTube", "url": "https://youtu.be/-sPkE0yPfuQ" }, "duration": "03:06:35-03:29:08" }]
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
@@ -105,7 +121,15 @@
                                                     "id": 3,
                                                     "map": "mrg",
                                                     "result": "12:16",
-                                                    "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/games/5195bd6b-f234-404f-2e7d-08db5bcbd7fc" }]
+                                                    "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/games/5195bd6b-f234-404f-2e7d-08db5bcbd7fc" }],
+                                                    "rewatches": [
+                                                        {
+                                                            "language": "en",
+                                                            "casters": ["squid", "tiddler"],
+                                                            "tags": ["official"],
+                                                            "parts": [{ "link": { "name": "YouTube", "url": "https://youtu.be/Hu_NRIzWlxs" }, "duration": "06:18:54-07:04:30" }]
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
@@ -124,13 +148,29 @@
                                                     "id": 1,
                                                     "map": "inf",
                                                     "result": "7:16",
-                                                    "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/games/37e6040b-8243-43c1-37f5-08db5bcbd7fc" }]
+                                                    "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/games/37e6040b-8243-43c1-37f5-08db5bcbd7fc" }],
+                                                    "rewatches": [
+                                                        {
+                                                            "language": "en",
+                                                            "casters": ["pop", "tiddler"],
+                                                            "tags": ["official"],
+                                                            "parts": [{ "link": { "name": "YouTube", "url": "https://youtu.be/W1499dYkgiw" }, "duration": "02:53:27-03:44:22" }]
+                                                        }
+                                                    ]
                                                 },
                                                 {
                                                     "id": 2,
                                                     "map": "anb",
                                                     "result": "6:16",
-                                                    "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/games/d095f386-11a7-4401-9914-08db5bcf0c9a" }]
+                                                    "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/games/d095f386-11a7-4401-9914-08db5bcf0c9a" }],
+                                                    "rewatches": [
+                                                        {
+                                                            "language": "en",
+                                                            "casters": ["pop", "tiddler"],
+                                                            "tags": ["official"],
+                                                            "parts": [{ "link": { "name": "YouTube", "url": "https://youtu.be/W1499dYkgiw" }, "duration": "04:06:06-04:51:39" }]
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
@@ -149,13 +189,29 @@
                                                     "id": 1,
                                                     "map": "mrg",
                                                     "result": "16:9",
-                                                    "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/games/8b060155-2c20-4384-4d38-08db5bcbd7fc" }]
+                                                    "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/games/8b060155-2c20-4384-4d38-08db5bcbd7fc" }],
+                                                    "rewatches": [
+                                                        {
+                                                            "language": "en",
+                                                            "casters": ["squid", "tiddler"],
+                                                            "tags": ["official"],
+                                                            "parts": [{ "link": { "name": "YouTube", "url": "https://youtu.be/c5oB-IvMgA4" }, "duration": "00:18:51-01:08:47" }]
+                                                        }
+                                                    ]
                                                 },
                                                 {
                                                     "id": 2,
                                                     "map": "anc",
                                                     "result": "16:10",
-                                                    "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/games/f137c9dc-203e-4c1e-aa6c-08db5bcf0c9a" }]
+                                                    "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/games/f137c9dc-203e-4c1e-aa6c-08db5bcf0c9a" }],
+                                                    "rewatches": [
+                                                        {
+                                                            "language": "en",
+                                                            "casters": ["squid", "tiddler"],
+                                                            "tags": ["official"],
+                                                            "parts": [{ "link": { "name": "YouTube", "url": "https://youtu.be/c5oB-IvMgA4" }, "duration": "01:21:14-02:03:32" }]
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }

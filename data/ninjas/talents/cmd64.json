@@ -2,5 +2,5 @@
     "$schema": "../../schemas/talent.schema.json",
     "slug": "cmd64",
     "nickname": "Cmd64",
-    "socials": [{ "name": "Twitter", "url": "https://x.com/Cmd64CSGO" }]
+    "links": [{ "name": "Twitter", "url": "https://x.com/Cmd64CSGO" }]
 }

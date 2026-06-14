@@ -1,0 +1,8 @@
+{
+    "$schema": "../../schemas/talent.schema.json",
+    "slug": "tiddler",
+    "nickname": "Tiddler",
+    "name": "Tyler Rocamora",
+    "nationality": "ie",
+    "links": []
+}

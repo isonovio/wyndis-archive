@@ -2,7 +2,7 @@
     "$schema": "../../schemas/talent.schema.json",
     "slug": "hiyanoot",
     "nickname": "HiyaNoot",
-    "socials": [
+    "links": [
         { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/HiyaNoot" },
         { "name": "Twitter", "url": "https://x.com/HiyaNoot" }
     ]

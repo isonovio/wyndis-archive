@@ -2,5 +2,5 @@
     "$schema": "../../schemas/talent.schema.json",
     "slug": "sxstem",
     "nickname": "Sxstem",
-    "socials": [{ "name": "Twitter", "url": "https://x.com/sxstemCS" }]
+    "links": [{ "name": "Twitter", "url": "https://x.com/sxstemCS" }]
 }

@@ -2,7 +2,7 @@
     "$schema": "../../schemas/talent.schema.json",
     "slug": "vearless",
     "nickname": "Vearless",
-    "socials": [
+    "links": [
         { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Vearless" },
         { "name": "Twitter", "url": "https://x.com/Vearless_Games" }
     ]

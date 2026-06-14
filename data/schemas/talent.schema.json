@@ -10,6 +10,8 @@
         "slug": { "$ref": "slug.schema.json" },
         "nickname": { "type": "string" },
         "name": { "type": "string" },
-        "socials": { "type": "array", "items": { "$ref": "extern-link.schema.json" } }
+        "birthday": { "type": "string", "format": "date" },
+        "nationality": { "$ref": "nationality.schema.json" },
+        "links": { "type": "array", "items": { "$ref": "extern-link.schema.json" } }
     }
 }

@@ -2,7 +2,7 @@
     "$schema": "../../schemas/talent.schema.json",
     "slug": "tom-pickering",
     "nickname": "Tom Pickering",
-    "socials": [
+    "links": [
         { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Tom_Pickering" },
         { "name": "Twitter", "url": "https://x.com/TomPickering" }
     ]

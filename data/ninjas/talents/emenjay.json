@@ -2,5 +2,5 @@
     "$schema": "../../schemas/talent.schema.json",
     "slug": "emenjay",
     "nickname": "Emenjay",
-    "socials": [{ "name": "Twitter", "url": "https://x.com/EmenjayCasts" }]
+    "links": [{ "name": "Twitter", "url": "https://x.com/EmenjayCasts" }]
 }
