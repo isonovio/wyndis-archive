@@ -17,12 +17,19 @@
     @reference "$lib/styles/global.css";
 
     button.filter {
-        @apply block cursor-pointer m-2 border-x-4 border-white leading-none px-1;
-        @apply hover:text-gray-400 hover:border-gray-600 hover:font-semibold hover:font-sc;
-        @apply text-sm;
+        & {
+            @apply block cursor-pointer m-2 border-x-4 border-white leading-none px-1 text-sm;
+        }
+        &:hover {
+            @apply border-green-700 text-green-700 font-semibold font-sc;
+        }
     }
     button.filter-on {
-        @apply border-black font-semibold font-sc;
-        @apply hover:border-gray-200 hover:font-normal hover:font-no-sc;
+        & {
+            @apply border-green-700 text-green-700 font-semibold font-sc;
+        }
+        &:hover {
+            @apply border-gray-200 text-gray-400 font-normal font-no-sc;
+        }
     }
 </style>
