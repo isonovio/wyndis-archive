@@ -1,0 +1,20 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "tenzki",
+    "nickname": "tenzki",
+    "name": "Jesper Plougmann Mikalski",
+    "nationality": "dk",
+    "birthday": "1994-06-25",
+    "tags": ["coach"],
+    "links": [
+        { "name": "ESEA", "url": "https://play.esea.net/users/523865" },
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/TENZKI" },
+        { "name": "HLTV", "url": "https://www.hltv.org/player/5287/tenzki" },
+        { "name": "Instagram", "url": "https://www.instagram.com/jespermikalski" },
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Tenzki" },
+        { "name": "Steam", "url": "https://steamcommunity.com/id/tenzk1ng/" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/tenzki" },
+        { "name": "Twitter", "url": "https://x.com/tenzkiCS" }
+    ]
+}

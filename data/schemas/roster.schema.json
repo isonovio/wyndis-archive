@@ -10,6 +10,7 @@
         "slug": { "$ref": "slug.schema.json" },
         "team": { "$ref": "slug.schema.json" },
         "players": { "type": "array", "items": { "$ref": "slug.schema.json" } },
+        "coach": { "$ref": "slug.schema.json" },
         "duration": { "$ref": "daterange.schema.json" }
     }
 }

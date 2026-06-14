@@ -17,7 +17,7 @@ const playerBlob = import.meta.glob<PlayerRaw>("$data/**/players/*.json", {
 
 const playersRaw = Object.values(playerBlob) satisfies PlayerRaw[];
 
-type PlayerTag = "twin" | "ninja";
+type PlayerTag = "twin" | "ninja" | "impact" | "coach";
 
 export type Player = {
     slug: string;

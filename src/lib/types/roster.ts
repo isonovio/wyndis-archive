@@ -10,6 +10,7 @@ type RosterRaw = {
     slug: string;
     team: string;
     players: string[];
+    coach?: string;
     duration?: DaterangeRaw;
 };
 
@@ -23,6 +24,7 @@ export type Roster = {
     slug: string;
     team: Team;
     players: Player[];
+    coach?: Player;
     duration?: Daterange;
 };
 
@@ -32,6 +34,7 @@ export const allRosters: ReadonlyMap<string, Roster> = Object.values(rostersRaw)
             ...v,
             team: allTeams.get(v.team)!,
             players: v.players.map((slug) => allPlayers.get(slug)!),
+            coach: v.coach ? allPlayers.get(v.coach) : undefined,
             duration: v.duration ? daterangeFromRaw(v.duration) : undefined,
         };
     })

@@ -47,12 +47,36 @@
                                                         {
                                                             "id": 1,
                                                             "map": "mrg",
-                                                            "result": "13:9"
+                                                            "result": "13:9",
+                                                            "rewatches": [
+                                                                {
+                                                                    "language": "en",
+                                                                    "casters": ["cptjamesforce"],
+                                                                    "parts": [
+                                                                        {
+                                                                            "link": { "name": "Twitch", "url": "https://www.twitch.tv/videos/2563139605" },
+                                                                            "duration": "00:00:18-00:52:11"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
                                                         },
                                                         {
                                                             "id": 2,
                                                             "map": "trn",
-                                                            "result": "13:4"
+                                                            "result": "13:4",
+                                                            "rewatches": [
+                                                                {
+                                                                    "language": "en",
+                                                                    "casters": ["cptjamesforce"],
+                                                                    "parts": [
+                                                                        {
+                                                                            "link": { "name": "Twitch", "url": "https://www.twitch.tv/videos/2563139605" },
+                                                                            "duration": "00:52:11-01:25:12"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 },
@@ -127,12 +151,36 @@
                                                         {
                                                             "id": 1,
                                                             "map": "anc",
-                                                            "result": "13:10"
+                                                            "result": "13:10",
+                                                            "rewatches": [
+                                                                {
+                                                                    "language": "en",
+                                                                    "casters": ["cptjamesforce"],
+                                                                    "parts": [
+                                                                        {
+                                                                            "link": { "name": "Twitch", "url": "https://www.twitch.tv/videos/2580604716" },
+                                                                            "duration": "00:10:25-01:08:09"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
                                                         },
                                                         {
                                                             "id": 2,
                                                             "map": "inf",
-                                                            "result": "13:5"
+                                                            "result": "13:5",
+                                                            "rewatches": [
+                                                                {
+                                                                    "language": "en",
+                                                                    "casters": ["cptjamesforce"],
+                                                                    "parts": [
+                                                                        {
+                                                                            "link": { "name": "Twitch", "url": "https://www.twitch.tv/videos/2580604716" },
+                                                                            "duration": "01:08:09-01:51:13"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 },

@@ -1,0 +1,20 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "mackdaddy",
+    "nickname": "MackDaddy",
+    "name": "Marcus Eriksson Gonzalez",
+    "nationality": "se",
+    "birthday": "1996-01-30",
+    "tags": ["coach"],
+    "links": [
+        { "name": "ESEA", "url": "https://play.esea.net/users/941332" },
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/MackDaddy" },
+        { "name": "HLTV", "url": "https://www.hltv.org/player/19067/mackdaddy" },
+        { "name": "Instagram", "url": "https://www.instagram.com/marcus.sseg" },
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/MackDaddy" },
+        { "name": "Steam", "url": "https://steamcommunity.com/id/MackDaddyo/" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/MackDaddy0" },
+        { "name": "Twitter", "url": "https://x.com/MackDaddyCS" }
+    ]
+}

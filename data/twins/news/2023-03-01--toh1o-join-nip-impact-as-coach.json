@@ -1,0 +1,12 @@
+{
+    "$schema": "../../schemas/newspiece.schema.json",
+
+    "slug": "toh1o-join-nip-impact-as-coach",
+    "title": "ToH1o join NIP as Impact team head coach",
+    "date": "2023-03-01",
+    "related": { "players": ["astra", "jenkon", "nayomy", "pauliiee", "qiyarah", "toh1o"], "teams": ["nipi"] },
+    "links": [
+        { "name": "NIP Tweet", "url": "https://x.com/NIPCS/status/1630915795898486785" },
+        { "name": "HLTV News", "url": "https://www.hltv.org/news/35732/changes-ahead-of-esl-impact-jtr-departs-nigma-galaxy-nip-sign-toh1o-danuu-leaves-navi-javelins" }
+    ]
+}

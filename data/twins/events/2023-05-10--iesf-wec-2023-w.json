@@ -252,7 +252,10 @@
                             "date": "2023-09-01",
                             "name": "Grand Final",
                             "lineups": { "team1": { "shorthand": "nlw" }, "team2": { "name": "Argentina Women" } },
-                            "links": [{ "name": "HLTV", "url": "https://www.hltv.org/matches/2366417/netherlands-fe-vs-argentina-fe-iesf-women-world-championship-2023" }],
+                            "links": [
+                                { "name": "HLTV", "url": "https://www.hltv.org/matches/2366417/netherlands-fe-vs-argentina-fe-iesf-women-world-championship-2023" },
+                                { "name": "HLTV News", "url": "https://www.hltv.org/news/36966/netherlands-win-iesf-women-world-championship" }
+                            ],
                             "maps": [
                                 {
                                     "id": 1,

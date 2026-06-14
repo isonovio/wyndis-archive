@@ -1,0 +1,12 @@
+{
+    "$schema": "../../schemas/newspiece.schema.json",
+
+    "slug": "vilga-join-nip-impact",
+    "title": "NIP officially sign vilga as Impact IGL",
+    "date": "2024-07-16",
+    "related": { "players": ["aim", "nayomy", "qiyarah", "ramziin", "vilga"], "teams": ["nipi"] },
+    "links": [
+        { "name": "NIP Tweet", "url": "https://x.com/NIPCS/status/1813227093536219414" },
+        { "name": "HLTV News", "url": "https://www.hltv.org/news/39396/nip-impact-sign-vilga" }
+    ]
+}

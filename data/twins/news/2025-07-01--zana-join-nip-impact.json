@@ -1,0 +1,13 @@
+{
+    "$schema": "../../schemas/newspiece.schema.json",
+
+    "slug": "zana-join-nip-impact",
+    "title": "NIP sign Zana as Impact awper",
+    "date": "2025-07-01",
+    "related": { "players": ["aim", "nayomy", "qiyarah", "vilga", "zana"], "teams": ["nipi"] },
+    "links": [
+        { "name": "NIP Tweet", "url": "https://x.com/NIPCS/status/1940108211421335844" },
+        { "name": "Zana Retweet", "url": "https://x.com/zanaCS2/status/1940108942341747176" },
+        { "name": "HLTV News", "url": "https://www.hltv.org/news/42089/nip-impact-replace-ramziin-with-zana" }
+    ]
+}

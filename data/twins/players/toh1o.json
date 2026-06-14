@@ -1,0 +1,19 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "toh1o",
+    "nickname": "ToH1o",
+    "name": "Антон Георгиев",
+    "nationality": "bg",
+    "birthday": "1989-06-30",
+    "tags": ["coach"],
+    "links": [
+        { "name": "ESEA", "url": "https://play.esea.net/users/536208" },
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/ToH1o" },
+        { "name": "HLTV", "url": "https://www.hltv.org/player/14246/toh1o" },
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/ToH1o" },
+        { "name": "Steam", "url": "https://steamcommunity.com/id/toh1o0o0/" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/toh1o0o" },
+        { "name": "Twitter", "url": "https://x.com/toh1o" }
+    ]
+}

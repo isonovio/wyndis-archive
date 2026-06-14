@@ -1,0 +1,13 @@
+{
+    "$schema": "../../schemas/newspiece.schema.json",
+
+    "slug": "ramziin-leave-nip-impact",
+    "title": "NIP part ways with ramziiN",
+    "date": "2025-07-01",
+    "related": { "players": ["aim", "nayomy", "qiyarah", "ramziin", "vilga"], "teams": ["nipi"] },
+    "links": [
+        { "name": "NIP Tweet", "url": "https://x.com/NIPCS/status/1940017667173126292" },
+        { "name": "ramziiN Retweet", "url": "https://x.com/ramziiNCS/status/1940017975467118851" },
+        { "name": "HLTV News", "url": "https://www.hltv.org/news/42089/nip-impact-replace-ramziin-with-zana" }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "$schema": "../../schemas/newspiece.schema.json",
+
+    "slug": "aim-join-nip-impact",
+    "title": "NIP complete Impact roster with aiM",
+    "date": "2023-07-19",
+    "related": { "players": ["aim", "astra", "jenkon", "nayomy", "qiyarah"], "teams": ["nipi"] },
+    "links": [
+        { "name": "NIP Tweet", "url": "https://x.com/NIPCS/status/1681650101440094214" },
+        { "name": "aiM Retweet", "url": "https://x.com/aiMCS2_/status/1681670000468271105" },
+        { "name": "HLTV News", "url": "https://www.hltv.org/news/36678/nip-impact-round-out-roster-with-aim" }
+    ]
+}

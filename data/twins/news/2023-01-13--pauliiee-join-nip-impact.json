@@ -1,0 +1,12 @@
+{
+    "$schema": "../../schemas/newspiece.schema.json",
+
+    "slug": "pauliiee-join-nip-impact",
+    "title": "NIP complete Impact roster with pauliiee",
+    "date": "2023-01-13",
+    "related": { "players": ["astra", "jenkon", "nayomy", "pauliiee", "qiyarah"], "teams": ["nipi"] },
+    "links": [
+        { "name": "NIP Tweet", "url": "https://x.com/NIPCS/status/1613883570195697665" },
+        { "name": "pauliee Retweet", "url": "https://x.com/pauliiee_/status/1613899779301318657" }
+    ]
+}

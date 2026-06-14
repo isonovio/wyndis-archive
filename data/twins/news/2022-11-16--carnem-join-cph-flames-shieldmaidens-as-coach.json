@@ -1,0 +1,9 @@
+{
+    "$schema": "../../schemas/newspiece.schema.json",
+
+    "slug": "carnem-join-cph-flames-shieldmaidens-as-coach",
+    "title": "CARNEM join CPH Flames as female team head coach",
+    "date": "2022-11-16",
+    "related": { "players": ["josefine", "nayay", "nayomy", "qiyarah", "ramziin", "carnem"], "teams": ["cfs"] },
+    "links": [{ "name": "CPH Flames Tweet", "url": "https://x.com/CPHFlames/status/1592858098745905153" }]
+}

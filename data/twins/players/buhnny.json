@@ -6,6 +6,7 @@
     "name": "Anna Cheung",
     "birthday": "1999-01-15",
     "nationality": "us",
+    "tags": ["impact"],
     "links": [
         { "name": "FACEIT", "url": "https://www.faceit.com/en/players/anna" },
         { "name": "HLTV", "url": "https://www.hltv.org/player/22890/buhnny" },

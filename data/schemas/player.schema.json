@@ -19,7 +19,7 @@
     "$defs": {
         "tag": {
             "type": "string",
-            "enum": ["twin", "ninja"]
+            "enum": ["twin", "ninja", "impact", "coach"]
         }
     }
 }

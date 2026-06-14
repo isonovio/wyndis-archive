@@ -1,0 +1,22 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "natosaphix",
+    "nickname": "NaToSaphiX",
+    "name": "Niels Christian Mohr Sillassen",
+    "nationality": "dk",
+    "birthday": "1996-08-17",
+    "tags": ["coach"],
+    "links": [
+        { "name": "ESEA", "url": "https://play.esea.net/users/386385" },
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/NaToSaphiX" },
+        { "name": "Facebook", "url": "https://www.facebook.com/NaToSaphiXcs" },
+        { "name": "HLTV", "url": "https://www.hltv.org/coach/9294/natosaphix" },
+        { "name": "Instagram", "url": "https://www.instagram.com/natosaphix" },
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/NaToSaphiX" },
+        { "name": "Steam", "url": "https://steamcommunity.com/id/NaToSaphiX/" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/natosaphix" },
+        { "name": "Twitter", "url": "https://x.com/NaToSaphiX" },
+        { "name": "YouTube", "url": "https://www.youtube.com/NaToSaphiX" }
+    ]
+}

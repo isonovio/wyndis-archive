@@ -1,0 +1,13 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "carnem",
+    "nickname": "CARNEM",
+    "name": "Jakob Sommer",
+    "nationality": "dk",
+    "tags": ["coach"],
+    "links": [
+        { "name": "HLTV", "url": "https://www.hltv.org/coach/23139/carnem" },
+        { "name": "Twitter", "url": "https://x.com/CARNEM9" }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "$schema": "../../schemas/newspiece.schema.json",
+
+    "slug": "tenzki-join-nip-impact-as-coach",
+    "title": "NIP sign tenzki as Impact team head coach",
+    "date": "2025-08-07",
+    "related": { "players": ["aim", "nayomy", "qiyarah", "vilga", "zana", "tenzki"], "teams": ["nipi"] },
+    "links": [
+        { "name": "NIP Tweet", "url": "https://x.com/NIPCS/status/1953508978501013663" },
+        { "name": "Zana Retweet", "url": "https://x.com/tenzkiCS/status/1953513809085173842" },
+        { "name": "HLTV Short News", "url": "https://www.hltv.org/news/42387/short-news-week-32#f14" }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "../../schemas/newspiece.schema.json",
+
+    "slug": "qiyarah-nayomy-transfer-to-nip-impact",
+    "title": "Qiyarah and Nayomy transfer to NIP Impact",
+    "date": "2023-01-13",
+    "related": { "players": ["astra", "jenkon", "josefine", "nayay", "nayomy", "pauliiee", "qiyarah", "ramziin"], "teams": ["cfs", "nipi"] },
+    "links": [
+        { "name": "NIP Tweet", "url": "https://x.com/NIPCS/status/1613883570195697665" },
+        { "name": "Nayomy Retweet", "url": "https://x.com/Nayomy_cs/status/1613886593340784644" },
+        { "name": "Qiyarah Retweet", "url": "https://x.com/Qiyarahcs/status/1613885852333080578" },
+        { "name": "CPH Flames Tweet", "url": "https://x.com/CPHFlames/status/1613883619621076992" }
+    ]
+}

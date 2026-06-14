@@ -6,6 +6,7 @@
     "name": "Josefine Jensen",
     "birthday": "2003-05-04",
     "nationality": "dk",
+    "tags": ["impact"],
     "links": [
         { "name": "HLTV", "url": "https://www.hltv.org/player/22094/josefine" },
         { "name": "Twitch", "url": "https://www.twitch.tv/josefinecs" },

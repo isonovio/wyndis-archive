@@ -1,0 +1,13 @@
+{
+    "$schema": "../../schemas/newspiece.schema.json",
+
+    "slug": "jenkon-leave-nip-impact",
+    "title": "NIP Impact part ways with jenkon",
+    "date": "2024-05-17",
+    "related": { "players": ["aim", "jenkon", "nayomy", "qiyarah", "ramziin"], "teams": ["nipi"] },
+    "links": [
+        { "name": "NIP Tweet", "url": "https://x.com/NIPCS/status/1791468792893014508" },
+        { "name": "jenkon Retweet", "url": "https://x.com/jenkoncs/status/1791473118600413493" },
+        { "name": "HLTV Short News", "url": "https://www.hltv.org/news/38972/short-news-week-20#f29" }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "$schema": "../../schemas/newspiece.schema.json",
+
+    "slug": "natosaphix-join-nip-impact-as-coach",
+    "title": "NaToSaphiX join NIP as Impact team head coach",
+    "date": "2024-03-07",
+    "related": { "players": ["aim", "jenkon", "nayomy", "qiyarah", "ramziin", "natosaphix"], "teams": ["nipi"] },
+    "links": [
+        { "name": "NIP Tweet", "url": "https://x.com/NIPCS/status/1765754351065141293" },
+        { "name": "NaToSaphiX Retweet", "url": "https://x.com/NaToSaphiX/status/1765756058931278006" },
+        { "name": "HLTV News", "url": "https://www.hltv.org/news/38443/natosaphix-joins-nip-impact-as-head-coach" }
+    ]
+}

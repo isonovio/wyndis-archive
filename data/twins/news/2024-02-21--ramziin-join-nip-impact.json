@@ -1,0 +1,12 @@
+{
+    "$schema": "../../schemas/newspiece.schema.json",
+
+    "slug": "ramziin-join-nip-impact",
+    "title": "NIP complete Impact roster with ramziiN",
+    "date": "2024-02-21",
+    "related": { "players": ["aim", "jenkon", "nayomy", "qiyarah", "ramziin"], "teams": ["nipi"] },
+    "links": [
+        { "name": "NIP Tweet", "url": "https://x.com/NIPCS/status/1760333558025965904" },
+        { "name": "HLTV News", "url": "https://www.hltv.org/news/38309/ramziin-joins-nip-impact" }
+    ]
+}

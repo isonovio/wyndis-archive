@@ -1,0 +1,14 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "rookie",
+    "nickname": "Rookie",
+    "name": "Pierre Haladjian",
+    "nationality": "lb",
+    "tags": ["coach"],
+    "links": [
+        { "name": "HLTV", "url": "https://www.hltv.org/player/11401/rookie" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/ro0kie_tv" },
+        { "name": "Twitter", "url": "https://x.com/ro0kie_tv" }
+    ]
+}

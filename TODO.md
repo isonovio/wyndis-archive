@@ -1,4 +1,5 @@
 ## short-term
+- `FormatText` component that substitutes team slugs and player slugs
 - Code
     - [ ] inside each module, use simplistic names instead of flatnames
     - [ ] rename `official-` types to `OfficialEvent`, `OfficialBracket`, etc.
