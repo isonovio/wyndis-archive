@@ -25,11 +25,3 @@
         {/each}
     </div>
 </div>
-
-<style lang="postcss">
-    @reference "$lib/styles/global.css";
-
-    /*.player {
-        @apply font-sc;
-    }*/
-</style>

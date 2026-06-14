@@ -1,7 +1,12 @@
 <script lang="ts">
     const currentYear = new Date().getFullYear();
 
-    const navs: [string, string][] = [["/credits/", "Credits"]];
+    const navs: [string, string][] = [
+        ["/why/", "Why"],
+        ["https://github.com/isonovio/ninjas-archive", "Source Code"],
+        ["/license/", "License"],
+        ["/credits/", "Credits"],
+    ];
 </script>
 
 <footer class="border-t border-gray-200 px-20 pb-8 pt-4 flex justify-between">

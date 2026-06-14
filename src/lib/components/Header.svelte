@@ -10,7 +10,7 @@
     ];
 </script>
 
-<header class="px-4 py-3 flex justify-between">
+<header class="px-8 py-3 flex justify-between">
     <nav class="flex gap-8">
         <a href="/" class="home"> Ninjas Archive </a>
         {#each navs as [route, title]}
