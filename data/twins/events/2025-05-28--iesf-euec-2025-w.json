@@ -1,0 +1,305 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "iesf-euec-2025-w",
+    "name": "IESF EEC 2025 Women",
+    "duration": { "start": "2025-05-28", "end": "2025-07-12" },
+    "links": [
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/IESF/European_Esports_Championship/2025/Female" },
+        { "name": "EEF", "url": "https://eef.gg/event/european-esports-championship-2025/" }
+    ],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nlw", "lineup": { "roster": "nlw-2023" } }],
+    "brackets": [
+        {
+            "slug": "s1",
+            "name": "Online Qualifiers",
+            "links": [
+                { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/IESF/European_Esports_Championship/2025/Female/Qualifier" },
+                { "name": "IESF", "url": "https://iesf.gg/public/event/72/sub/77" },
+                { "name": "Rules", "url": "https://drive.google.com/file/d/15fRCSIeHUyFn0fp7_brZN7qUDw4ngElO/edit" }
+            ],
+            "brackets": [
+                {
+                    "slug": "s1--group-stage",
+                    "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/tournaments/91299d0b-ddd6-44f7-c2de-08dd9b4fe54b" }],
+                    "brackets": [
+                        {
+                            "slug": "gb",
+                            "name": "Group B",
+                            "format": "round-robin",
+                            "matches": [
+                                {
+                                    "id": 1,
+                                    "date": "2025-05-28",
+                                    "lineups": { "team1": { "name": "Portugal Women" }, "team2": { "shorthand": "nlw" } },
+                                    "links": [{ "name": "IESF", "url": "https://iesf.gg/public/match/2724" }],
+                                    "maps": [
+                                        {
+                                            "id": 1,
+                                            "map": "anb",
+                                            "result": "13:5",
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/games/e6200697-220d-49ef-da07-08dd9d2a81aa" }],
+                                            "rewatches": [
+                                                {
+                                                    "language": "en",
+                                                    "casters": ["dktruman", "mjpinkman"],
+                                                    "tags": ["official"],
+                                                    "parts": [{ "link": { "name": "YouTube", "url": "https://youtu.be/L3Cwzyz19R0" }, "duration": "00:33:47-01:02:16" }]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 4,
+                                    "date": "2025-05-28",
+                                    "lineups": { "team1": { "shorthand": "nlw" }, "team2": { "name": "Austria Women" } },
+                                    "links": [{ "name": "IESF", "url": "https://iesf.gg/public/match/2729" }],
+                                    "maps": [
+                                        {
+                                            "id": 1,
+                                            "map": "unk",
+                                            "result": "13:1",
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/games/f43db26f-261e-4380-dba6-08dd9d2a81aa" }]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 8,
+                                    "date": "2025-05-29",
+                                    "lineups": { "team1": { "shorthand": "nlw" }, "team2": { "name": "Slovakia Women" } },
+                                    "links": [{ "name": "IESF", "url": "https://iesf.gg/public/match/2728" }],
+                                    "maps": [
+                                        {
+                                            "id": 1,
+                                            "map": "mrg",
+                                            "result": "13:7",
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/games/bf5a83d9-1d0d-4c22-27f4-08dd9ee86ec8" }]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 9,
+                                    "date": "2025-05-29",
+                                    "lineups": { "team1": { "shorthand": "nlw" }, "team2": { "name": "Croatia Women" } },
+                                    "links": [{ "name": "IESF", "url": "https://iesf.gg/public/match/2730" }],
+                                    "maps": [
+                                        {
+                                            "id": 1,
+                                            "map": "d2",
+                                            "result": "13:3",
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/games/7292466c-549d-49d1-cda1-08dd9ef0ba32" }]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "slug": "s2",
+                    "name": "Playoffs",
+                    "format": "single-elimination",
+                    "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/tournaments/8bb4fb3b-4b80-4531-dfb2-08dd9c2bc8e3" }],
+                    "brackets": [
+                        {
+                            "slug": "r1",
+                            "name": "Round of 16",
+                            "matches": [
+                                {
+                                    "id": 2,
+                                    "date": "2025-05-31",
+                                    "lineups": { "team1": { "name": "Hungary Women" }, "team2": { "shorthand": "nlw" } },
+                                    "links": [{ "name": "IESF", "url": "https://iesf.gg/public/match/2755" }],
+                                    "maps": [
+                                        {
+                                            "id": 1,
+                                            "map": "anb",
+                                            "result": "4:13",
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/games/feefbe6e-7615-4eab-d28a-08dd9ef0ba32" }]
+                                        },
+                                        {
+                                            "id": 2,
+                                            "map": "mrg",
+                                            "result": "7:13",
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/games/388db586-1016-4681-d2de-08dd9ef0ba32" }]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "slug": "r2",
+                            "name": "Quarterfinals",
+                            "matches": [
+                                {
+                                    "id": 1,
+                                    "date": "2025-06-01",
+                                    "lineups": { "team1": { "name": "France Women" }, "team2": { "shorthand": "nlw" } },
+                                    "links": [{ "name": "IESF", "url": "https://iesf.gg/public/match/2762" }],
+                                    "maps": [
+                                        {
+                                            "id": 1,
+                                            "map": "d2",
+                                            "result": "13:5",
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/iesf/games/d43cf36c-1e48-4f23-dd74-08dd9ef0ba32" }]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "s2",
+            "name": "Finals",
+            "tags": ["lan"],
+            "brackets": [
+                {
+                    "slug": "s1--group-stage",
+                    "brackets": [
+                        {
+                            "slug": "gb",
+                            "name": "Group B",
+                            "format": "double-elimination",
+                            "matches": [
+                                {
+                                    "id": 1,
+                                    "name": "Opening Match 1",
+                                    "date": "2025-07-09",
+                                    "lineups": { "team1": { "name": "Portugal Women" }, "team2": { "shorthand": "nlw" } },
+                                    "links": [
+                                        { "name": "HLTV", "url": "https://www.hltv.org/matches/2383504/portugal-fe-vs-netherlands-fe-eef-women-european-esports-championship-2025" }
+                                    ],
+                                    "maps": [
+                                        { "id": 1, "map": "anb", "result": "16:14" },
+                                        { "id": 2, "map": "d2", "result": "7:13" },
+                                        { "id": 3, "map": "inf", "result": "7:13" }
+                                    ]
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Winner's Match",
+                                    "date": "2025-07-10",
+                                    "lineups": { "team1": { "shorthand": "nlw" }, "team2": { "name": "Germany Women" } },
+                                    "links": [
+                                        { "name": "HLTV", "url": "https://www.hltv.org/matches/2383509/germany-fe-vs-netherlands-fe-eef-women-european-esports-championship-2025" }
+                                    ],
+                                    "maps": [
+                                        { "id": 1, "map": "trn", "result": "13:3" },
+                                        { "id": 2, "map": "mrg", "result": "13:4" }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "slug": "s2",
+                    "name": "Playoffs",
+                    "matches": [
+                        {
+                            "id": 2,
+                            "name": "Semifinal 2",
+                            "date": "2025-07-11",
+                            "lineups": { "team1": { "name": "Sweden Women" }, "team2": { "shorthand": "nlw" } },
+                            "links": [{ "name": "HLTV", "url": "https://www.hltv.org/matches/2383513/netherlands-fe-vs-sweden-fe-eef-women-european-esports-championship-2025" }],
+                            "maps": [
+                                {
+                                    "id": 1,
+                                    "map": "d2",
+                                    "result": "6:13",
+                                    "rewatches": [
+                                        {
+                                            "language": "en",
+                                            "casters": ["bdog", "lucyluce"],
+                                            "tags": ["official"],
+                                            "parts": [{ "link": { "name": "YouTube", "url": "https://youtu.be/iNhHFkwYjaA" }, "duration": "00:16:52-01:08:23" }]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 2,
+                                    "map": "inf",
+                                    "result": "13:6",
+                                    "rewatches": [
+                                        {
+                                            "language": "en",
+                                            "casters": ["bdog", "lucyluce"],
+                                            "tags": ["official"],
+                                            "parts": [{ "link": { "name": "YouTube", "url": "https://youtu.be/iNhHFkwYjaA" }, "duration": "01:10:06-01:59:37" }]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 3,
+                                    "map": "anc",
+                                    "result": "8:13",
+                                    "rewatches": [
+                                        {
+                                            "language": "en",
+                                            "casters": ["bdog", "lucyluce"],
+                                            "tags": ["official"],
+                                            "parts": [{ "link": { "name": "YouTube", "url": "https://youtu.be/iNhHFkwYjaA" }, "duration": "02:09:20-03:01:01" }]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "name": "Grand Final",
+                            "date": "2025-07-12",
+                            "lineups": { "team1": { "name": "France Women" }, "team2": { "shorthand": "nlw" } },
+                            "links": [{ "name": "HLTV", "url": "https://www.hltv.org/matches/2383515/zerance-vs-netherlands-fe-eef-women-european-esports-championship-2025" }],
+                            "maps": [
+                                {
+                                    "id": 1,
+                                    "map": "inf",
+                                    "result": "19:16",
+                                    "rewatches": [
+                                        {
+                                            "language": "en",
+                                            "casters": ["bdog", "lucyluce"],
+                                            "tags": ["official"],
+                                            "parts": [{ "link": { "name": "YouTube", "url": "https://youtu.be/MtaHbASG8QY" }, "duration": "00:13:59-01:59:03" }]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 2,
+                                    "map": "anc",
+                                    "result": "4:13",
+                                    "rewatches": [
+                                        {
+                                            "language": "en",
+                                            "casters": ["bdog", "lucyluce"],
+                                            "tags": ["official"],
+                                            "parts": [{ "link": { "name": "YouTube", "url": "https://youtu.be/MtaHbASG8QY" }, "duration": "02:10:03-02:55:06" }]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 3,
+                                    "map": "anb",
+                                    "result": "16:14",
+                                    "rewatches": [
+                                        {
+                                            "language": "en",
+                                            "casters": ["bdog", "lucyluce"],
+                                            "tags": ["official"],
+                                            "parts": [{ "link": { "name": "YouTube", "url": "https://youtu.be/MtaHbASG8QY" }, "duration": "03:02:34-04:31:52" }]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

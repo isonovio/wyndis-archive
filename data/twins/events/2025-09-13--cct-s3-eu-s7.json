@@ -1,0 +1,69 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "cct-s3-eu-s7",
+    "name": "CCT Season 3 European Series #7",
+    "duration": { "start": "2025-09-13", "end": "2025-10-01" },
+    "links": [
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/CCT/Season_3/Europe/Series_7" },
+        { "name": "Rules", "url": "https://docs.google.com/document/d/1kLvPgQ09_2_TI7-rO_Ouq_Z0jR6XhArT_mUEVGqEcB0/edit" },
+        { "name": "HLTV", "url": "https://www.hltv.org/events/8696/cct-season-3-europe-series-7" }
+    ],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2025-1" } }],
+    "brackets": [
+        {
+            "slug": "s1",
+            "name": "Closed Q.",
+            "links": [
+                { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/CCT/Season_3/Europe/Series_7/Play-In" },
+                { "name": "HLTV", "url": "https://www.hltv.org/events/8695/cct-season-3-europe-series-7-closed-qualifier" }
+            ],
+            "brackets": [
+                {
+                    "slug": "s1--group-stage",
+                    "brackets": [
+                        {
+                            "slug": "ga",
+                            "name": "Group A",
+                            "format": "double-elimination",
+                            "matches": [
+                                {
+                                    "id": 1,
+                                    "name": "Opening Match 1",
+                                    "date": "2025-09-13",
+                                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "Square Sausages" } },
+                                    "links": [
+                                        {
+                                            "name": "HLTV",
+                                            "url": "https://www.hltv.org/matches/2385549/nip-impact-vs-square-sausages-cct-season-3-europe-series-7-closed-qualifier"
+                                        }
+                                    ],
+                                    "maps": [
+                                        { "id": 1, "map": "ovp", "result": "13:10" },
+                                        { "id": 2, "map": "inf", "result": "16:12" }
+                                    ]
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Elimination Match",
+                                    "date": "2025-09-14",
+                                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "ex-HEROIC Academy" } },
+                                    "links": [
+                                        {
+                                            "name": "HLTV",
+                                            "url": "https://www.hltv.org/matches/2385557/nip-impact-vs-ex-heroic-academy-cct-season-3-europe-series-7-closed-qualifier"
+                                        }
+                                    ],
+                                    "maps": [
+                                        { "id": 1, "map": "d2", "result": "1:13" },
+                                        { "id": 2, "map": "anc", "result": "4:13" }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

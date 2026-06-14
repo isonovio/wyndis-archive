@@ -1,0 +1,61 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "paramigo-cup-2",
+    "name": "Paramigo Cup #2",
+    "duration": { "start": "2025-04-28", "end": "2025-05-04" },
+    "links": [
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Paramigo_Cup/2" },
+        { "name": "Rules", "url": "https://docs.google.com/document/d/1pi85w6c-7nmDlbA1q9Ry2_64-tAcmr2fIOwdbLGMeTQ/edit" }
+    ],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-2" } }],
+    "brackets": [
+        {
+            "slug": "s1--group-stage",
+            "brackets": [
+                {
+                    "slug": "ga",
+                    "name": "Group A",
+                    "format": "double-elimination",
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/championship/4a3c6b2b-e926-4ca7-9daf-dea49b5b0708" }],
+                    "matches": [
+                        {
+                            "id": 2,
+                            "name": "Opening Match 2",
+                            "date": "2025-04-28",
+                            "lineups": { "team1": { "name": "Forever" }, "team2": { "shorthand": "nipi" } },
+                            "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-33f7fcb8-00f2-4fa7-98ec-2eafa828f557" }],
+                            "maps": [
+                                { "id": 1, "map": "inf", "result": "13:10" },
+                                { "id": 2, "map": "mrg", "result": "13:2" }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "name": "Elimination Match",
+                            "date": "2025-04-28",
+                            "lineups": { "team1": { "name": "C.S.D.E" }, "team2": { "shorthand": "nipi" } },
+                            "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-dcbc2480-2f89-465a-b5d2-4833a388ae56" }],
+                            "maps": [
+                                { "id": 1, "map": "mrg", "result": "13:9" },
+                                { "id": 2, "map": "d2", "result": "13:8" }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "slug": "gb",
+                    "name": "Group B",
+                    "format": "double-elimination",
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/championship/39db9f1e-8cd6-4f52-9fef-95147367f6bc" }]
+                }
+            ]
+        },
+        {
+            "slug": "s2",
+            "name": "Playoffs",
+            "format": "single-elimination",
+            "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/championship/2ba06e7d-e184-4d02-a793-95b60df6f5ce" }]
+        }
+    ]
+}

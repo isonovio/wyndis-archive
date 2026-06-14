@@ -1,0 +1,67 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "yalla-compass-2025-winter",
+    "name": "YaLLa Compass Winter 2025",
+    "duration": { "start": "2025-01-13", "end": "2025-03-12" },
+    "links": [
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/YaLLa_Compass/2025/Winter" },
+        { "name": "Rules", "url": "https://docs.google.com/document/d/1ImgmirKL_7b6m8O6kKuCWAtukiAGMhCS0uGKu3Dmrf0/edit" }
+    ],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-2" } }],
+    "brackets": [
+        {
+            "slug": "s2",
+            "name": "Main Stage",
+            "format": "swiss",
+            "links": [{ "name": "L.p.", "url": "https://liquipedia.net/counterstrike/YaLLa_Compass/2025/Winter/Main_Stage" }],
+            "brackets": [
+                {
+                    "slug": "r1b1",
+                    "name": "Bracket 0:0",
+                    "matches": [
+                        {
+                            "id": 2,
+                            "date": "2025-02-10",
+                            "lineups": { "team1": { "name": "ECLOT" }, "team2": { "shorthand": "nipi" } },
+                            "links": [{ "name": "HLTV", "url": "https://www.hltv.org/matches/2379156/eclot-vs-nip-impact-yalla-compass-winter-2025" }],
+                            "maps": [
+                                { "id": 1, "map": "anc", "result": "13:1" },
+                                { "id": 2, "map": "mrg", "result": "13:1" }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "slug": "r2b2",
+                    "name": "Bracket 0:1",
+                    "matches": [
+                        {
+                            "id": 1,
+                            "date": "2025-02-18",
+                            "lineups": { "team1": { "name": "Sashi" }, "team2": { "shorthand": "nipi" } },
+                            "links": [{ "name": "HLTV", "url": "https://www.hltv.org/matches/2379580/sashi-vs-nip-impact-yalla-compass-winter-2025" }],
+                            "maps": [
+                                { "id": 1, "map": "inf", "result": "13:3" },
+                                { "id": 2, "map": "mrg", "result": "13:3" }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "slug": "r3b3",
+                    "name": "Bracket 0:2",
+                    "matches": [
+                        {
+                            "id": 1,
+                            "date": "2025-02-26",
+                            "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "ESC Gaming" } },
+                            "maps": [],
+                            "note": "NIP Impact forfeited the match."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

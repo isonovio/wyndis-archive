@@ -5,7 +5,7 @@
     "name": "ESL Impact League Season 3",
     "duration": { "start": "2023-02-17", "end": "2023-06-04" },
     "links": [
-        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_3" },
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_3" },
         { "name": "ESL", "url": "https://pro.eslgaming.com/csgo/impact/dallas/" },
         { "name": "Rules", "url": "https://drive.google.com/drive/folders/1v4L7HzKChaQuzb6rjFeXk9lBRgw5GrG-" }
     ],
@@ -19,7 +19,7 @@
                     "slug": "d1eu",
                     "name": "Europe",
                     "links": [
-                        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_3/Europe" },
+                        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_3/Europe" },
                         { "name": "HLTV", "url": "https://www.hltv.org/events/7105/esl-impact-league-season-3-europe" }
                     ],
                     "brackets": [

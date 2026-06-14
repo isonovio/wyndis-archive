@@ -1,0 +1,9 @@
+{
+    "$schema": "../../schemas/talent.schema.json",
+    "slug": "dktruman",
+    "nickname": "Dktruman",
+    "socials": [
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Dktruman" },
+        { "name": "Twitter", "url": "https://x.com/DktrumanTV" }
+    ]
+}

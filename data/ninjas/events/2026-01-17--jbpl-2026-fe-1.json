@@ -7,7 +7,7 @@
     "links": [
         { "name": "JBPL", "url": "https://jbproleague.com/news/11b110d1-1125-483a-b5bd-bcbd115afac4" },
         { "name": "GitHub", "url": "https://github.com/VANTAGL/JB-Pro-League-2026-female-1" },
-        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/JB_Pro_League/Female/Season_1" }
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/JB_Pro_League/Female/Season_1" }
     ],
     "participants": [
         { "shorthand": "big", "lineup": { "roster": "big-equipa-2026-1" } },
@@ -22,8 +22,8 @@
                     "name": "Qualifier 1",
                     "duration": { "start": "2026-01-17", "end": "2026-01-18" },
                     "links": [
-                        { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/tournaments/2433d911-686d-46d3-7ad9-08de3ae2e258" },
-                        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/JB_Pro_League/Female/Season_1/Qualifier/1" }
+                        { "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/tournaments/2433d911-686d-46d3-7ad9-08de3ae2e258" },
+                        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/JB_Pro_League/Female/Season_1/Qualifier/1" }
                     ],
                     "participants": [{ "shorthand": "lhc", "lineup": { "roster": "let-her-cook-2026-1" } }],
                     "brackets": [
@@ -40,9 +40,7 @@
                                             "id": 1,
                                             "map": "mrg",
                                             "result": "13:11",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/f9c84d20-cf58-4409-4eaf-08de50e4e82f" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/f9c84d20-cf58-4409-4eaf-08de50e4e82f" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["affinity"],
@@ -55,9 +53,7 @@
                                             "id": 2,
                                             "map": "anc",
                                             "result": "13:9",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/45499927-1f28-43e9-4f58-08de50e4e82f" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/45499927-1f28-43e9-4f58-08de50e4e82f" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["affinity"],
@@ -77,17 +73,13 @@
                                             "id": 1,
                                             "map": "mrg",
                                             "result": "13:11",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/d9b053bf-4778-4cbf-4ef4-08de50e4e82f" }
-                                            ]
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/d9b053bf-4778-4cbf-4ef4-08de50e4e82f" }]
                                         },
                                         {
                                             "id": 2,
                                             "map": "ovp",
                                             "result": "8:13",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/a1a45b5e-b61f-406c-4f8c-08de50e4e82f" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/a1a45b5e-b61f-406c-4f8c-08de50e4e82f" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["affinity"],
@@ -101,9 +93,7 @@
                                             "id": 3,
                                             "map": "anc",
                                             "result": "13:9",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/156b5721-df54-4fc7-502b-08de50e4e82f" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/156b5721-df54-4fc7-502b-08de50e4e82f" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["affinity"],
@@ -123,17 +113,13 @@
                                             "id": 1,
                                             "map": "d2",
                                             "result": "16:12",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/5a508d64-c21c-4961-4fd5-08de50e4e82f" }
-                                            ]
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/5a508d64-c21c-4961-4fd5-08de50e4e82f" }]
                                         },
                                         {
                                             "id": 2,
                                             "map": "nuke",
                                             "result": "7:13",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/d1e60e0d-a11d-469d-50b3-08de50e4e82f" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/d1e60e0d-a11d-469d-50b3-08de50e4e82f" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["affinity"],
@@ -147,9 +133,7 @@
                                             "id": 3,
                                             "map": "anc",
                                             "result": "16:13",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/c9b970db-ae4f-4638-5164-08de50e4e82f" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/c9b970db-ae4f-4638-5164-08de50e4e82f" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["affinity"],
@@ -175,17 +159,13 @@
                                             "id": 1,
                                             "map": "anb",
                                             "result": "13:4",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/a7a35592-b767-4bb0-1af1-08de5669da63" }
-                                            ]
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/a7a35592-b767-4bb0-1af1-08de5669da63" }]
                                         },
                                         {
                                             "id": 2,
                                             "map": "mrg",
                                             "result": "13:8",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/29729e3e-c979-4ef3-1b4e-08de5669da63" }
-                                            ]
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/29729e3e-c979-4ef3-1b4e-08de5669da63" }]
                                         }
                                     ]
                                 },
@@ -198,9 +178,7 @@
                                             "id": 1,
                                             "map": "mrg",
                                             "result": "13:4",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/d3ecde69-91a9-48e1-1af6-08de5669da63" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/d3ecde69-91a9-48e1-1af6-08de5669da63" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["affinity"],
@@ -214,9 +192,7 @@
                                             "id": 2,
                                             "map": "anc",
                                             "result": "11:13",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/6ddc02df-3a4b-4279-1b4b-08de5669da63" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/6ddc02df-3a4b-4279-1b4b-08de5669da63" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["affinity"],
@@ -230,9 +206,7 @@
                                             "id": 3,
                                             "map": "d2",
                                             "result": "11:13",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/39176e60-4a9b-41cf-1bca-08de5669da63" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/39176e60-4a9b-41cf-1bca-08de5669da63" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["affinity"],
@@ -259,9 +233,7 @@
                                             "id": 1,
                                             "map": "d2",
                                             "result": "13:3",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/ab08bc9e-faa4-4a2b-1cb5-08de5669da63" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/ab08bc9e-faa4-4a2b-1cb5-08de5669da63" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["affinity"],
@@ -275,9 +247,7 @@
                                             "id": 2,
                                             "map": "mrg",
                                             "result": "16:13",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/0575363b-3800-4e1a-1ef1-08de5669da63" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/0575363b-3800-4e1a-1ef1-08de5669da63" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["affinity"],
@@ -298,9 +268,7 @@
                                             "id": 1,
                                             "map": "anc",
                                             "result": "16:14",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/7da54e7c-f15c-41f4-20be-08de5669da63" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/7da54e7c-f15c-41f4-20be-08de5669da63" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["sxstem"],
@@ -314,9 +282,7 @@
                                             "id": 2,
                                             "map": "mrg",
                                             "result": "13:11",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/ad1c0aad-f30d-4217-2171-08de5669da63" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/ad1c0aad-f30d-4217-2171-08de5669da63" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["sxstem"],
@@ -343,9 +309,7 @@
                                             "id": 1,
                                             "map": "d2",
                                             "result": "2:13",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/dccb7b58-b8a9-4258-2320-08de5669da63" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/dccb7b58-b8a9-4258-2320-08de5669da63" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["sxstem"],
@@ -359,9 +323,7 @@
                                             "id": 2,
                                             "map": "mrg",
                                             "result": "13:8",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/9e626949-f099-4c38-23bd-08de5669da63" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/9e626949-f099-4c38-23bd-08de5669da63" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["sxstem"],
@@ -375,9 +337,7 @@
                                             "id": 3,
                                             "map": "anc",
                                             "result": "9:13",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/9ccd16a4-2577-4486-2500-08de5669da63" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/9ccd16a4-2577-4486-2500-08de5669da63" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["sxstem"],
@@ -398,8 +358,8 @@
                     "name": "Qualifier 2",
                     "duration": { "start": "2026-01-24", "end": "2026-01-25" },
                     "links": [
-                        { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/tournaments/af8accf4-262d-44fb-1876-08de40692357" },
-                        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/JB_Pro_League/Female/Season_1/Qualifier/2" }
+                        { "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/tournaments/af8accf4-262d-44fb-1876-08de40692357" },
+                        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/JB_Pro_League/Female/Season_1/Qualifier/2" }
                     ],
                     "participants": [{ "shorthand": "lhc", "lineup": { "roster": "let-her-cook-2026-2" } }],
                     "brackets": [
@@ -416,17 +376,13 @@
                                             "id": 1,
                                             "map": "d2",
                                             "result": "13:3",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/b24dec54-ce34-4b17-d815-08de5760407c" }
-                                            ]
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/b24dec54-ce34-4b17-d815-08de5760407c" }]
                                         },
                                         {
                                             "id": 2,
                                             "map": "anc",
                                             "result": "13:7",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/f886aeb0-3e71-45cd-d87f-08de5760407c" }
-                                            ]
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/f886aeb0-3e71-45cd-d87f-08de5760407c" }]
                                         }
                                     ]
                                 },
@@ -439,25 +395,19 @@
                                             "id": 1,
                                             "map": "anc",
                                             "result": "13:2",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/a1e1b576-71d9-4682-d87b-08de5760407c" }
-                                            ]
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/a1e1b576-71d9-4682-d87b-08de5760407c" }]
                                         },
                                         {
                                             "id": 2,
                                             "map": "mrg",
                                             "result": "17:19",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/a9c5bf63-7395-4ac7-d8de-08de5760407c" }
-                                            ]
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/a9c5bf63-7395-4ac7-d8de-08de5760407c" }]
                                         },
                                         {
                                             "id": 3,
                                             "map": "d2",
                                             "result": "13:10",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/ac782289-ad13-4385-d9f9-08de5760407c" }
-                                            ]
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/ac782289-ad13-4385-d9f9-08de5760407c" }]
                                         }
                                     ]
                                 }
@@ -476,9 +426,7 @@
                                             "id": 1,
                                             "map": "nuke",
                                             "result": "13:2",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/0d2a2a93-6bf1-4b3e-e84d-08de5760407c" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/0d2a2a93-6bf1-4b3e-e84d-08de5760407c" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["lucyluce"],
@@ -492,9 +440,7 @@
                                             "id": 2,
                                             "map": "anc",
                                             "result": "13:11",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/8ca13aa8-8d3d-44d7-e8ac-08de5760407c" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/8ca13aa8-8d3d-44d7-e8ac-08de5760407c" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["lucyluce"],
@@ -518,25 +464,19 @@
                                             "id": 1,
                                             "map": "anb",
                                             "result": "13:9",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/740d33e2-4e19-4ff9-e858-08de5760407c" }
-                                            ]
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/740d33e2-4e19-4ff9-e858-08de5760407c" }]
                                         },
                                         {
                                             "id": 2,
                                             "map": "anc",
                                             "result": "10:13",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/0528e915-fba2-4596-e8c2-08de5760407c" }
-                                            ]
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/0528e915-fba2-4596-e8c2-08de5760407c" }]
                                         },
                                         {
                                             "id": 3,
                                             "map": "mrg",
                                             "result": "13:8",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/f6b2469f-fa2a-4c6c-e98c-08de5760407c" }
-                                            ]
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/f6b2469f-fa2a-4c6c-e98c-08de5760407c" }]
                                         }
                                     ]
                                 }
@@ -555,9 +495,7 @@
                                             "id": 1,
                                             "map": "inf",
                                             "result": "13:16",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/50da2161-6e7c-4be6-ebe7-08de5760407c" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/50da2161-6e7c-4be6-ebe7-08de5760407c" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["naorimizuki"],
@@ -571,9 +509,7 @@
                                             "id": 2,
                                             "map": "anc",
                                             "result": "7:13",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/f6d6404a-d98d-48a4-eccf-08de5760407c" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/f6d6404a-d98d-48a4-eccf-08de5760407c" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["naorimizuki"],
@@ -594,9 +530,7 @@
                                             "id": 1,
                                             "map": "nuke",
                                             "result": "7:13",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/e675b1a0-1d12-40ab-ea38-08de5760407c" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/e675b1a0-1d12-40ab-ea38-08de5760407c" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["lucyluce"],
@@ -610,9 +544,7 @@
                                             "id": 2,
                                             "map": "anc",
                                             "result": "13:10",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/aac161c6-f947-4090-eaa5-08de5760407c" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/aac161c6-f947-4090-eaa5-08de5760407c" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["lucyluce"],
@@ -626,9 +558,7 @@
                                             "id": 3,
                                             "map": "anb",
                                             "result": "13:16",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/89d68884-d0df-4326-eb1f-08de5760407c" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/89d68884-d0df-4326-eb1f-08de5760407c" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["lucyluce"],
@@ -655,9 +585,7 @@
                                             "id": 1,
                                             "map": "nuke",
                                             "result": "8:13",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/3a1a16d1-dcab-4dd2-edae-08de5760407c" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/3a1a16d1-dcab-4dd2-edae-08de5760407c" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["naorimizuki"],
@@ -671,9 +599,7 @@
                                             "id": 2,
                                             "map": "anc",
                                             "result": "13:7",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/f6410531-8ec7-46b8-ee60-08de5760407c" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/f6410531-8ec7-46b8-ee60-08de5760407c" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["naorimizuki"],
@@ -687,9 +613,7 @@
                                             "id": 3,
                                             "map": "mrg",
                                             "result": "13:11",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/4b904974-0fe1-4a2c-ef20-08de5760407c" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/4b904974-0fe1-4a2c-ef20-08de5760407c" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["naorimizuki"],
@@ -710,8 +634,8 @@
                     "name": "Qualifier 3",
                     "duration": { "start": "2026-01-31", "end": "2026-02-01" },
                     "links": [
-                        { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/tournaments/acd3cf54-edac-4040-1877-08de40692357" },
-                        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/JB_Pro_League/Female/Season_1/Qualifier/3" }
+                        { "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/tournaments/acd3cf54-edac-4040-1877-08de40692357" },
+                        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/JB_Pro_League/Female/Season_1/Qualifier/3" }
                     ],
                     "participants": [{ "shorthand": "lhc", "lineup": { "roster": "let-her-cook-2026-2" } }],
                     "brackets": [
@@ -731,25 +655,19 @@
                                             "id": 1,
                                             "map": "nuke",
                                             "result": "13:9",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/2d619f8e-30d2-4858-3e5d-08de5760407d" }
-                                            ]
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/2d619f8e-30d2-4858-3e5d-08de5760407d" }]
                                         },
                                         {
                                             "id": 2,
                                             "map": "mrg",
                                             "result": "10:13",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/7175a05f-eedb-42c4-3f85-08de5760407d" }
-                                            ]
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/7175a05f-eedb-42c4-3f85-08de5760407d" }]
                                         },
                                         {
                                             "id": 3,
                                             "map": "d2",
                                             "result": "13:16",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/c4c54fc4-2437-436d-40ca-08de5760407d" }
-                                            ]
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/c4c54fc4-2437-436d-40ca-08de5760407d" }]
                                         }
                                     ]
                                 }
@@ -768,9 +686,7 @@
                                             "id": 1,
                                             "map": "mrg",
                                             "result": "13:9",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/81ce05d4-8760-46c7-5178-08de60ebcb60" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/81ce05d4-8760-46c7-5178-08de60ebcb60" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["affinity"],
@@ -784,9 +700,7 @@
                                             "id": 2,
                                             "map": "anc",
                                             "result": "6:13",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/06d931df-c556-416a-f0dc-08de6174dbff" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/06d931df-c556-416a-f0dc-08de6174dbff" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["affinity"],
@@ -800,9 +714,7 @@
                                             "id": 3,
                                             "map": "anb",
                                             "result": "13:3",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/0cfe618d-21c1-4ab3-f16c-08de6174dbff" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/0cfe618d-21c1-4ab3-f16c-08de6174dbff" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["affinity"],
@@ -832,9 +744,7 @@
                                             "id": 1,
                                             "map": "d2",
                                             "result": "13:8",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/21e0df3f-0cab-4069-f26b-08de6174dbff" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/21e0df3f-0cab-4069-f26b-08de6174dbff" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["affinity"],
@@ -848,9 +758,7 @@
                                             "id": 2,
                                             "map": "anc",
                                             "result": "13:1",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/4832d50d-3931-43e3-f2f2-08de6174dbff" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/4832d50d-3931-43e3-f2f2-08de6174dbff" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["affinity"],
@@ -877,9 +785,7 @@
                                             "id": 1,
                                             "map": "anc",
                                             "result": "4:13",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/cc437516-3c05-4895-f763-08de6174dbff" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/cc437516-3c05-4895-f763-08de6174dbff" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["fabbelit0"],
@@ -893,9 +799,7 @@
                                             "id": 2,
                                             "map": "mrg",
                                             "result": "6:13",
-                                            "links": [
-                                                { "name": "Challengermode", "url": "https://www.challengermode.com/s/JBProLeague/games/1d0dd259-cfec-4957-f872-08de6174dbff" }
-                                            ],
+                                            "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/JBProLeague/games/1d0dd259-cfec-4957-f872-08de6174dbff" }],
                                             "rewatches": [
                                                 {
                                                     "casters": ["fabbelit0"],

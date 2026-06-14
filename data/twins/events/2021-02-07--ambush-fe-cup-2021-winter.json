@@ -4,7 +4,7 @@
     "slug": "ambush-fe-cup-2021-winter",
     "name": "Ambush Female Winter Cup",
     "duration": { "start": "2021-02-07", "end": "2021-02-28" },
-    "links": [{ "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/Ambush_Female_Cup/2021/Winter" }],
+    "links": [{ "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Ambush_Female_Cup/2021/Winter" }],
     "tags": ["impact"],
     "participants": [{ "shorthand": "nsc", "lineup": { "roster": "nsc-2021-1" } }],
     "brackets": [

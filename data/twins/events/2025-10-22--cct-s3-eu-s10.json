@@ -1,0 +1,61 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "cct-s3-eu-s10",
+    "name": "CCT Season 3 European Series #10",
+    "duration": { "start": "2025-10-22", "end": "2025-11-09" },
+    "links": [
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/CCT/Season_3/Europe/Series_10" },
+        { "name": "Rules", "url": "https://docs.google.com/document/d/1kLvPgQ09_2_TI7-rO_Ouq_Z0jR6XhArT_mUEVGqEcB0/edit" },
+        { "name": "HLTV", "url": "https://www.hltv.org/events/8774/cct-season-3-europe-series-10" }
+    ],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2025-1" } }],
+    "brackets": [
+        {
+            "slug": "s1",
+            "name": "Closed Q.",
+            "links": [
+                { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/CCT/Season_3/Europe/Series_10/Play-In" },
+                { "name": "HLTV", "url": "https://www.hltv.org/events/8773/cct-season-3-europe-series-10-closed-qualifier" }
+            ],
+            "brackets": [
+                {
+                    "slug": "s1--group-stage",
+                    "brackets": [
+                        {
+                            "slug": "gb",
+                            "name": "Group B",
+                            "format": "double-elimination",
+                            "matches": [
+                                {
+                                    "id": 2,
+                                    "name": "Opening Match 2",
+                                    "date": "2025-10-22",
+                                    "lineups": { "team1": { "name": "ENCE Academy" }, "team2": { "shorthand": "nipi" } },
+                                    "links": [
+                                        { "name": "HLTV", "url": "https://www.hltv.org/matches/2387029/ence-academy-vs-nip-impact-cct-season-3-europe-series-10-closed-qualifier" }
+                                    ],
+                                    "maps": [
+                                        { "id": 1, "map": "inf", "result": "13:2" },
+                                        { "id": 2, "map": "d2", "result": "13:10" }
+                                    ]
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Elimination Match",
+                                    "date": "2025-10-23",
+                                    "lineups": { "team1": { "name": "RUBY" }, "team2": { "shorthand": "nipi" } },
+                                    "links": [{ "name": "HLTV", "url": "https://www.hltv.org/matches/2387031/ruby-vs-nip-impact-cct-season-3-europe-series-10-closed-qualifier" }],
+                                    "maps": [
+                                        { "id": 1, "map": "trn", "result": "13:0" },
+                                        { "id": 2, "map": "d2", "result": "13:2" }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

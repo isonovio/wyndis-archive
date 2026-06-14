@@ -1,0 +1,57 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "cct-s3-eu-s8",
+    "name": "CCT Season 3 European Series #8",
+    "duration": { "start": "2025-09-24", "end": "2025-10-12" },
+    "links": [
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/CCT/Season_3/Europe/Series_8" },
+        { "name": "Rules", "url": "https://docs.google.com/document/d/1kLvPgQ09_2_TI7-rO_Ouq_Z0jR6XhArT_mUEVGqEcB0/edit" },
+        { "name": "HLTV", "url": "https://www.hltv.org/events/8718/cct-season-3-europe-series-8" }
+    ],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2025-1" } }],
+    "brackets": [
+        {
+            "slug": "s1",
+            "name": "Closed Q.",
+            "links": [
+                { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/CCT/Season_3/Europe/Series_8/Play-In" },
+                { "name": "HLTV", "url": "https://www.hltv.org/events/8717/cct-season-3-europe-series-8-closed-qualifier" }
+            ],
+            "brackets": [
+                {
+                    "slug": "s1--group-stage",
+                    "brackets": [
+                        {
+                            "slug": "ga",
+                            "name": "Group A",
+                            "format": "double-elimination",
+                            "matches": [
+                                {
+                                    "id": 1,
+                                    "name": "Opening Match 1",
+                                    "date": "2025-09-24",
+                                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "UNiTY" } },
+                                    "links": [{ "name": "HLTV", "url": "https://www.hltv.org/matches/2385889/nip-impact-vs-unity-cct-season-3-europe-series-8-closed-qualifier" }],
+                                    "maps": [],
+                                    "note": "NIP Impact forfeited the match."
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Elimination Match",
+                                    "date": "2025-09-25",
+                                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "1win" } },
+                                    "links": [{ "name": "HLTV", "url": "https://www.hltv.org/matches/2386137/nip-impact-vs-1win-cct-season-3-europe-series-8-closed-qualifier" }],
+                                    "maps": [
+                                        { "id": 1, "map": "trn", "result": "5:13" },
+                                        { "id": 2, "map": "inf", "result": "0:13" }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

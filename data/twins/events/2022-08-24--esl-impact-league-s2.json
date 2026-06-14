@@ -5,7 +5,7 @@
     "name": "ESL Impact League Season 2",
     "duration": { "start": "2022-08-24", "end": "2022-11-27" },
     "links": [
-        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_2" },
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_2" },
         { "name": "ESL", "url": "https://pro.eslgaming.com/csgo/impact/season2/" },
         { "name": "Rules", "url": "https://drive.google.com/drive/folders/1T6wVEKOXslH_j3B_By_L69pF2s2eqJWd" }
     ],
@@ -18,7 +18,7 @@
                 {
                     "slug": "d1eu",
                     "name": "Europe",
-                    "links": [{ "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_2/Europe" }],
+                    "links": [{ "name": "L.p.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_2/Europe" }],
                     "brackets": [
                         {
                             "slug": "s1--qualifiers",
@@ -27,7 +27,7 @@
                                     "slug": "q1",
                                     "name": "Open Qualifier #1",
                                     "links": [
-                                        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_2/Europe/Qualifier/1" },
+                                        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_2/Europe/Qualifier/1" },
                                         { "name": "ESEA", "url": "https://play.esea.net/events/1790" },
                                         { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=1790" }
                                     ],
@@ -82,7 +82,7 @@
                                     "slug": "q2",
                                     "name": "Open Qualifier #2",
                                     "links": [
-                                        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_2/Europe/Qualifier/2" },
+                                        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_2/Europe/Qualifier/2" },
                                         { "name": "ESEA", "url": "https://play.esea.net/events/1791" },
                                         { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=1791" }
                                     ],

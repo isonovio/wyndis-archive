@@ -7,7 +7,7 @@
     "links": [
         { "name": "JBPL", "url": "https://www.jbproleague.com/news/69a2bd6d-5f10-42e3-9655-b508568c90f5" },
         { "name": "GitHub", "url": "https://github.com/VANTAGL/JB-Pro-League-2026--1" },
-        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/JB_Pro_League/Season_2" },
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/JB_Pro_League/Season_2" },
         { "name": "HLTV", "url": "https://www.hltv.org/events/8923/jb-pro-league-season-2" }
     ],
     "participants": [{ "shorthand": "big", "lineup": { "roster": "big-equipa-2026-1" } }],

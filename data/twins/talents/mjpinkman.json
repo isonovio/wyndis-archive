@@ -1,0 +1,9 @@
+{
+    "$schema": "../../schemas/talent.schema.json",
+    "slug": "mjpinkman",
+    "nickname": "mjpinkman",
+    "socials": [
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Mjpinkman" },
+        { "name": "Twitter", "url": "https://x.com/mjpinkman_" }
+    ]
+}

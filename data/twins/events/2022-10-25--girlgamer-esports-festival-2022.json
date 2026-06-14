@@ -4,7 +4,7 @@
     "slug": "girlgamer-esports-festival-2022",
     "name": "GIRLGAMER Esports Festival 2022",
     "duration": { "start": "2022-10-25", "end": "2023-03-18" },
-    "links": [{ "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/GIRLGAMER_Esports_Festival/2022" }],
+    "links": [{ "name": "L.p.", "url": "https://liquipedia.net/counterstrike/GIRLGAMER_Esports_Festival/2022" }],
     "tags": ["impact"],
     "participants": [{ "shorthand": "cfs", "lineup": { "roster": "cfs-2022-2" } }],
     "brackets": [
@@ -14,7 +14,7 @@
                 {
                     "slug": "d1",
                     "name": "Ceuta",
-                    "links": [{ "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/GIRLGAMER_Esports_Festival/2022/Ceuta" }],
+                    "links": [{ "name": "L.p.", "url": "https://liquipedia.net/counterstrike/GIRLGAMER_Esports_Festival/2022/Ceuta" }],
                     "brackets": [
                         {
                             "slug": "s1--qualifiers",
@@ -23,7 +23,7 @@
                                     "slug": "q1",
                                     "name": "Open Qualifier #1",
                                     "links": [
-                                        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/GIRLGAMER_Esports_Festival/2022/Ceuta/Qualifier/1" },
+                                        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/GIRLGAMER_Esports_Festival/2022/Ceuta/Qualifier/1" },
                                         { "name": "ESEA", "url": "https://play.esea.net/events/2048" },
                                         { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=2048" }
                                     ],
@@ -48,7 +48,7 @@
                                     "slug": "q2",
                                     "name": "Open Qualifier #2",
                                     "links": [
-                                        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/GIRLGAMER_Esports_Festival/2022/Ceuta/Qualifier/2" },
+                                        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/GIRLGAMER_Esports_Festival/2022/Ceuta/Qualifier/2" },
                                         { "name": "ESEA", "url": "https://play.esea.net/events/2049" },
                                         { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=2049" }
                                     ],

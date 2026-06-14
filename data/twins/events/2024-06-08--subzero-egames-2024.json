@@ -5,8 +5,8 @@
     "name": "SubZero E-Games 2024",
     "duration": { "start": "2024-06-08", "end": "2024-06-09" },
     "links": [
-        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/SubZero_E-Games/2024" },
-        { "name": "Challengermode", "url": "https://www.challengermode.com/s/pxb/tournaments/64f4d60b-f698-45b7-9b94-08dc7fc34473" },
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/SubZero_E-Games/2024" },
+        { "name": "C.m.", "url": "https://www.challengermode.com/s/pxb/tournaments/64f4d60b-f698-45b7-9b94-08dc7fc34473" },
         { "name": "Rules", "url": "https://docs.google.com/document/d/19d6NbXlN23aTKg_mh2IiMFsoSvNXv5V-Nrt5H_wdcgA/edit" },
         { "name": "HLTV", "url": "https://www.hltv.org/events/7772/european-pro-league-female-season-1" }
     ],
@@ -30,13 +30,13 @@
                                     "id": 1,
                                     "map": "inf",
                                     "result": "7:13",
-                                    "links": [{ "name": "Challengermode", "url": "https://www.challengermode.com/s/pxb/games/ceaefc1f-5921-4db8-65b8-08dc8732b7e0" }]
+                                    "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/pxb/games/ceaefc1f-5921-4db8-65b8-08dc8732b7e0" }]
                                 },
                                 {
                                     "id": 2,
                                     "map": "anb",
                                     "result": "1:13",
-                                    "links": [{ "name": "Challengermode", "url": "https://www.challengermode.com/s/pxb/games/feef7560-999d-4ff4-c785-08dc873a3f06" }]
+                                    "links": [{ "name": "C.m.", "url": "https://www.challengermode.com/s/pxb/games/feef7560-999d-4ff4-c785-08dc873a3f06" }]
                                 }
                             ]
                         }

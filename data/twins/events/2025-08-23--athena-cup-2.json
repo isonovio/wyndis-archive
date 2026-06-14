@@ -1,0 +1,101 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "athena-cup-2",
+    "name": "Athena Cup #2",
+    "duration": { "start": "2025-08-23", "end": "2025-08-24" },
+    "links": [{ "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Athena_Cup/2" }],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2025-1" } }],
+    "brackets": [
+        {
+            "slug": "s1--group-stage",
+            "format": "swiss",
+            "brackets": [
+                {
+                    "slug": "r1b1",
+                    "name": "Bracket 0:0",
+                    "matches": [
+                        {
+                            "id": 1,
+                            "date": "2025-08-23",
+                            "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "95 Vikings Female" } },
+                            "maps": [{ "id": 1, "map": "anc", "result": "13:0" }]
+                        }
+                    ]
+                },
+                {
+                    "slug": "r2b1",
+                    "name": "Bracket 1:0",
+                    "matches": [
+                        {
+                            "id": 1,
+                            "date": "2025-08-23",
+                            "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "LUNAR" } },
+                            "maps": [{ "id": 1, "map": "mrg", "result": "16:12" }]
+                        }
+                    ]
+                },
+                {
+                    "slug": "r3b1",
+                    "name": "Bracket 1:0",
+                    "matches": [
+                        {
+                            "id": 1,
+                            "date": "2025-08-23",
+                            "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "shinigami" } },
+                            "maps": [{ "id": 1, "map": "ovp", "result": "13:8" }]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "slug": "s2",
+            "name": "Playoffs",
+            "format": "single-elimination",
+            "brackets": [
+                {
+                    "slug": "r1",
+                    "name": "Quarterfinals",
+                    "matches": [
+                        {
+                            "id": 2,
+                            "date": "2025-08-24",
+                            "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "godDamnFk" } },
+                            "maps": [{ "id": 1, "map": "d2", "result": "13:10" }]
+                        }
+                    ]
+                },
+                {
+                    "slug": "r2",
+                    "name": "Semifinals",
+                    "matches": [
+                        {
+                            "id": 1,
+                            "date": "2025-08-24",
+                            "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "hindsight" } },
+                            "maps": [{ "id": 1, "map": "anc", "result": "13:9" }]
+                        }
+                    ]
+                },
+                {
+                    "slug": "r3",
+                    "matches": [
+                        {
+                            "id": 1,
+                            "name": "Grand Final",
+                            "date": "2025-08-24",
+                            "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "Overpeek" } },
+                            "maps": [
+                                { "id": 1, "map": "mrg", "result": "17:19" },
+                                { "id": 2, "map": "trn", "result": "13:6" },
+                                { "id": 2, "map": "d2", "result": "11:13" }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -5,7 +5,7 @@
     "name": "ESL Impact League Season 8",
     "duration": { "start": "2025-08-15", "end": "2025-11-30" },
     "links": [
-        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_8" },
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_8" },
         { "name": "ESL", "url": "https://pro.eslgaming.com/csgo/impact/season8/" },
         { "name": "Rules", "url": "https://drive.google.com/drive/u/0/folders/1-rG6-yalB6y9giVeQNi5rGXuBWyMYprC" }
     ],
@@ -19,7 +19,7 @@
                     "slug": "d1eu",
                     "name": "Europe",
                     "links": [
-                        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_8/Europe" },
+                        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_8/Europe" },
                         { "name": "HLTV", "url": "https://www.hltv.org/events/8235/esl-impact-league-season-8-europe" }
                     ],
                     "brackets": [

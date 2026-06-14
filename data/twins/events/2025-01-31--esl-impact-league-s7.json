@@ -5,7 +5,7 @@
     "name": "ESL Impact League Season 7",
     "duration": { "start": "2025-01-31", "end": "2025-05-25" },
     "links": [
-        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_7" },
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_7" },
         { "name": "ESL", "url": "https://pro.eslgaming.com/csgo/impact/season7/" },
         { "name": "Rules", "url": "https://drive.google.com/drive/u/0/folders/1-rG6-yalB6y9giVeQNi5rGXuBWyMYprC" }
     ],
@@ -19,7 +19,7 @@
                     "slug": "d1eu",
                     "name": "Europe",
                     "links": [
-                        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_7/Europe" },
+                        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_7/Europe" },
                         { "name": "HLTV", "url": "https://www.hltv.org/events/8234/esl-impact-league-season-7-europe" }
                     ],
                     "brackets": [

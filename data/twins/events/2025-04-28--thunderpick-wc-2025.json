@@ -1,0 +1,73 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "thunderpick-wc-2025",
+    "name": "Thunderpick WC 2025",
+    "duration": { "start": "2025-04-28", "end": "2025-07-22" },
+    "links": [
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Thunderpick/World_Championship/2025" },
+        { "name": "Rules", "url": "https://docs.google.com/document/d/1AwIr4ipN5zber9BniVmRqJ6h4wybDhN4TkleD-sE_e0/edit" }
+    ],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2025-1" } }],
+    "brackets": [
+        {
+            "slug": "s1--series",
+            "brackets": [
+                {
+                    "slug": "d1s2",
+                    "name": "European Series #2",
+                    "links": [
+                        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Thunderpick/World_Championship/2025/Europe/2" },
+                        { "name": "HLTV", "url": "https://www.hltv.org/events/8550/thunderpick-world-championship-2025-european-series-2" }
+                    ],
+                    "brackets": [
+                        {
+                            "slug": "s1--group-stage",
+                            "brackets": [
+                                {
+                                    "slug": "ga",
+                                    "name": "Group A",
+                                    "format": "double-elimination",
+                                    "matches": [
+                                        {
+                                            "id": 2,
+                                            "name": "Opening Match 2",
+                                            "date": "2025-08-05",
+                                            "lineups": { "team1": { "name": "ARCRED" }, "team2": { "shorthand": "nipi" } },
+                                            "links": [
+                                                {
+                                                    "name": "HLTV",
+                                                    "url": "https://www.hltv.org/matches/2384182/arcred-vs-nip-impact-thunderpick-world-championship-2025-european-series-2"
+                                                }
+                                            ],
+                                            "maps": [
+                                                { "id": 1, "map": "trn", "result": "13:8" },
+                                                { "id": 2, "map": "d2", "result": "13:6" }
+                                            ]
+                                        },
+                                        {
+                                            "id": 4,
+                                            "name": "Elimination Match",
+                                            "date": "2025-08-07",
+                                            "lineups": { "team1": { "name": "TPuDCATb TPu" }, "team2": { "shorthand": "nipi" } },
+                                            "links": [
+                                                {
+                                                    "name": "HLTV",
+                                                    "url": "https://www.hltv.org/matches/2384191/33-vs-nip-impact-thunderpick-world-championship-2025-european-series-2"
+                                                }
+                                            ],
+                                            "maps": [
+                                                { "id": 1, "map": "inf", "result": "13:2" },
+                                                { "id": 2, "map": "anc", "result": "13:8" }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

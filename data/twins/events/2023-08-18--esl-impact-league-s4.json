@@ -5,7 +5,7 @@
     "name": "ESL Impact League Season 4",
     "duration": { "start": "2023-08-18", "end": "2023-12-10" },
     "links": [
-        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_4" },
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_4" },
         { "name": "ESL", "url": "https://pro.eslgaming.com/csgo/impact/season4/" },
         { "name": "Rules", "url": "https://drive.google.com/drive/folders/1v4L7HzKChaQuzb6rjFeXk9lBRgw5GrG-" }
     ],
@@ -19,7 +19,7 @@
                     "slug": "d1eu",
                     "name": "Europe",
                     "links": [
-                        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_4/Europe" },
+                        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_4/Europe" },
                         { "name": "HLTV", "url": "https://www.hltv.org/events/7301/esl-impact-league-season-4-europe" }
                     ],
                     "brackets": [

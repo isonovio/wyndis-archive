@@ -1,0 +1,61 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "eupl-s2",
+    "name": "European Pro League Series 2",
+    "duration": { "start": "2025-08-25", "end": "2025-09-25" },
+    "links": [
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/European_Pro_League/Series_2" },
+        { "name": "EPL", "url": "https://eplesports.com/events/cs-2/104" },
+        { "name": "Rules", "url": "https://docs.google.com/document/d/1d2k8ZJich5tUQy32pHoqjmuCK1D-QKeRQd5mVntRVnk/edit" }
+    ],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2025-1" } }],
+    "brackets": [
+        {
+            "slug": "s1",
+            "name": "Closed Q.",
+            "links": [
+                { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/European_Pro_League/Series_2/Play-In" },
+                { "name": "HLTV", "url": "https://www.hltv.org/events/8659/european-pro-league-series-2-closed-qualifier" }
+            ],
+            "brackets": [
+                {
+                    "slug": "s1--group-stage",
+                    "brackets": [
+                        {
+                            "slug": "ga",
+                            "name": "Group A",
+                            "format": "double-elimination",
+                            "matches": [
+                                {
+                                    "id": 1,
+                                    "name": "Opening Match 1",
+                                    "date": "2025-08-25",
+                                    "lineups": { "team1": { "name": "Eternal Fire" }, "team2": { "shorthand": "nipi" } },
+                                    "links": [
+                                        { "name": "HLTV", "url": "https://www.hltv.org/matches/2384891/eternal-fire-vs-nip-impact-european-pro-league-series-2-closed-qualifier" }
+                                    ],
+                                    "maps": [
+                                        { "id": 1, "map": "inf", "result": "13:0" },
+                                        { "id": 2, "map": "d2", "result": "13:6" }
+                                    ]
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Elimination Match",
+                                    "date": "2025-08-29",
+                                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "ALGO" } },
+                                    "links": [{ "name": "HLTV", "url": "https://www.hltv.org/matches/2384904/nip-impact-vs-algo-european-pro-league-series-2-closed-qualifier" }],
+                                    "maps": [
+                                        { "id": 1, "map": "anc", "result": "10:13" },
+                                        { "id": 2, "map": "inf", "result": "10:13" }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

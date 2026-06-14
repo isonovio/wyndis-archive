@@ -5,7 +5,7 @@
     "name": "FASTCUP FEMALE AURORA",
     "duration": { "start": "2023-03-04", "end": "2023-03-05" },
     "links": [
-        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/FASTCUP/AURORA" },
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/FASTCUP/AURORA" },
         { "name": "FASTCUP", "url": "https://csgo.fastcup.net/tournaments/1944" },
         { "name": "HLTV", "url": "https://www.hltv.org/events/7106/fastcup-aurora-2023" }
     ],

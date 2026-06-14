@@ -1,0 +1,59 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "cct-s3-eu-s9",
+    "name": "CCT Season 3 European Series #9",
+    "duration": { "start": "2025-10-15", "end": "2025-11-02" },
+    "links": [
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/CCT/Season_3/Europe/Series_9" },
+        { "name": "Rules", "url": "https://docs.google.com/document/d/1kLvPgQ09_2_TI7-rO_Ouq_Z0jR6XhArT_mUEVGqEcB0/edit" },
+        { "name": "HLTV", "url": "https://www.hltv.org/events/8766/cct-season-3-europe-series-9" }
+    ],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2025-1" } }],
+    "brackets": [
+        {
+            "slug": "s1",
+            "name": "Closed Q.",
+            "links": [
+                { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/CCT/Season_3/Europe/Series_9/Play-In" },
+                { "name": "HLTV", "url": "https://www.hltv.org/events/8765/cct-season-3-europe-series-9-closed-qualifier" }
+            ],
+            "brackets": [
+                {
+                    "slug": "s1--group-stage",
+                    "brackets": [
+                        {
+                            "slug": "ga",
+                            "name": "Group A",
+                            "format": "double-elimination",
+                            "matches": [
+                                {
+                                    "id": 1,
+                                    "name": "Opening Match 1",
+                                    "date": "2025-10-15",
+                                    "lineups": { "team1": { "name": "SPARTA" }, "team2": { "shorthand": "nipi" } },
+                                    "links": [{ "name": "HLTV", "url": "https://www.hltv.org/matches/2386860/sparta-vs-nip-impact-cct-season-3-europe-series-9-closed-qualifier" }],
+                                    "maps": [
+                                        { "id": 1, "map": "mrg", "result": "13:5" },
+                                        { "id": 2, "map": "trn", "result": "13:0" }
+                                    ]
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Elimination Match",
+                                    "date": "2025-10-16",
+                                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "NOVAQ" } },
+                                    "links": [{ "name": "HLTV", "url": "https://www.hltv.org/matches/2386878/nip-impact-vs-novaq-cct-season-3-europe-series-9-closed-qualifier" }],
+                                    "maps": [
+                                        { "id": 1, "map": "d2", "result": "8:13" },
+                                        { "id": 2, "map": "trn", "result": "4:13" }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

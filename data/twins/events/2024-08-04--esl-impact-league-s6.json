@@ -5,7 +5,7 @@
     "name": "ESL Impact League Season 6",
     "duration": { "start": "2024-08-04", "end": "2024-11-24" },
     "links": [
-        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_6" },
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_6" },
         { "name": "ESL", "url": "https://pro.eslgaming.com/csgo/impact/season6/" },
         { "name": "Rules", "url": "https://drive.google.com/drive/folders/1uQmVcR5jBIzLHQIILZSdcG1sevTkrV-m" }
     ],
@@ -19,7 +19,7 @@
                     "slug": "d1eu",
                     "name": "Europe",
                     "links": [
-                        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_6/Europe" },
+                        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/ESL/Impact_League/Season_6/Europe" },
                         { "name": "HLTV", "url": "https://www.hltv.org/events/7930/esl-impact-league-season-6-europe" }
                     ],
                     "brackets": [

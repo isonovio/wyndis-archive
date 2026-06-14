@@ -5,7 +5,7 @@
     "name": "CCT Season 1 East Europe Series #1",
     "duration": { "start": "2023-07-29", "end": "2023-08-20" },
     "links": [
-        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/CCT/Season_1/East_Europe/Series_1" },
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/CCT/Season_1/East_Europe/Series_1" },
         { "name": "CCT", "url": "https://cctour.gg/tournaments/cct-east-europe" },
         { "name": "Rules", "url": "https://docs.google.com/document/d/1fTQRUN0IR9Q9bEhyI35for61D7J7k1gRLQG22zk-l78/edit" }
     ],
@@ -14,7 +14,7 @@
         {
             "slug": "s2",
             "name": "Closed Q.",
-            "links": [{ "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/CCT/Season_1/East_Europe/Series_1/Qualifier" }],
+            "links": [{ "name": "L.p.", "url": "https://liquipedia.net/counterstrike/CCT/Season_1/East_Europe/Series_1/Qualifier" }],
             "brackets": [
                 {
                     "slug": "s1--group-stage",

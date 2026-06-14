@@ -5,7 +5,7 @@
     "name": "Female Pro League Season 1",
     "duration": { "start": "2025-10-09", "end": "2025-11-15" },
     "links": [
-        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/Female_Pro_League/Season_1" },
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Female_Pro_League/Season_1" },
         { "name": "Rules", "url": "https://drive.google.com/drive/folders/1BN60R_yfRTpx5wHbmIJn_Hxh64lG_0Ao" }
     ],
     "tags": ["impact"],
@@ -18,7 +18,7 @@
                     "slug": "q2",
                     "name": "Open Qualifier #2",
                     "links": [
-                        { "name": "Liquip.", "url": "https://liquipedia.net/counterstrike/Female_Pro_League/Season_1/Qualifier/Open/2" },
+                        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Female_Pro_League/Season_1/Qualifier/Open/2" },
                         { "name": "FACEIT", "url": "https://www.faceit.com/en/championship/83a221b0-5d4a-4108-8b45-95c35429380f" }
                     ],
                     "brackets": [
@@ -118,7 +118,7 @@
                                                     "tags": ["official"],
                                                     "parts": [
                                                         {
-                                                            "link": { "name": "YouTube", "url": "https://www.youtube.com/live/9w8-8ouct-U" },
+                                                            "link": { "name": "YouTube", "url": "https://youtu.be/9w8-8ouct-U" },
                                                             "duration": "03:08:42-03:58:07"
                                                         }
                                                     ]
@@ -149,7 +149,7 @@
                                                     "tags": ["official"],
                                                     "parts": [
                                                         {
-                                                            "link": { "name": "YouTube", "url": "https://www.youtube.com/live/r7MBvq_ij94" },
+                                                            "link": { "name": "YouTube", "url": "https://youtu.be/r7MBvq_ij94" },
                                                             "duration": "04:34:50-05:39:54"
                                                         }
                                                     ]
@@ -185,7 +185,7 @@
                                                     "tags": ["official"],
                                                     "parts": [
                                                         {
-                                                            "link": { "name": "YouTube", "url": "https://www.youtube.com/live/ePkQ9u9ni2A" },
+                                                            "link": { "name": "YouTube", "url": "https://youtu.be/ePkQ9u9ni2A" },
                                                             "duration": "03:11:26-04:29:03"
                                                         }
                                                     ]
@@ -208,7 +208,7 @@
                                                     "tags": ["official"],
                                                     "parts": [
                                                         {
-                                                            "link": { "name": "YouTube", "url": "https://www.youtube.com/live/ePkQ9u9ni2A" },
+                                                            "link": { "name": "YouTube", "url": "https://youtu.be/ePkQ9u9ni2A" },
                                                             "duration": "04:29:03-05:39:08"
                                                         }
                                                     ]
@@ -252,7 +252,7 @@
                                                     "tags": ["official", "incomplete"],
                                                     "parts": [
                                                         {
-                                                            "link": { "name": "YouTube", "url": "https://www.youtube.com/live/leDcBV9yWE0" },
+                                                            "link": { "name": "YouTube", "url": "https://youtu.be/leDcBV9yWE0" },
                                                             "duration": "00:00:00-00:05:31"
                                                         }
                                                     ]
@@ -270,7 +270,7 @@
                                                     "tags": ["official"],
                                                     "parts": [
                                                         {
-                                                            "link": { "name": "YouTube", "url": "https://www.youtube.com/live/leDcBV9yWE0" },
+                                                            "link": { "name": "YouTube", "url": "https://youtu.be/leDcBV9yWE0" },
                                                             "duration": "00:05:31-01:17:37"
                                                         }
                                                     ]
@@ -302,7 +302,7 @@
                                                     "tags": ["official"],
                                                     "parts": [
                                                         {
-                                                            "link": { "name": "YouTube", "url": "https://www.youtube.com/live/3ng3vt5R-d8" },
+                                                            "link": { "name": "YouTube", "url": "https://youtu.be/3ng3vt5R-d8" },
                                                             "duration": "03:30:31-04:29:50"
                                                         }
                                                     ]
@@ -325,7 +325,7 @@
                                                     "tags": ["official"],
                                                     "parts": [
                                                         {
-                                                            "link": { "name": "YouTube", "url": "https://www.youtube.com/live/3ng3vt5R-d8" },
+                                                            "link": { "name": "YouTube", "url": "https://youtu.be/3ng3vt5R-d8" },
                                                             "duration": "04:29:50-05:38:40"
                                                         }
                                                     ]
@@ -365,7 +365,7 @@
                                                     "tags": ["official"],
                                                     "parts": [
                                                         {
-                                                            "link": { "name": "YouTube", "url": "https://www.youtube.com/live/pDBLAt8i1ZE" },
+                                                            "link": { "name": "YouTube", "url": "https://youtu.be/pDBLAt8i1ZE" },
                                                             "duration": "03:06:36-04:07:53"
                                                         }
                                                     ]
@@ -383,7 +383,7 @@
                                                     "tags": ["official"],
                                                     "parts": [
                                                         {
-                                                            "link": { "name": "YouTube", "url": "https://www.youtube.com/live/pDBLAt8i1ZE" },
+                                                            "link": { "name": "YouTube", "url": "https://youtu.be/pDBLAt8i1ZE" },
                                                             "duration": "04:07:53-05:02:46"
                                                         }
                                                     ]
@@ -401,7 +401,7 @@
                                                     "tags": ["official"],
                                                     "parts": [
                                                         {
-                                                            "link": { "name": "YouTube", "url": "https://www.youtube.com/live/pDBLAt8i1ZE" },
+                                                            "link": { "name": "YouTube", "url": "https://youtu.be/pDBLAt8i1ZE" },
                                                             "duration": "05:02:46-06:08:01"
                                                         }
                                                     ]

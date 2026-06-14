@@ -1,0 +1,74 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "fragster-challenger-series",
+    "name": "Fragster Challenger Series",
+    "duration": { "start": "2024-12-20", "end": "2025-04-06" },
+    "links": [
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Fragster/Challenger_Series" },
+        { "name": "Rules", "url": "https://docs.google.com/document/d/1ImgmirKL_7b6m8O6kKuCWAtukiAGMhCS0uGKu3Dmrf0/edit" }
+    ],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-2" } }],
+    "brackets": [
+        { "slug": "s1--qualifiers" },
+        {
+            "slug": "s2",
+            "brackets": [
+                {
+                    "slug": "s1",
+                    "name": "Stage 1",
+                    "format": "swiss",
+                    "links": [{ "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Fragster/Challenger_Series/Stage_1" }],
+                    "brackets": [
+                        {
+                            "slug": "r1b1",
+                            "name": "Bracket 0:0",
+                            "matches": [
+                                {
+                                    "id": 2,
+                                    "date": "2025-01-20",
+                                    "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "K27" } },
+                                    "maps": [
+                                        { "id": 1, "map": "d2", "result": "7:13" },
+                                        { "id": 2, "map": "inf", "result": "0:13" }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "slug": "r2b2",
+                            "name": "Bracket 0:1",
+                            "matches": [
+                                {
+                                    "id": 3,
+                                    "date": "2025-01-28",
+                                    "lineups": { "team1": { "name": "MOUZ NXT" }, "team2": { "shorthand": "nipi" } },
+                                    "maps": [
+                                        { "id": 1, "map": "anb", "result": "13:2" },
+                                        { "id": 2, "map": "mrg", "result": "13:6" }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "slug": "r3b3",
+                            "name": "Bracket 0:2",
+                            "matches": [
+                                {
+                                    "id": 1,
+                                    "date": "2025-02-05",
+                                    "lineups": { "team1": { "name": "Eco Warriors" }, "team2": { "shorthand": "nipi" } },
+                                    "maps": [
+                                        { "id": 1, "map": "mrg", "result": "11:13" },
+                                        { "id": 2, "map": "d2", "result": "13:8" },
+                                        { "id": 3, "map": "anb", "result": "13:11" }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
