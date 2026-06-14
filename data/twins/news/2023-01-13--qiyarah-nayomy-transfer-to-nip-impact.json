@@ -2,7 +2,7 @@
     "$schema": "../../schemas/newspiece.schema.json",
 
     "slug": "qiyarah-nayomy-transfer-to-nip-impact",
-    "title": "Qiyarah and Nayomy transfer to NIP Impact",
+    "title": "$qiyarah and $nayomy transfer from $cfs to $nipi",
     "date": "2023-01-13",
     "related": { "players": ["astra", "jenkon", "josefine", "nayay", "nayomy", "pauliiee", "qiyarah", "ramziin"], "teams": ["cfs", "nipi"] },
     "links": [

@@ -2,7 +2,7 @@
     "$schema": "../../schemas/newspiece.schema.json",
 
     "slug": "jenkon-leave-nip-impact",
-    "title": "NIP Impact part ways with jenkon",
+    "title": "$nipi part ways with $jenkon",
     "date": "2024-05-17",
     "related": { "players": ["aim", "jenkon", "nayomy", "qiyarah", "ramziin"], "teams": ["nipi"] },
     "links": [

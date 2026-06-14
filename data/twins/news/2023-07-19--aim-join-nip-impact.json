@@ -2,7 +2,7 @@
     "$schema": "../../schemas/newspiece.schema.json",
 
     "slug": "aim-join-nip-impact",
-    "title": "NIP complete Impact roster with aiM",
+    "title": "$nipi complete roster with $aim",
     "date": "2023-07-19",
     "related": { "players": ["aim", "astra", "jenkon", "nayomy", "qiyarah"], "teams": ["nipi"] },
     "links": [

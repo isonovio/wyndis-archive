@@ -2,7 +2,7 @@
     "$schema": "../../schemas/newspiece.schema.json",
 
     "slug": "nayay-leave-cph-flames-shieldmaidens",
-    "title": "CPH Flames Shieldmaidens part ways with nayay",
+    "title": "$cfs part ways with $nayay",
     "date": "2023-01-13",
     "related": { "players": ["josefine", "nayay", "nayomy", "qiyarah", "ramziin"], "teams": ["cfs"] },
     "links": [

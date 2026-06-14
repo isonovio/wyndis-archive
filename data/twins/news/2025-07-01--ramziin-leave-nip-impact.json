@@ -2,7 +2,7 @@
     "$schema": "../../schemas/newspiece.schema.json",
 
     "slug": "ramziin-leave-nip-impact",
-    "title": "NIP part ways with ramziiN",
+    "title": "$nipi part ways with $ramziin",
     "date": "2025-07-01",
     "related": { "players": ["aim", "nayomy", "qiyarah", "ramziin", "vilga"], "teams": ["nipi"] },
     "links": [

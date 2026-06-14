@@ -2,7 +2,7 @@
     "$schema": "../../schemas/newspiece.schema.json",
 
     "slug": "astra-leave-nip-impact",
-    "title": "NIP Impact part ways with ASTRA",
+    "title": "$nipi part ways with $astra",
     "date": "2023-12-19",
     "related": { "players": ["aim", "astra", "jenkon", "nayomy", "qiyarah"], "teams": ["nipi"] },
     "links": [

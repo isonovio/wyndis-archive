@@ -2,7 +2,7 @@
     "$schema": "../../schemas/newspiece.schema.json",
 
     "slug": "ramziin-join-nip-impact",
-    "title": "NIP complete Impact roster with ramziiN",
+    "title": "$nipi complete roster with $ramziin",
     "date": "2024-02-21",
     "related": { "players": ["aim", "jenkon", "nayomy", "qiyarah", "ramziin"], "teams": ["nipi"] },
     "links": [

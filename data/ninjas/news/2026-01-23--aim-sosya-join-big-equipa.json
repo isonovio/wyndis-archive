@@ -2,7 +2,7 @@
     "$schema": "../../schemas/newspiece.schema.json",
 
     "slug": "aim-sosya-join-big-equipa",
-    "title": "BIG EQUIPA add aiM and sosya",
+    "title": "$big-equipa add $aim and $sosya",
     "date": "2026-01-23",
     "related": { "players": ["aim", "sosya"], "teams": ["big-equipa"] },
     "links": [

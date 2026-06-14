@@ -2,7 +2,7 @@
     "$schema": "../../schemas/newspiece.schema.json",
 
     "slug": "vilga-join-nip-impact",
-    "title": "NIP officially sign vilga as Impact IGL",
+    "title": "$nipi officially sign $vilga as IGL",
     "date": "2024-07-16",
     "related": { "players": ["aim", "nayomy", "qiyarah", "ramziin", "vilga"], "teams": ["nipi"] },
     "links": [

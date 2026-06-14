@@ -2,7 +2,7 @@
     "$schema": "../../schemas/newspiece.schema.json",
 
     "slug": "nayay-nayomy-qiyarah-join-cph-flames-shieldmaidens",
-    "title": "CPH Flames revamp female roster with Nayomy, Qiyarah, and nayay",
+    "title": "$cfs revamp roster with $nayomy, $qiyarah, and $nayay",
     "date": "2022-08-23",
     "related": { "players": ["josefine", "nayay", "nayomy", "qiyarah", "ramziin"], "teams": ["cfs"] },
     "links": [

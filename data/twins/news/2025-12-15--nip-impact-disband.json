@@ -2,7 +2,7 @@
     "$schema": "../../schemas/newspiece.schema.json",
 
     "slug": "nip-impact-disband",
-    "title": "NIP part ways with Impact roster",
+    "title": "$nipi release roster",
     "date": "2025-12-15",
     "related": { "players": ["aim", "nayomy", "qiyarah", "vilga", "zana"], "teams": ["nipi"] },
     "links": [

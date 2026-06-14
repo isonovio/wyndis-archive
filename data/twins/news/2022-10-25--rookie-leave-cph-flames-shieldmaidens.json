@@ -2,7 +2,7 @@
     "$schema": "../../schemas/newspiece.schema.json",
 
     "slug": "rookie-leave-cph-flames-shieldmaidens",
-    "title": "CPH Flames part ways with female team coach Rookie",
+    "title": "$cfs part ways with coach $rookie",
     "date": "2022-10-25",
     "related": { "players": ["josefine", "nayay", "nayomy", "qiyarah", "ramziin", "rookie"], "teams": ["cfs"] },
     "links": [

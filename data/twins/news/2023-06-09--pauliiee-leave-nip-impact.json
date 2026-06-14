@@ -2,7 +2,7 @@
     "$schema": "../../schemas/newspiece.schema.json",
 
     "slug": "pauliiee-leave-nip-impact",
-    "title": "NIP Impact part ways with pauliiee",
+    "title": "$nipi part ways with $pauliiee",
     "date": "2023-06-09",
     "related": { "players": ["astra", "jenkon", "nayomy", "pauliiee", "qiyarah"], "teams": ["nipi"] },
     "links": [

@@ -2,7 +2,7 @@
     "$schema": "../../schemas/newspiece.schema.json",
 
     "slug": "toh1o-join-nip-impact-as-coach",
-    "title": "ToH1o join NIP as Impact team head coach",
+    "title": "$nipi sign $toh1o as head coach",
     "date": "2023-03-01",
     "related": { "players": ["astra", "jenkon", "nayomy", "pauliiee", "qiyarah", "toh1o"], "teams": ["nipi"] },
     "links": [

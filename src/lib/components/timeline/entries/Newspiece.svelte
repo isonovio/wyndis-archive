@@ -2,6 +2,7 @@
     import { type Newspiece } from "$lib/types/newspiece";
     import LinkExternal from "$lib/components/timeline/links/LinkExternal.svelte";
     import LinkPlayers from "$lib/components/timeline/links/LinkPlayers.svelte";
+    import Text from "../Text.svelte";
 
     export let newspiece: Newspiece;
 </script>
@@ -9,9 +10,10 @@
 <div class="pt-1 flex justify-between gap-4">
     <div class="font-semibold text-base text-sky-700">
         <div class="leading-none">
-            {#each newspiece.title.match(/\w+|[^\w]+/g) as token}
+            <Text text={newspiece.title}></Text>
+            <!-- {#each newspiece.title.match(/\w+|[^\w]+/g) as token}
                 <span class:player={newspiece.related.players.some((p) => p.nickname === token)}>{token} </span>
-            {/each}
+            {/each} -->
         </div>
         <div class="leading-none">
             <LinkPlayers players={newspiece.related.players} />
@@ -27,7 +29,7 @@
 <style lang="postcss">
     @reference "$lib/styles/global.css";
 
-    .player {
+    /*.player {
         @apply font-sc;
-    }
+    }*/
 </style>

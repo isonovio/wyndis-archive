@@ -2,7 +2,7 @@
     "$schema": "../../schemas/newspiece.schema.json",
 
     "slug": "zana-join-nip-impact",
-    "title": "NIP sign Zana as Impact awper",
+    "title": "$nipi sign $zana as awper",
     "date": "2025-07-01",
     "related": { "players": ["aim", "nayomy", "qiyarah", "vilga", "zana"], "teams": ["nipi"] },
     "links": [

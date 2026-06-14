@@ -2,7 +2,7 @@
     "$schema": "../../schemas/newspiece.schema.json",
 
     "slug": "natosaphix-leave-nip-impact",
-    "title": "NIP part ways with Impact team head coach NaToSaphix",
+    "title": "$nipi part ways with head coach $natosaphix",
     "date": "2025-06-23",
     "related": { "players": ["aim", "nayomy", "qiyarah", "ramziin", "vilga", "natosaphix"], "teams": ["nipi"] },
     "links": [

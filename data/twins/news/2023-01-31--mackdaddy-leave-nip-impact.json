@@ -2,7 +2,7 @@
     "$schema": "../../schemas/newspiece.schema.json",
 
     "slug": "mackdaddy-leave-nip-impact",
-    "title": "NIP part ways with Impact team coach MackDaddy",
+    "title": "$nipi part ways with coach $mackdaddy",
     "date": "2023-01-31",
     "related": { "players": ["astra", "jenkon", "nayomy", "pauliiee", "qiyarah", "mackdaddy"], "teams": ["nipi"] },
     "links": []
