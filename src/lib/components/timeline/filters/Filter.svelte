@@ -27,7 +27,7 @@
     }
 </script>
 
-<div class="h-full overflow-y-auto w-50 py-10 flex flex-col gap-4">
+<div class="h-full overflow-y-scroll overflow-x-hidden max-w-48 hover:max-w-none py-10 flex flex-col gap-4">
     <div class="flex justify-between">
         <div class="text-xl font-bold">Filters</div>
         {#if hasFilter}

@@ -1,9 +1,9 @@
 <script lang="ts">
     import { type Entry } from "$lib/types/timeline";
     import { Genre, compareGenre, displayGenre } from "$lib/types/timeline-genre";
-    import { queryGenreFilter } from "$lib/types/timeline-filter";
+    import { queryGenreFilter, type FilterState } from "$lib/types/timeline-filter";
     import FilterBox from "./FilterBox.svelte";
-    import FilterItem from "./FilterItem.svelte";
+    import CandidatesBox from "./CandidatesBox.svelte";
 
     interface Props {
         params: URLSearchParams;
@@ -11,8 +11,6 @@
         onUpdate: () => void;
     }
     let { params, timeline, onUpdate }: Props = $props();
-
-    const candidates = $derived([...new Set(timeline.map((i) => i.genre))].toSorted(compareGenre));
 
     function cycleGenre(genre: Genre): void {
         const state = queryGenreFilter(params, genre);
@@ -26,14 +24,18 @@
         }
         onUpdate();
     }
+
+    const candidates = $derived([...new Set(timeline.map((i) => i.genre))].toSorted(compareGenre));
+    function getState(genre: Genre): FilterState {
+        return queryGenreFilter(params, genre);
+    }
+    function getHandler(genre: Genre): () => void {
+        return () => cycleGenre(genre);
+    }
 </script>
 
 {#if candidates.length > 1}
     <FilterBox label="Genres">
-        {#each candidates as genre}
-            <FilterItem state={queryGenreFilter(params, genre)} onclick={() => cycleGenre(genre)}>
-                {displayGenre(genre)}
-            </FilterItem>
-        {/each}
+        <CandidatesBox {candidates} {getState} {getHandler} display={displayGenre} compact={false} />
     </FilterBox>
 {/if}

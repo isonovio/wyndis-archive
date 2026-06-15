@@ -2,7 +2,7 @@
     let { children } = $props();
 </script>
 
-<article class="w-3xl mx-auto h-full overflow-y-auto py-10">
+<article class="w-3xl mx-auto h-full overflow-y-scroll py-10">
     {@render children()}
 </article>
 

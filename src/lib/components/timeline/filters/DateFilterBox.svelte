@@ -59,7 +59,7 @@
 </script>
 
 <FilterBox label="Date">
-    <form onsubmit={submitDateFilter} class="py-1 px-2">
+    <form onsubmit={submitDateFilter} class="">
         {#each ["from", "to"] as const as key}
             <div>
                 <label for={key} class="inline-block w-11 leading-none text-sm">
@@ -71,7 +71,7 @@
                         <span class="border-l-4 pl-1 border-white">{key}:</span>
                     {/if}
                 </label>
-                <input id={key} placeholder="yyyy-mm-dd" bind:value={dateInput[key]} class="inline-block w-24 border-b border-dashed px-1 leading-none text-sm" />
+                <input id={key} placeholder="yyyy-mm-dd" bind:value={dateInput[key]} class="inline-block w-20 border-b border-dashed px-1 leading-none text-sm" />
             </div>
         {/each}
         {#if dateInputError != ""}

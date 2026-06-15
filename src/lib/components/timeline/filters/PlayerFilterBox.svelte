@@ -3,7 +3,9 @@
     import { comparePlayer } from "$lib/types/player";
     import { queryPlayerFilter } from "$lib/types/timeline-filter";
     import FilterBox from "./FilterBox.svelte";
-    import FilterItem from "./FilterItem.svelte";
+    import CandidatesBox from "./CandidatesBox.svelte";
+    import type { FilterState } from "$lib/types/timeline-filter";
+    import { type Player } from "$lib/types/player";
 
     interface Props {
         params: URLSearchParams;
@@ -11,8 +13,6 @@
         onUpdate: () => void;
     }
     let { params, timeline, onUpdate }: Props = $props();
-
-    const candidates = $derived([...new Set(timeline.flatMap((i) => i.related.players))].toSorted(comparePlayer));
 
     function cyclePlayer(playerSlug: string): void {
         const state = queryPlayerFilter(params, playerSlug);
@@ -26,14 +26,21 @@
         }
         onUpdate();
     }
+
+    const candidates = $derived([...new Set(timeline.flatMap((i) => i.related.players))].toSorted(comparePlayer));
+    function getState(player: Player): FilterState {
+        return queryPlayerFilter(params, player.slug);
+    }
+    function getHandler(player: Player): () => void {
+        return () => cyclePlayer(player.slug);
+    }
+    function display(player: Player): string {
+        return player.nickname;
+    }
 </script>
 
 {#if candidates.length > 1}
     <FilterBox label="Players">
-        {#each candidates as player}
-            <FilterItem state={queryPlayerFilter(params, player.slug)} onclick={() => cyclePlayer(player.slug)}>
-                {player.nickname}
-            </FilterItem>
-        {/each}
+        <CandidatesBox {candidates} {getState} {getHandler} {display} />
     </FilterBox>
 {/if}

@@ -14,7 +14,7 @@
 <div class="flex flex-col h-screen">
     <Header />
 
-    <main class="flex-1 min-h-0 overflow-hidden">
+    <main class="flex-1 min-h-0">
         {@render children()}
     </main>
 
