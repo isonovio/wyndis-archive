@@ -103,7 +103,7 @@ const FILTER_PARAMS = [
     "team-not",
     "player",
     "player-not",
-    "oevent",
+    "event",
     "oevent-not",
 ] as const;
 
@@ -159,7 +159,7 @@ export function filterFromParams(params: URLSearchParams): EntryFilter {
         (slug) => new RelatedSlugFilter("players", slug),
     );
     const [oeventFilter, notOevents] = buildGroup(
-        "oevent",
+        "event",
         (slug) => new RelatedSlugFilter("events", slug),
     );
 

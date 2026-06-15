@@ -89,7 +89,7 @@
         {params}
         {timeline}
         {onUpdate}
-        paramKey="oevent"
+        paramKey="event"
         getCandidates={(tl) => [...new Set(tl.flatMap((i) => i.related.events))].toSorted(compareOevent)}
         toParamValue={(event) => event.slug}
         display={(event) => event.name}
