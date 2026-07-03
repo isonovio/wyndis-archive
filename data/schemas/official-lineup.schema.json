@@ -9,6 +9,7 @@
         "team": { "$ref": "slug.schema.json" },
         "roster": { "$ref": "slug.schema.json" },
         "players": { "type": "array", "items": { "$ref": "slug.schema.json" } },
+        "coach": { "$ref": "slug.schema.json" },
         "shorthand": { "$ref": "slug.schema.json" }
     },
 

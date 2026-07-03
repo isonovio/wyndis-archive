@@ -8,7 +8,7 @@
         { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Paramigo_Cup/2" },
         { "name": "Rules", "url": "https://docs.google.com/document/d/1pi85w6c-7nmDlbA1q9Ry2_64-tAcmr2fIOwdbLGMeTQ/edit" }
     ],
-    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-2" } }],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-2", "coach": "natosaphix" } }],
     "brackets": [
         {
             "slug": "s1--group-stage",

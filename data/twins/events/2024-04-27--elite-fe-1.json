@@ -10,7 +10,7 @@
         { "name": "HLTV", "url": "https://www.hltv.org/events/7772/european-pro-league-female-season-1" }
     ],
     "tags": ["impact"],
-    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-1" } }],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-1", "coach": "natosaphix" } }],
     "brackets": [
         {
             "slug": "r1",

@@ -9,7 +9,7 @@
         { "name": "Rules", "url": "https://docs.google.com/document/d/1kLvPgQ09_2_TI7-rO_Ouq_Z0jR6XhArT_mUEVGqEcB0/edit" },
         { "name": "HLTV", "url": "https://www.hltv.org/events/8766/cct-season-3-europe-series-9" }
     ],
-    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2025-1" } }],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2025-1", "coach": "tenzki" } }],
     "brackets": [
         {
             "slug": "s1",

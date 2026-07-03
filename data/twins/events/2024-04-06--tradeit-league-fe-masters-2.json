@@ -10,7 +10,7 @@
         { "name": "HLTV", "url": "https://www.hltv.org/events/7753/tradeit-league-fe-masters-season-2" }
     ],
     "tags": ["impact"],
-    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-1" } }],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-1", "coach": "natosaphix" } }],
     "brackets": [
         {
             "slug": "r1",

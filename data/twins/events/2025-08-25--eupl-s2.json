@@ -9,7 +9,7 @@
         { "name": "EPL", "url": "https://eplesports.com/events/cs-2/104" },
         { "name": "Rules", "url": "https://docs.google.com/document/d/1d2k8ZJich5tUQy32pHoqjmuCK1D-QKeRQd5mVntRVnk/edit" }
     ],
-    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2025-1" } }],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2025-1", "coach": "tenzki" } }],
     "brackets": [
         {
             "slug": "s1",

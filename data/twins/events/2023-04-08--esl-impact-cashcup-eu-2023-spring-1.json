@@ -10,7 +10,7 @@
         { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=2412" }
     ],
     "tags": ["impact"],
-    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2023-1" } }],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2023-1", "coach": "toh1o" } }],
     "brackets": [
         {
             "slug": "r2",

@@ -6,7 +6,7 @@
     "duration": { "start": "2025-08-23", "end": "2025-08-24" },
     "links": [{ "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Athena_Cup/2" }],
     "tags": ["impact"],
-    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2025-1" } }],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2025-1", "coach": "tenzki" } }],
     "brackets": [
         {
             "slug": "s1--group-stage",

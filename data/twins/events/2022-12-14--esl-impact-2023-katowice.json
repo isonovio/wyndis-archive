@@ -10,7 +10,7 @@
         { "name": "Rules", "url": "https://drive.google.com/drive/folders/1T6wVEKOXslH_j3B_By_L69pF2s2eqJWd" }
     ],
     "tags": ["impact"],
-    "participants": [{ "shorthand": "cfs", "lineup": { "roster": "cfs-2022-2" } }],
+    "participants": [{ "shorthand": "cfs", "lineup": { "roster": "cfs-2022-2", "coach": "carnem" } }],
     "brackets": [
         {
             "slug": "s1--qualifiers",

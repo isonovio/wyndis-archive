@@ -10,7 +10,7 @@
         { "name": "HLTV", "url": "https://www.hltv.org/events/7952/tradeit-league-fe-masters-season-4" }
     ],
     "tags": ["impact"],
-    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-2" } }],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-2", "coach": "natosaphix" } }],
     "brackets": [
         { "slug": "r1", "name": "Round of 32", "links": [{ "name": "Faceit", "url": "https://www.faceit.com/en/championship/be63e7ed-d605-4068-9e5d-71b084023b6e" }] },
         {

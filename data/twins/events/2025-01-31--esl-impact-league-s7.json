@@ -10,7 +10,7 @@
         { "name": "Rules", "url": "https://drive.google.com/drive/u/0/folders/1-rG6-yalB6y9giVeQNi5rGXuBWyMYprC" }
     ],
     "tags": ["impact"],
-    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-2" } }],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-2", "coach": "natosaphix" } }],
     "brackets": [
         {
             "slug": "s1",

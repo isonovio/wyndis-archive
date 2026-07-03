@@ -10,7 +10,7 @@
         { "name": "HLTV", "url": "https://www.hltv.org/events/8076/tradeit-league-fe-masters-season-5" }
     ],
     "tags": ["impact"],
-    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-2" } }],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-2", "coach": "natosaphix" } }],
     "brackets": [
         { "slug": "r1", "name": "Round of 32", "links": [{ "name": "Faceit", "url": "https://www.faceit.com/en/championship/8d937794-d151-4c42-885a-b1aa930636be" }] },
         {

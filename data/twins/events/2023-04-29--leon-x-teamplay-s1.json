@@ -26,7 +26,7 @@
                                             "id": 2,
                                             "date": "2023-06-12",
                                             "lineups": {
-                                                "team1": { "team": "nipi", "players": ["astra", "jenkon", "kezziwow", "nayomy", "qiyarah"] },
+                                                "team1": { "team": "nipi", "players": ["astra", "jenkon", "kezziwow", "nayomy", "qiyarah"], "coach": "toh1o" },
                                                 "team2": { "name": "JANO" }
                                             },
                                             "links": [{ "name": "HLTV", "url": "https://www.hltv.org/matches/2365068/nip-impact-vs-jano-leon-teamplay-season-1" }],
@@ -43,7 +43,7 @@
                                             "date": "2023-06-13",
                                             "lineups": {
                                                 "team1": { "name": "Insilio" },
-                                                "team2": { "team": "nipi", "players": ["astra", "jenkon", "kaoday", "nayomy", "qiyarah"] }
+                                                "team2": { "team": "nipi", "players": ["astra", "jenkon", "kaoday", "nayomy", "qiyarah"], "coach": "toh1o" }
                                             },
                                             "links": [{ "name": "HLTV", "url": "https://www.hltv.org/matches/2365068/nip-impact-vs-jano-leon-teamplay-season-1" }],
                                             "maps": [

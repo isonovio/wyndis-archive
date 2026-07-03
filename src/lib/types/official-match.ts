@@ -73,7 +73,12 @@ export function omatchFromRaw(raw: OmatchRaw, ctx: OmatchContext): Omatch {
     const name = raw.name ?? `Match ${raw.id}`;
 
     const related: Related = {
-        players: [...lineups[0].players, ...lineups[1].players],
+        players: [
+            ...lineups[0].players,
+            ...lineups[1].players,
+            ...(lineups[0].coach ? [lineups[0].coach] : []),
+            ...(lineups[1].coach ? [lineups[1].coach] : []),
+        ],
         teams: lineups.filter((l) => l.team !== undefined).map((l) => l.team!),
         events: [ctx.event],
     };

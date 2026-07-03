@@ -8,7 +8,7 @@
         { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/YaLLa_Compass/2025/Winter" },
         { "name": "Rules", "url": "https://docs.google.com/document/d/1ImgmirKL_7b6m8O6kKuCWAtukiAGMhCS0uGKu3Dmrf0/edit" }
     ],
-    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-2" } }],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-2", "coach": "natosaphix" } }],
     "brackets": [
         {
             "slug": "s2",

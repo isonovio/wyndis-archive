@@ -10,7 +10,7 @@
         { "name": "HLTV", "url": "https://www.hltv.org/events/7857/esl-impact-spring-2024-cash-cup-4-europe" }
     ],
     "tags": ["impact"],
-    "participants": [{ "shorthand": "nipi", "lineup": { "team": "nipi", "players": ["nayomy", "qiyarah", "ramziin", "spike", "vilga"] } }],
+    "participants": [{ "shorthand": "nipi", "lineup": { "team": "nipi", "players": ["nayomy", "qiyarah", "ramziin", "spike", "vilga"], "coach": "natosaphix" } }],
     "brackets": [
         {
             "slug": "r2",

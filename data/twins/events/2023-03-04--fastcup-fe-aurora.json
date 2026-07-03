@@ -10,7 +10,7 @@
         { "name": "HLTV", "url": "https://www.hltv.org/events/7106/fastcup-aurora-2023" }
     ],
     "tags": ["impact"],
-    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2023-1" } }],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2023-1", "coach": "toh1o" } }],
     "brackets": [
         {
             "slug": "b1r1",

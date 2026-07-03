@@ -8,7 +8,7 @@
         { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Thunderpick/World_Championship/2025" },
         { "name": "Rules", "url": "https://docs.google.com/document/d/1AwIr4ipN5zber9BniVmRqJ6h4wybDhN4TkleD-sE_e0/edit" }
     ],
-    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2025-1" } }],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2025-1", "coach": "natosaphix" } }],
     "brackets": [
         {
             "slug": "s1--series",

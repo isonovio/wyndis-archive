@@ -3,5 +3,6 @@
     "slug": "nlw-2023",
     "team": "nlw",
     "players": ["gina", "maneschijnx", "missy", "nayomy", "qiyarah"],
+    "coach": "rezst",
     "duration": { "start": "2023-08-28", "end": "2023-09-01" }
 }

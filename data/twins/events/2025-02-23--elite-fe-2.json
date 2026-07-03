@@ -9,7 +9,7 @@
         { "name": "FACEIT", "url": "https://www.faceit.com/en/championship/b9ae6415-8e84-4c0d-8845-782a582cbada" }
     ],
     "tags": ["impact"],
-    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-2" } }],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2024-2", "coach": "natosaphix" } }],
     "brackets": [
         {
             "slug": "r1",

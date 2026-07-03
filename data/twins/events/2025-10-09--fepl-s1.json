@@ -9,7 +9,7 @@
         { "name": "Rules", "url": "https://drive.google.com/drive/folders/1BN60R_yfRTpx5wHbmIJn_Hxh64lG_0Ao" }
     ],
     "tags": ["impact"],
-    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2025-1" } }],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2025-1", "coach": "tenzki" } }],
     "brackets": [
         {
             "slug": "s1--qualifiers",

@@ -10,7 +10,7 @@
         { "name": "Rules", "url": "https://drive.google.com/drive/folders/1v4L7HzKChaQuzb6rjFeXk9lBRgw5GrG-" }
     ],
     "tags": ["impact"],
-    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2023-2" } }],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2023-2", "coach": "toh1o" } }],
     "brackets": [
         {
             "slug": "s1",

@@ -11,7 +11,7 @@
         { "name": "HLTV", "url": "https://www.hltv.org/events/6820/esl-impact-autumn-2022-cash-cup-1-europe" }
     ],
     "tags": ["impact"],
-    "participants": [{ "shorthand": "cfs", "lineup": { "roster": "cfs-2022-2" } }],
+    "participants": [{ "shorthand": "cfs", "lineup": { "roster": "cfs-2022-2", "coach": "rookie" } }],
     "brackets": [
         {
             "slug": "r2",

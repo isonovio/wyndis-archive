@@ -1,0 +1,22 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "rezst",
+    "nickname": "Rezst",
+    "name": "Jacob Hemming",
+    "birthday": "2000-07-10",
+    "nationality": "nl",
+    "links": [
+        { "name": "ESEA", "url": "https://play.esea.net/users/1252964" },
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/Rezst" },
+        { "name": "Konect", "url": "https://konect.gg/rezst" },
+        { "name": "HLTV", "url": "https://www.hltv.org/player/20805/rezst" },
+        { "name": "Instagram", "url": "https://www.instagram.com/hemmingjacob" },
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Rezst" },
+        { "name": "Steam", "url": "https://steamcommunity.com/id/rezst/" },
+        { "name": "TikTok", "url": "https://www.tiktok.com/@rezstcs" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/rezst" },
+        { "name": "Twitter", "url": "https://x.com/rezstcs" },
+        { "name": "YouTube", "url": "https://www.youtube.com/rezst" }
+    ]
+}

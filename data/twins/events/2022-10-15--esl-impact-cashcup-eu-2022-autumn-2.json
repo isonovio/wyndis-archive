@@ -10,7 +10,7 @@
         { "name": "Brackets", "url": "https://play.esea.net/index.php?s=events&d=brackets&id=1975" }
     ],
     "tags": ["impact"],
-    "participants": [{ "shorthand": "cfs", "lineup": { "roster": "cfs-2022-2" } }],
+    "participants": [{ "shorthand": "cfs", "lineup": { "roster": "cfs-2022-2", "coach": "rookie" } }],
     "brackets": [
         {
             "slug": "r2",

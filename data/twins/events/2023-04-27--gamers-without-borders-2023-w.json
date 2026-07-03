@@ -9,7 +9,7 @@
         { "name": "HLTV", "url": "https://www.hltv.org/events/7156/gamers-without-borders-women-charity-invitational-2023" }
     ],
     "tags": ["impact"],
-    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2023-1" } }],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2023-1", "coach": "toh1o" } }],
     "brackets": [
         {
             "slug": "r1",

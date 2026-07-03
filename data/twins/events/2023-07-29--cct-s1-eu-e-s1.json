@@ -9,7 +9,7 @@
         { "name": "CCT", "url": "https://cctour.gg/tournaments/cct-east-europe" },
         { "name": "Rules", "url": "https://docs.google.com/document/d/1fTQRUN0IR9Q9bEhyI35for61D7J7k1gRLQG22zk-l78/edit" }
     ],
-    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2023-2" } }],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2023-2", "coach": "toh1o" } }],
     "brackets": [
         {
             "slug": "s2",

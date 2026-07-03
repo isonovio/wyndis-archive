@@ -9,7 +9,7 @@
         { "name": "FACEIT", "url": "https://www.faceit.com/en/championship/1afd9553-3f4c-4b1a-9aee-3f18d5758aca" }
     ],
     "tags": ["impact"],
-    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2023-2" } }],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2023-2", "coach": "toh1o" } }],
     "brackets": [
         {
             "slug": "r2",

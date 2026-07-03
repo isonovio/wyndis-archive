@@ -11,7 +11,7 @@
         { "name": "HLTV", "url": "https://www.hltv.org/events/7137/esl-impact-winter-2023-cash-cup-6-europe" }
     ],
     "tags": ["impact"],
-    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2023-1" } }],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2023-1", "coach": "toh1o" } }],
     "brackets": [
         {
             "slug": "r1",

@@ -10,7 +10,7 @@
         { "name": "HLTV", "url": "https://www.hltv.org/events/7334/esl-impact-summer-2023-cash-cup-3-europe" }
     ],
     "tags": ["impact"],
-    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2023-2" } }],
+    "participants": [{ "shorthand": "nipi", "lineup": { "roster": "nipi-2023-2", "coach": "toh1o" } }],
     "brackets": [
         {
             "slug": "r2",
