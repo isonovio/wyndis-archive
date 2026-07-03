@@ -1,0 +1,17 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "neok",
+    "nickname": "NEOK",
+    "birthday": "1999-03-17",
+    "nationality": "nl",
+    "links": [
+        { "name": "NEOK", "url": "https://neokcs.com/" },
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/neok" },
+        { "name": "Instagram", "url": "https://www.instagram.com/neokcs/" },
+        { "name": "Steam", "url": "https://steamcommunity.com/id/LeKoen" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/neok" },
+        { "name": "Twitter", "url": "https://x.com/CsNeok" },
+        { "name": "YouTube", "url": "https://www.youtube.com/neokcs" }
+    ]
+}

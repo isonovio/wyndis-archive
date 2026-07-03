@@ -1,0 +1,27 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "esports-nations-cup-2026",
+    "name": "Esports Nations Cup 2026",
+    "duration": { "start": "2026-07-06", "end": "2026-11-15" },
+    "links": [
+        { "name": "ENC", "url": "https://esportsnationscup.com/en/competitions/2026/cs2" },
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Esports_Nations_Cup/2026" }
+    ],
+    "participants": [{ "shorthand": "kna", "lineup": { "name": "Kan niet anders", "players": ["d0cc", "kd69z", "nayomy", "neok", "qiyarah"] } }],
+    "brackets": [
+        {
+            "slug": "s1--national-qualifers",
+            "duration": { "start": "2026-07-06", "end": "2026-07-16" },
+            "brackets": [
+                {
+                    "slug": "nl",
+                    "name": "Netherlands Qualifier",
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/championship/0fcad12f-c05d-45ad-bde0-e4a2e85246a4" }]
+                }
+            ]
+        },
+        { "slug": "s2--regional-qualifiers", "brackets": [{ "slug": "euw", "name": "Europe West" }] },
+        { "slug": "s3--main-event", "duration": { "start": "2026-11-10", "end": "2026-11-15" } }
+    ]
+}

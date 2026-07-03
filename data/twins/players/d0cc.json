@@ -1,0 +1,21 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "d0cc",
+    "nickname": "D0cC",
+    "name": "Shuaib Ahmad",
+    "birthday": "2000-09-04",
+    "nationality": "nl",
+    "links": [
+        { "name": "d0cc", "url": "https://d0cc.gg/" },
+        { "name": "ESEA", "url": "https://play.esea.net/users/D0cC%5E" },
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/D0cC" },
+        { "name": "HLTV", "url": "https://www.hltv.org/player/18361/d0cc" },
+        { "name": "Instagram", "url": "https://www.instagram.com/d0cc_csgo" },
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/D0cC" },
+        { "name": "Steam", "url": "https://steamcommunity.com/id/OfficialD0cC/" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/d0cc_tv" },
+        { "name": "Twitter", "url": "https://x.com/D0cC_csgo" },
+        { "name": "YouTube", "url": "https://www.youtube.com/@D0cCTV" }
+    ]
+}

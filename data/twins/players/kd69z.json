@@ -1,0 +1,21 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "kd69z",
+    "nickname": "KD69z",
+    "name": "Kais Abduljawad",
+    "birthday": "1999-01-01",
+    "nationality": "nl",
+    "links": [
+        { "name": "ESEA", "url": "https://play.esea.net/users/1866730" },
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/KD69z" },
+        { "name": "HLTV", "url": "https://www.hltv.org/player/20800/kd69z" },
+        { "name": "Instagram", "url": "https://www.instagram.com/kaisjawad_" },
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/KD69z" },
+        { "name": "Steam", "url": "https://steamcommunity.com/id/KD69Z/" },
+        { "name": "TikTok", "url": "https://www.tiktok.com/@kd69z" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/kd69z" },
+        { "name": "Twitter", "url": "https://x.com/KD69z_csgo" },
+        { "name": "YouTube", "url": "https://www.youtube.com/@kd69z" }
+    ]
+}
