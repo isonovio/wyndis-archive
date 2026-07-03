@@ -124,8 +124,7 @@
                     "lineups": { "team1": { "name": "Pigeons" }, "team2": { "shorthand": "nipi" } },
                     "links": [
                         { "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-05619703-15b1-45e6-8169-e668e9f81d1d" },
-                        { "name": "HLTV", "url": "https://www.hltv.org/matches/2372297/nip-impact-vs-pigeons-tradeit-league-fe-masters-season-3" },
-                        { "name": "HLTV Short News", "url": "https://www.hltv.org/news/38972/short-news-week-20#f38" }
+                        { "name": "HLTV", "url": "https://www.hltv.org/matches/2372297/nip-impact-vs-pigeons-tradeit-league-fe-masters-season-3" }
                     ],
                     "maps": [
                         {
@@ -152,7 +151,8 @@
                                 }
                             ]
                         }
-                    ]
+                    ],
+                    "news": [{ "title": "$vilga face former team.", "links": [{ "name": "HLTV Short News", "url": "https://www.hltv.org/news/38972/short-news-week-20#f38" }] }]
                 }
             ]
         }

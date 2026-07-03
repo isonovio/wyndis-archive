@@ -421,9 +421,13 @@
                                     "name": "Consolidation Final",
                                     "date": "2025-11-15",
                                     "lineups": { "team1": { "shorthand": "nipi" }, "team2": { "name": "BIG EQUIPA" } },
-                                    "links": [{ "name": "HLTV Short News", "url": "https://www.hltv.org/news/43162/short-news-week-46#f8" }],
                                     "maps": [],
-                                    "note": "NIP Impact forfeited the match due to traveling issues."
+                                    "news": [
+                                        {
+                                            "title": "$nipi forfeited the match due to traveling issues.",
+                                            "links": [{ "name": "HLTV Short News", "url": "https://www.hltv.org/news/43162/short-news-week-46#f8" }]
+                                        }
+                                    ]
                                 }
                             ]
                         }

@@ -1,5 +1,4 @@
 ## short-term
-- `Omatch` can own `OmatchNewspiece[]`
 - Code
     - [ ] rename: `record`, `record-genre`, `record-filter`; `timeline` = `record` grouped by `date`
     - [ ] replace `Raw` types with `zod` schemas for runtime validation
@@ -8,8 +7,6 @@
     - [ ] add hover texts to clickables
     - [ ] `h1` title of each page
     - [ ] Links: add svg icons based on the domain
-- Data
-    - [ ] Roster rework: all rosters of the same core should be in the same data file; change of player/team = new roster.
 - Filter
     - [ ] UI: allow search in player filter sections | `searchterm.tolowercase`, show player name if slug.substring(searchterm) or player is in filter
     - [ ] feat: advanced search with customize query language

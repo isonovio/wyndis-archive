@@ -11,6 +11,7 @@
         "lineups": { "$ref": "#/$defs/lineups" },
         "links": { "type": "array", "items": { "$ref": "extern-link.schema.json" } },
         "maps": { "type": "array", "items": { "$ref": "official-map.schema.json" } },
+        "news": { "type": "array", "items": { "$ref": "#/$defs/newspiece" } },
         "note": { "type": "string" }
     },
 
@@ -22,6 +23,15 @@
             "properties": {
                 "team1": { "$ref": "official-lineup.schema.json" },
                 "team2": { "$ref": "official-lineup.schema.json" }
+            }
+        },
+        "newspiece": {
+            "type": "object",
+            "required": ["title"],
+            "additionalProperties": false,
+            "properties": {
+                "title": { "type": "string" },
+                "links": { "type": "array", "items": { "$ref": "extern-link.schema.json" } }
             }
         },
         "tag": {

@@ -24,7 +24,13 @@ export type OmatchRaw = {
     };
     links?: ExternalLink[];
     maps: OmapRaw[];
+    news?: OmatchNewspieceRaw[];
     note?: string;
+};
+
+type OmatchNewspieceRaw = {
+    title: string;
+    links?: ExternalLink[];
 };
 
 export type OmatchTag = "impact" | "lan";
@@ -51,11 +57,17 @@ export interface Omatch extends EntryBase {
     outcomes: [Outcome, Outcome];
     tags: Set<OmatchTag>;
     maps: Omap[];
+    news: OmatchNewspiece[];
     note?: string;
 
     event: Oevent;
     brackets: Obracket[];
 }
+
+export type OmatchNewspiece = {
+    title: string;
+    links: ExternalLink[];
+};
 
 export type OmatchContext = {
     event: Oevent;
@@ -100,10 +112,18 @@ export function omatchFromRaw(raw: OmatchRaw, ctx: OmatchContext): Omatch {
         outcomes,
         tags: ctx.tags,
         maps,
+        news: raw.news?.map(omatchNewspieceFromRaw) ?? [],
         note: raw.note,
 
         event: ctx.event,
         brackets: ctx.brackets,
+    };
+}
+
+function omatchNewspieceFromRaw(raw: OmatchNewspieceRaw): OmatchNewspiece {
+    return {
+        title: raw.title,
+        links: raw.links ?? [],
     };
 }
 
