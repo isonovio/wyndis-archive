@@ -74,7 +74,7 @@
                         <span class="border-l-4 pl-1 border-white">{key}:</span>
                     {/if}
                 </label>
-                <input id={key} placeholder="yyyy-mm-dd" bind:value={dateInput[key]} class="inline-block w-20 border-b border-dashed px-1 leading-none text-sm" />
+                <input id={key} placeholder="yyyy-mm-dd" bind:value={dateInput[key]} class="inline-block w-22 border-b border-dashed px-1 leading-none text-sm" />
             </div>
         {/each}
         {#if dateInputError != ""}
