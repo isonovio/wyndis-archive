@@ -5,7 +5,7 @@
     "nickname": "jenkon",
     "name": "Jennica Sjögren",
     "birthday": "1998-02-28",
-    "nationalities": ["se"],
+    "nationalities": ["fi", "se"],
     "tags": ["impact"],
     "links": [
         { "name": "ESEA", "url": "https://play.esea.net/users/1287926" },
