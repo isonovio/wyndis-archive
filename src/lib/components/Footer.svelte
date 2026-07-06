@@ -16,7 +16,7 @@
     </div>
     <nav class="flex gap-10">
         {#each navs as [route, title]}
-            <a href={route} class="hover:border-b hover:text-gray-500">
+            <a href={route} class="border-b border-white hover:border-gray-500 hover:text-gray-500">
                 {title}
             </a>
         {/each}
