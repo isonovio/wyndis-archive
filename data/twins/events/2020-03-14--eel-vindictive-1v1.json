@@ -1,0 +1,47 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "eel-vindictive-1v1",
+    "name": "EEL Vindictive 1v1",
+    "duration": { "start": "2020-03-14", "end": "2020-03-14" },
+    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/championship/0afca8fe-e1fe-4247-92f6-bdf446a92250" }],
+    "participants": [
+        { "shorthand": "n", "lineup": { "name": "Nayomy", "players": ["nayomy"] } },
+        { "shorthand": "q", "lineup": { "name": "Qiyarah", "players": ["qiyarah"] } }
+    ],
+    "brackets": [
+        {
+            "slug": "r1",
+            "name": "Round of 32",
+            "matches": [
+                {
+                    "id": 10,
+                    "date": "2020-03-14",
+                    "lineups": { "team1": { "name": "sklxrd" }, "team2": { "shorthand": "n" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-b8e4354c-b68f-4d09-b010-d9db71a85400" }],
+                    "maps": [{ "id": 1, "map": "unk", "result": "16:11" }]
+                },
+                {
+                    "id": 16,
+                    "date": "2020-03-14",
+                    "lineups": { "team1": { "name": "Doooodles" }, "team2": { "shorthand": "q" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-a81f7cc6-5ad0-4370-a0fa-e4735b8b4e0c" }],
+                    "maps": [{ "id": 1, "map": "unk", "result": "9:16" }]
+                }
+            ]
+        },
+        {
+            "slug": "r2",
+            "name": "Round of 16",
+            "matches": [
+                {
+                    "id": 8,
+                    "date": "2020-03-14",
+                    "lineups": { "team1": { "name": "CYPHER--" }, "team2": { "shorthand": "q" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-a861965b-09a2-4b1b-aed9-834a1cd925ab" }],
+                    "maps": [{ "id": 1, "map": "unk", "result": "16:9" }]
+                }
+            ]
+        }
+    ]
+}
