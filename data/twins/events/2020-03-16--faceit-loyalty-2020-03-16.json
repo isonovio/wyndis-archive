@@ -1,0 +1,50 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "faceit-loyalty-2020-03-16",
+    "name": "FACEIT Loyalty Series 2020-03-16",
+    "duration": { "start": "2020-03-16", "end": "2020-03-16" },
+    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/championship/b27669a5-acb4-42e8-ad78-c21f37b7e709" }],
+    "participants": [{ "shorthand": "twins", "lineup": { "name": "Dogsquad", "players": ["nayomy", "qiyarah"] } }],
+    "brackets": [
+        {
+            "slug": "r1",
+            "name": "Round of 16",
+            "matches": [
+                {
+                    "id": 2,
+                    "date": "2020-03-16",
+                    "lineups": { "team1": { "shorthand": "twins" }, "team2": { "name": "kek" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-ee765b2d-4975-4b85-b264-47d882a3b64e" }],
+                    "maps": [{ "id": 1, "map": "inf", "result": "16:9" }]
+                }
+            ]
+        },
+        {
+            "slug": "r2",
+            "name": "Quarterfinals",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2020-03-16",
+                    "lineups": { "team1": { "name": "Team K1ss0" }, "team2": { "shorthand": "twins" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-86b395c5-437f-45d1-8339-2cd960dfd31e" }],
+                    "maps": [{ "id": 1, "map": "mrg", "result": "13:16" }]
+                }
+            ]
+        },
+        {
+            "slug": "r3",
+            "name": "Semifinals",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2020-03-16",
+                    "lineups": { "team1": { "shorthand": "twins" }, "team2": { "name": "Green Doramio" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-89662c46-1555-430c-bfd9-ff600e145870" }],
+                    "maps": [{ "id": 1, "map": "inf", "result": "12:16" }]
+                }
+            ]
+        }
+    ]
+}

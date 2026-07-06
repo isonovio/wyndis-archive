@@ -27,8 +27,11 @@
                                     "id": 2,
                                     "name": "Opening Match 2",
                                     "date": "2023-08-03",
-                                    "lineups": { "team1": { "name": "Natus Vincere Youth" }, "team2": { "shorthand": "nipi" } },
-                                    "links": [{ "name": "Bo3.gg", "url": "https://bo3.gg/matches/navi-youth-vs-ninjas-in-pyjamas-female-03-08-2023" }],
+                                    "lineups": { "team1": { "name": "NAVI Junior" }, "team2": { "shorthand": "nipi" } },
+                                    "links": [
+                                        { "name": "Bo3.gg", "url": "https://bo3.gg/matches/navi-youth-vs-ninjas-in-pyjamas-female-03-08-2023" },
+                                        { "name": "FACEIT", "url": "https://www.faceit.com/en/championship/7ee8c926-6261-4f70-80a3-f66eed2450b8" }
+                                    ],
                                     "maps": [
                                         { "id": 1, "map": "mrg", "result": "16:3" },
                                         { "id": 2, "map": "ovp", "result": "16:10" }
@@ -47,7 +50,10 @@
                                     "name": "Decider Match",
                                     "date": "2023-08-04",
                                     "lineups": { "team1": { "name": "Singularity" }, "team2": { "shorthand": "nipi" } },
-                                    "links": [{ "name": "Bo3.gg", "url": "https://bo3.gg/matches/singularity-cs-go-vs-ninjas-in-pyjamas-female-04-08-2023" }],
+                                    "links": [
+                                        { "name": "Bo3.gg", "url": "https://bo3.gg/matches/singularity-cs-go-vs-ninjas-in-pyjamas-female-04-08-2023" },
+                                        { "name": "FACEIT", "url": "https://www.faceit.com/en/championship/db254873-9fae-4587-bc1f-c6a5a908ba5c" }
+                                    ],
                                     "maps": [
                                         { "id": 1, "map": "nuke", "result": "16:11" },
                                         { "id": 2, "map": "ovp", "result": "16:1" }

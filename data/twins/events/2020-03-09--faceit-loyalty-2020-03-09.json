@@ -1,0 +1,37 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "faceit-loyalty-2020-03-09",
+    "name": "FACEIT Loyalty Series 2020-03-09",
+    "duration": { "start": "2020-03-09", "end": "2020-03-09" },
+    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/championship/114a1c35-fde8-403d-ad5e-54d22cbd120d" }],
+    "participants": [{ "shorthand": "n", "lineup": { "name": "Team Nayomy", "players": ["nayomy"] } }],
+    "brackets": [
+        {
+            "slug": "r1",
+            "name": "Quarterfinals",
+            "matches": [
+                {
+                    "id": 2,
+                    "date": "2020-03-09",
+                    "lineups": { "team1": { "shorthand": "n" }, "team2": { "name": "Team ichPYK" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-ab96b36b-e95c-4e2d-92e8-1cb01164a95e" }],
+                    "maps": [{ "id": 1, "map": "mrg", "result": "16:8" }]
+                }
+            ]
+        },
+        {
+            "slug": "r2",
+            "name": "Semifinals",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2020-03-09",
+                    "lineups": { "team1": { "name": "DECANO" }, "team2": { "shorthand": "n" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-5c24421a-0f27-498d-947c-ae27466f1c6e" }],
+                    "maps": [{ "id": 1, "map": "inf", "result": "19:17" }]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "pgfbailey",
+    "nickname": "pgfbailey",
+    "name": "Jessica Bailey",
+    "nationalities": ["be"],
+    "tags": ["impact"],
+    "links": [
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/pgfbailey" },
+        { "name": "Twitter", "url": "https://x.com/pgfbailey" }
+    ]
+}

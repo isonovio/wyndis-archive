@@ -1,0 +1,50 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "faceit-probationary-2020-05-05",
+    "name": "FACEIT Probationary Series 2020-05-05",
+    "duration": { "start": "2020-05-05", "end": "2020-05-05" },
+    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/championship/3a576a19-4082-46ba-b2e0-d88266dc5f44" }],
+    "participants": [{ "shorthand": "n", "lineup": { "name": "Team Nayomy", "players": ["nayomy"] } }],
+    "brackets": [
+        {
+            "slug": "r1",
+            "name": "Round of 32",
+            "matches": [
+                {
+                    "id": 3,
+                    "date": "2020-05-05",
+                    "lineups": { "team1": { "shorthand": "n" }, "team2": { "name": "Team GoldChain9" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-889ea7fd-404e-44de-a075-95b72bdea0dd" }],
+                    "maps": [{ "id": 1, "map": "mrg", "result": "16:10" }]
+                }
+            ]
+        },
+        {
+            "slug": "r2",
+            "name": "Round of 16",
+            "matches": [
+                {
+                    "id": 7,
+                    "date": "2020-05-05",
+                    "lineups": { "team1": { "shorthand": "n" }, "team2": { "name": "NYSNC" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-bd43c889-e969-4442-8ab1-38f9f2a048d2" }],
+                    "maps": [{ "id": 1, "map": "mrg", "result": "16:11" }]
+                }
+            ]
+        },
+        {
+            "slug": "r3",
+            "name": "Quarterfinals",
+            "matches": [
+                {
+                    "id": 4,
+                    "date": "2020-05-05",
+                    "lineups": { "team1": { "shorthand": "n" }, "team2": { "name": "CUMBECK" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-c923ee40-6db9-4453-9e4e-7034fbeb7451" }],
+                    "maps": [{ "id": 1, "map": "mrg", "result": "14:16" }]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "women-open-s13",
+    "name": "Women Open Season 13",
+    "duration": { "start": "2020-06-06", "end": "2020-07-04" },
+    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/championship/0968c309-8c5e-4699-a88e-d25cde67b441" }],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "gg", "lineup": { "name": "Glorious Gaming", "players": ["beauvillain", "emroott", "eykha", "nayomy", "pgfbailey"], "coach": "jvr" } }],
+    "brackets": [
+        {
+            "slug": "gc",
+            "name": "Group C",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2020-06-06",
+                    "lineups": { "team1": { "shorthand": "gg" }, "team2": { "name": "bite nades" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-46e934ee-580e-4cd9-8cef-7908b7053ebe" }],
+                    "maps": [
+                        { "id": 1, "map": "inf", "result": "6:16" },
+                        { "id": 2, "map": "ovp", "result": "11:16" }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "date": "2020-06-13",
+                    "lineups": { "team1": { "shorthand": "gg" }, "team2": { "name": "VyrixGG" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-b83c3e4d-6953-4515-a307-d149fa289930" }],
+                    "maps": [
+                        { "id": 1, "map": "ovp", "result": "7:16" },
+                        { "id": 2, "map": "inf", "result": "10:16" }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "date": "2020-06-19",
+                    "lineups": { "team1": { "name": "iBoarsLadies" }, "team2": { "shorthand": "gg" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-e6758454-d626-457c-a20c-73a3e7a0af37" }],
+                    "maps": [{ "id": 1, "map": "nuke", "result": "16:1" }]
+                }
+            ]
+        }
+    ]
+}

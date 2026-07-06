@@ -1,0 +1,9 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "jvr",
+    "nickname": "JvR",
+    "nationalities": ["be"],
+    "tags": ["coach"],
+    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/players/JvR" }]
+}

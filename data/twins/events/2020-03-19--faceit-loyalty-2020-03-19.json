@@ -1,0 +1,24 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "faceit-loyalty-2020-03-19",
+    "name": "FACEIT Loyalty Series 2020-03-19",
+    "duration": { "start": "2020-03-19", "end": "2020-03-19" },
+    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/championship/9fb031a1-6bf3-4f9f-9479-3ade446dafb0" }],
+    "participants": [{ "shorthand": "twins", "lineup": { "name": "ExitLife", "players": ["nayomy", "qiyarah"] } }],
+    "brackets": [
+        {
+            "slug": "r1",
+            "name": "Round of 16",
+            "matches": [
+                {
+                    "id": 2,
+                    "date": "2020-03-19",
+                    "lineups": { "team1": { "name": "Team DOGSIK_Mops" }, "team2": { "shorthand": "twins" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-e275d66b-0410-45b0-8f42-c510058c094a" }],
+                    "maps": [{ "id": 1, "map": "mrg", "result": "16:13" }]
+                }
+            ]
+        }
+    ]
+}

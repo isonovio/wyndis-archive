@@ -1,0 +1,21 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "eneshan",
+    "nickname": "eneshan",
+    "name": "Eneshan Tez",
+    "birthday": "2000-04-26",
+    "nationalities": ["nl", "tr"],
+    "links": [
+        { "name": "ESEA", "url": "https://play.esea.net/users/1865450" },
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/eneshan" },
+        { "name": "HLTV", "url": "https://www.hltv.org/player/19066/eneshan" },
+        { "name": "Instagram", "url": "https://www.instagram.com/eneshancsgo" },
+        { "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Eneshan" },
+        { "name": "Steam", "url": "https://steamcommunity.com/id/eneshan1473/" },
+        { "name": "TikTok", "url": "https://www.tiktok.com/@eneshancsgo" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/eneshancsgo" },
+        { "name": "Twitter", "url": "https://x.com/eneshancsgo" },
+        { "name": "YouTube", "url": "https://www.youtube.com/@eneshancsgo" }
+    ]
+}

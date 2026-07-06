@@ -1,0 +1,44 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "girlgamer-challenge-eu",
+    "name": "GIRLGAMER Challenge Europe",
+    "duration": { "start": "2021-04-10", "end": "2021-04-25" },
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nsc", "lineup": { "roster": "nsc-2021-1" } }],
+    "brackets": [
+        {
+            "slug": "s1--qualifers",
+            "brackets": [
+                {
+                    "slug": "q1",
+                    "name": "Qualifier 1",
+                    "matches": [
+                        {
+                            "id": 1,
+                            "date": "2021-04-10",
+                            "lineups": { "team1": { "name": "HyperspaceGirls" }, "team2": { "shorthand": "nsc" } },
+                            "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-8c7b1cb9-48f1-49f3-8a1c-fa0a14937c6d" }],
+                            "maps": [
+                                { "id": 1, "map": "ovp", "result": "16:13" },
+                                { "id": 2, "map": "d2", "result": "11:16" },
+                                { "id": 3, "map": "nuke", "result": "8:16" }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "date": "2021-04-10",
+                            "lineups": { "team1": { "name": "Arcane Wave" }, "team2": { "shorthand": "nsc" } },
+                            "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-d664a21c-e655-4b95-9b3e-6abc890eb8c0" }],
+                            "maps": [
+                                { "id": 1, "map": "trn", "result": "16:6" },
+                                { "id": 2, "map": "inf", "result": "14:16" },
+                                { "id": 3, "map": "d2", "result": "19:16" }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

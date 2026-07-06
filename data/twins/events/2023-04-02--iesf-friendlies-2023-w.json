@@ -1,0 +1,23 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "iesf-friendlies-2023-w",
+    "name": "IESF 2023 Women Friendlies",
+    "duration": { "start": "2023-04-02", "end": "2023-04-02" },
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nlw", "lineup": { "team": "nlw", "players": ["maneschijnx", "missy", "nayomy", "qiyarah", "tiggz"], "coach": "eneshan" } }],
+    "brackets": [
+        {
+            "slug": "s1",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2023-04-02",
+                    "lineups": { "team1": { "shorthand": "nlw" }, "team2": { "name": "Spain Women" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-91f4d1e3-1e9e-4ddb-ba0a-68d2bc40bb82" }],
+                    "maps": [{ "id": 1, "map": "nuke", "result": "16:13" }]
+                }
+            ]
+        }
+    ]
+}

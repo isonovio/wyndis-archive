@@ -1,0 +1,43 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "npf-2022-semipro",
+    "name": "NPF 2022 Semi Pro",
+    "duration": { "start": "2022-10-14", "end": "2022-10-15" },
+    "participants": [{ "shorthand": "cfs", "lineup": { "roster": "cfs-2022-2", "coach": "rookie" } }],
+    "brackets": [
+        {
+            "slug": "s1--group-play",
+            "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/championship/2e8873a4-966e-4274-ae8e-3a92c224d941" }],
+            "brackets": [
+                {
+                    "slug": "gg",
+                    "name": "Group G",
+                    "matches": [
+                        {
+                            "id": 1,
+                            "date": "2022-10-14",
+                            "lineups": { "team1": { "shorthand": "cfs" }, "team2": { "name": "Kalokiokuglerne" } },
+                            "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-e89aeeae-948d-4eab-816f-afe44b91a77e" }],
+                            "maps": [{ "id": 1, "map": "vtg", "result": "4:16" }]
+                        },
+                        {
+                            "id": 2,
+                            "date": "2022-10-14",
+                            "lineups": { "team1": { "name": "vamoss" }, "team2": { "shorthand": "cfs" } },
+                            "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-3896be68-8110-41b6-bf8d-13c43a042d69" }],
+                            "maps": [{ "id": 1, "map": "vtg", "result": "16:3" }]
+                        },
+                        {
+                            "id": 3,
+                            "date": "2022-10-14",
+                            "lineups": { "team1": { "shorthand": "cfs" }, "team2": { "name": "KES-Eagles" } },
+                            "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-ce6f8474-4725-4f8c-931f-55488b5ac19e" }],
+                            "maps": [{ "id": 1, "map": "ovp", "result": "16:5" }]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

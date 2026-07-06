@@ -1,0 +1,24 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "faceit-loyalty-2020-10-02",
+    "name": "FACEIT Loyalty Series 2020-10-02",
+    "duration": { "start": "2020-10-02", "end": "2020-10-02" },
+    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/championship/fc627396-eec8-4515-960a-f0bb82b7faca" }],
+    "participants": [{ "shorthand": "nsc", "lineup": { "team": "nsc", "players": ["beauvillain", "emroott", "mrsromer", "nayomy", "qiyarah"] } }],
+    "brackets": [
+        {
+            "slug": "r2",
+            "name": "Quarterfinals",
+            "matches": [
+                {
+                    "id": 3,
+                    "date": "2020-10-02",
+                    "lineups": { "team1": { "name": "Team Young-Niels" }, "team2": { "shorthand": "nsc" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-6c02608f-24b6-4ca8-ac49-4b8caf5328aa" }],
+                    "maps": [{ "id": 1, "map": "inf", "result": "16:9" }]
+                }
+            ]
+        }
+    ]
+}

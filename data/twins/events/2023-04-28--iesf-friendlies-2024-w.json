@@ -1,0 +1,34 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "iesf-friendlies-2024-w",
+    "name": "IESF 2024 Women Friendlies",
+    "duration": { "start": "2024-04-28", "end": "2024-04-28" },
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nlw", "lineup": { "team": "nlw", "players": ["maneschijnx", "missy", "nayomy", "qiyarah", "tiggz"], "coach": "natosaphix" } }],
+    "brackets": [
+        {
+            "slug": "s1",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2024-04-28",
+                    "lineups": { "team1": { "shorthand": "nlw" }, "team2": { "name": "Belgium Women" } },
+                    "maps": [{ "id": 1, "map": "unk", "result": "1:0" }]
+                },
+                {
+                    "id": 2,
+                    "date": "2024-04-28",
+                    "lineups": { "team1": { "shorthand": "nlw" }, "team2": { "name": "Ukraine Women" } },
+                    "maps": [{ "id": 1, "map": "unk", "result": "1:0" }]
+                },
+                {
+                    "id": 3,
+                    "date": "2024-04-28",
+                    "lineups": { "team1": { "shorthand": "nlw" }, "team2": { "name": "Hungary Women" } },
+                    "maps": [{ "id": 1, "map": "unk", "result": "1:0" }]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "emroott",
+    "nickname": "EmRooTT",
+    "nationalities": ["gb"],
+    "tags": ["impact"],
+    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/players/EmRooTT" }]
+}

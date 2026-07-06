@@ -1,0 +1,24 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "faceit-loyalty-2020-05-05",
+    "name": "FACEIT Loyalty Series 2020-05-05",
+    "duration": { "start": "2020-05-05", "end": "2020-05-05" },
+    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/championship/5706f9aa-4d69-4b9d-a0c8-6d22e37ca81e" }],
+    "participants": [{ "shorthand": "n", "lineup": { "name": "Team Nayomy", "players": ["nayomy"] } }],
+    "brackets": [
+        {
+            "slug": "r2",
+            "name": "Round of 16",
+            "matches": [
+                {
+                    "id": 4,
+                    "date": "2020-05-05",
+                    "lineups": { "team1": { "name": "Batirmishi" }, "team2": { "shorthand": "n" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-ba0a479c-dc7b-4554-821a-96e8142f6b44" }],
+                    "maps": [{ "id": 1, "map": "inf", "result": "16:4" }]
+                }
+            ]
+        }
+    ]
+}

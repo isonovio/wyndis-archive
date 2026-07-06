@@ -1,0 +1,33 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "iesf-friendlies-2025-w",
+    "name": "IESF 2025 Women Friendlies",
+    "duration": { "start": "2025-04-20", "end": "2025-04-20" },
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nlw", "lineup": { "roster": "nlw-2023" } }],
+    "brackets": [
+        {
+            "slug": "s1",
+            "matches": [
+                {
+                    "id": 1,
+                    "date": "2025-04-20",
+                    "lineups": { "team1": { "name": "Denmark Women" }, "team2": { "shorthand": "nlw" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-59965425-f287-43c0-8f0d-fa9ffaa689f7" }],
+                    "maps": [{ "id": 1, "map": "anb", "result": "8:13" }]
+                },
+                {
+                    "id": 1,
+                    "date": "2025-04-20",
+                    "lineups": { "team1": { "shorthand": "nlw" }, "team2": { "name": "Iran Women" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-a2a16119-373b-4d5f-81b4-41e7e61aac64" }],
+                    "maps": [
+                        { "id": 1, "map": "anc", "result": "13:1" },
+                        { "id": 2, "map": "trn", "result": "13:4" }
+                    ]
+                }
+            ]
+        }
+    ]
+}

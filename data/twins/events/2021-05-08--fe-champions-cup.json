@@ -1,0 +1,50 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "2021-05-08--fe-champions-cup",
+    "name": "Female Champions Cup",
+    "duration": { "start": "2021-05-08", "end": "2021-05-23" },
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nsc", "lineup": { "roster": "nsc-2021-1" } }],
+    "brackets": [
+        {
+            "slug": "s1--group-play",
+            "brackets": [
+                {
+                    "slug": "gd",
+                    "name": "Group D",
+                    "matches": [
+                        {
+                            "id": 1,
+                            "date": "2021-05-08",
+                            "lineups": { "team1": { "shorthand": "nsc" }, "team2": { "name": "Karmelki" } },
+                            "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-856ed9fd-f275-4cb9-8ac5-2e84fb4140bf" }],
+                            "maps": [{ "id": 1, "map": "trn", "result": "6:16" }]
+                        },
+                        {
+                            "id": 2,
+                            "date": "2021-05-08",
+                            "lineups": { "team1": { "name": "R4inb0w Br4" }, "team2": { "shorthand": "nsc" } },
+                            "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-5bcf940a-265c-4702-acc4-163c89a2defc" }],
+                            "maps": [{ "id": 1, "map": "inf", "result": "1:16" }]
+                        },
+                        {
+                            "id": 3,
+                            "date": "2021-05-08",
+                            "lineups": { "team1": { "name": "Arcane Wave" }, "team2": { "shorthand": "nsc" } },
+                            "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-3a873a71-dd75-4e9b-be10-1a481650616d" }],
+                            "maps": [{ "id": 1, "map": "d2", "result": "16:10" }]
+                        },
+                        {
+                            "id": 4,
+                            "date": "2021-05-08",
+                            "lineups": { "team1": { "shorthand": "nsc" }, "team2": { "name": "Bifrost Blue" } },
+                            "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/csgo/room/1-4479f335-0986-439c-bd18-b00b23643fb8" }],
+                            "maps": [{ "id": 1, "map": "inf", "result": "14:16" }]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

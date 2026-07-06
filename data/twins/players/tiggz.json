@@ -1,0 +1,14 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "tiggz",
+    "nickname": "Tiggz",
+    "name": "Sabrina van Bommel",
+    "nationalities": ["nl"],
+    "tags": ["impact"],
+    "links": [
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/Tiggzzz" },
+        { "name": "HLTV", "url": "https://www.hltv.org/player/1960/tiggz" },
+        { "name": "Twitter", "url": "https://x.com/tiggztv" }
+    ]
+}
