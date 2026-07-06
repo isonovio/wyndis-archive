@@ -4,6 +4,6 @@
     "slug": "hikomi",
     "nickname": "Hikomi",
     "name": "Magdalena Demska",
-    "nationality": "pl",
+    "nationalities": ["pl"],
     "tags": ["impact"]
 }

@@ -6,7 +6,7 @@ type TalentRaw = {
     nickname: string;
     name?: string;
     birthday?: string;
-    nationality?: string;
+    nationalities?: string[];
     links?: ExternalLink[];
 };
 
@@ -23,7 +23,7 @@ export type Talent = {
     nickname: string;
     name?: string;
     birthday?: Temporal.PlainDate;
-    nationality?: string;
+    nationalities: string[];
     links: ExternalLink[];
 };
 
@@ -33,6 +33,7 @@ function talentFromRaw(raw: TalentRaw): Talent {
         birthday: raw.birthday
             ? Temporal.PlainDate.from(raw.birthday)
             : undefined,
+        nationalities: raw.nationalities ?? [],
         links: raw.links ?? [],
     };
 }

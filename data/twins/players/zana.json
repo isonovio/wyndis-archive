@@ -5,7 +5,7 @@
     "nickname": "Zana-th",
     "name": "Ana Sofia Queiroz Marques",
     "birthday": "2001-07-26",
-    "nationality": "pt",
+    "nationalities": ["pt"],
     "tags": ["ninja", "impact"],
     "links": [
         { "name": "ESEA", "url": "https://play.esea.net/users/1639930" },

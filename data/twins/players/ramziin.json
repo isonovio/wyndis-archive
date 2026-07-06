@@ -5,7 +5,7 @@
     "nickname": "ramziiN",
     "name": "Anna Ramsing",
     "birthday": "2003-05-04",
-    "nationality": "dk",
+    "nationalities": ["dk"],
     "tags": ["impact"],
     "links": [
         { "name": "ESEA", "url": "https://play.esea.net/users/2466593" },

@@ -4,6 +4,6 @@
     "slug": "nem1za",
     "nickname": "Nem1za",
     "name": "Анастасия Кондрашкина",
-    "nationality": "ru",
+    "nationalities": ["ru"],
     "tags": ["impact"]
 }

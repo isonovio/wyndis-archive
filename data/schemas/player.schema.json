@@ -2,7 +2,7 @@
     "$schema": "http://json-schema.org/draft-07/schema",
 
     "type": "object",
-    "required": ["slug", "nickname", "nationality"],
+    "required": ["slug", "nickname", "nationalities"],
     "additionalProperties": false,
     "properties": {
         "$schema": { "type": "string", "format": "uri-reference" },
@@ -11,7 +11,7 @@
         "nickname": { "type": "string" },
         "name": { "type": "string" },
         "birthday": { "type": "string", "format": "date" },
-        "nationality": { "$ref": "nationality.schema.json" },
+        "nationalities": { "type": "array", "items": { "$ref": "nationality.schema.json" } },
         "tags": { "type": "array", "items": { "$ref": "#/$defs/tag" } },
         "links": { "type": "array", "items": { "$ref": "extern-link.schema.json" } }
     },

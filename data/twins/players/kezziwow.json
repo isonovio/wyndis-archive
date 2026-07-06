@@ -5,7 +5,7 @@
     "nickname": "kezziwOw",
     "name": "Héjja Kászandrá",
     "birthday": "1996-01-04",
-    "nationality": "hu",
+    "nationalities": ["hu"],
     "tags": ["impact"],
     "links": [
         { "name": "ESEA", "url": "https://play.esea.net/users/781496" },

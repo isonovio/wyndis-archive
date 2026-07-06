@@ -5,7 +5,7 @@
     "nickname": "aiM",
     "name": "Mia Cooper",
     "birthday": "2002-04-18",
-    "nationality": "gb",
+    "nationalities": ["gb"],
     "tags": ["ninja", "impact"],
     "links": [
         { "name": "ESEA", "url": "https://play.esea.net/users/1626447" },

@@ -5,7 +5,7 @@
     "nickname": "Missy",
     "name": "Halat Naby",
     "birthday": "1992-11-08",
-    "nationality": "nl",
+    "nationalities": ["nl"],
     "tags": ["impact"],
     "links": [
         { "name": "FACEIT", "url": "https://www.faceit.com/en/players/FreeNN-" },

@@ -5,6 +5,6 @@
     "nickname": "JennyR",
     "name": "Jennifer Irina Brea Rodriguez",
     "birthday": "2001-09-10",
-    "nationality": "es",
+    "nationalities": ["es"],
     "tags": ["impact"]
 }

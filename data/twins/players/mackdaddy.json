@@ -4,7 +4,7 @@
     "slug": "mackdaddy",
     "nickname": "MackDaddy",
     "name": "Marcus Eriksson Gonzalez",
-    "nationality": "se",
+    "nationalities": ["se"],
     "birthday": "1996-01-30",
     "tags": ["coach"],
     "links": [

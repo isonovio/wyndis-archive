@@ -5,7 +5,7 @@
     "nickname": "buhnny",
     "name": "Anna Cheung",
     "birthday": "1999-01-15",
-    "nationality": "us",
+    "nationalities": ["us"],
     "tags": ["impact"],
     "links": [
         { "name": "FACEIT", "url": "https://www.faceit.com/en/players/anna" },

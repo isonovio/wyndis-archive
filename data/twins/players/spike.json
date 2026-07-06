@@ -5,7 +5,7 @@
     "nickname": "spike",
     "name": "Selin Sinem Alak",
     "birthday": "2001-04-06",
-    "nationality": "de",
+    "nationalities": ["de"],
     "tags": ["impact"],
     "links": [
         { "name": "FACEIT", "url": "https://www.faceit.com/en/players/spike" },

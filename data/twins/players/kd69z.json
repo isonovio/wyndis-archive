@@ -5,7 +5,7 @@
     "nickname": "KD69z",
     "name": "Kais Abduljawad",
     "birthday": "1999-01-01",
-    "nationality": "nl",
+    "nationalities": ["nl"],
     "links": [
         { "name": "ESEA", "url": "https://play.esea.net/users/1866730" },
         { "name": "FACEIT", "url": "https://www.faceit.com/en/players/KD69z" },

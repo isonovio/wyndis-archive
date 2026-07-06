@@ -5,7 +5,7 @@
     "nickname": "Kaoday",
     "name": "Coline Le Floc'h",
     "birthday": "1997-04-26",
-    "nationality": "fr",
+    "nationalities": ["fr"],
     "tags": ["impact"],
     "links": [
         { "name": "ESEA", "url": "https://play.esea.net/users/1901221" },

@@ -5,6 +5,6 @@
     "nickname": "Joanana",
     "name": "Йоана Влайкова",
     "birthday": "2001-11-06",
-    "nationality": "bg",
+    "nationalities": ["bg"],
     "tags": ["impact"]
 }

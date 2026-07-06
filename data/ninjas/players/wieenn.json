@@ -5,6 +5,6 @@
     "nickname": "wieenN",
     "name": "Narmina Gasanova",
     "birthday": "2001-04-06",
-    "nationality": "ge",
+    "nationalities": ["ge"],
     "tags": ["impact"]
 }

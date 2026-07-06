@@ -5,6 +5,6 @@
     "nickname": "Emmsan",
     "name": "Emma Mattsson",
     "birthday": "2000-09-26",
-    "nationality": "se",
+    "nationalities": ["se"],
     "tags": ["impact"]
 }

@@ -4,7 +4,7 @@
     "slug": "toh1o",
     "nickname": "ToH1o",
     "name": "Антон Георгиев",
-    "nationality": "bg",
+    "nationalities": ["bg"],
     "birthday": "1989-06-30",
     "tags": ["coach"],
     "links": [

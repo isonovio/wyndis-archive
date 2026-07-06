@@ -5,7 +5,7 @@
     "nickname": "vilga",
     "name": "Ксения Клюенкова",
     "birthday": "1991-08-03",
-    "nationality": "ru",
+    "nationalities": ["ru"],
     "tags": ["ninja", "impact", "coach"],
     "links": [
         { "name": "ESEA", "url": "https://play.esea.net/users/594610" },

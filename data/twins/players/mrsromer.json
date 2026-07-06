@@ -3,6 +3,6 @@
 
     "slug": "mrsromer",
     "nickname": "MrsRømer",
-    "nationality": "dk",
+    "nationalities": ["dk"],
     "tags": ["impact"]
 }

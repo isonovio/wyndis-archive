@@ -5,6 +5,6 @@
     "nickname": "Hanka",
     "name": "Hanna Pudlis",
     "birthday": "2004-03-26",
-    "nationality": "pl",
+    "nationalities": ["pl"],
     "tags": ["impact"]
 }

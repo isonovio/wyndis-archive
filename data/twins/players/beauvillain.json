@@ -5,7 +5,7 @@
     "nickname": "Beauvillain",
     "name": "Samantha Brito e Cunha",
     "birthday": "1992-04-10",
-    "nationality": "pt",
+    "nationalities": ["pt"],
     "tags": ["impact"],
     "links": [
         { "name": "HLTV", "url": "https://www.hltv.org/player/21797/beauvillain" },

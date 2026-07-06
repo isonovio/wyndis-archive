@@ -5,7 +5,7 @@
     "nickname": "Ann4",
     "name": "Anna Laurinoviča",
     "birthday": "2002-09-27",
-    "nationality": "lv",
+    "nationalities": ["lv"],
     "tags": ["impact"],
     "links": [
         { "name": "HLTV", "url": "https://www.hltv.org/player/22104/ann4" },

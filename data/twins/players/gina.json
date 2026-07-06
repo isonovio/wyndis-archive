@@ -5,7 +5,7 @@
     "nickname": "Gina",
     "name": "Melania Mylioti",
     "birthday": "1991-09-17",
-    "nationality": "nl",
+    "nationalities": ["nl"],
     "tags": ["impact"],
     "links": [
         { "name": "Profile", "url": "https://www.melania.gg/" },

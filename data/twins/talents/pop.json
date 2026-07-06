@@ -4,6 +4,6 @@
     "nickname": "Pop",
     "name": "Vlad Popescu",
     "birthday": "1996-07-29",
-    "nationality": "ro",
+    "nationalities": ["ro"],
     "links": [{ "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Pop_(Romanian_commentator)" }]
 }

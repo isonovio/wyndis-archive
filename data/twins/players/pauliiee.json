@@ -5,7 +5,7 @@
     "nickname": "pauliiee",
     "name": "Paulie Barazani",
     "birthday": "2005-12-23",
-    "nationality": "il",
+    "nationalities": ["il"],
     "tags": ["impact"],
     "links": [
         { "name": "ESEA", "url": "https://play.esea.net/users/2737094" },

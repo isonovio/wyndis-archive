@@ -4,7 +4,7 @@
     "slug": "rookie",
     "nickname": "Rookie",
     "name": "Pierre Haladjian",
-    "nationality": "lb",
+    "nationalities": ["lb"],
     "tags": ["coach"],
     "links": [
         { "name": "HLTV", "url": "https://www.hltv.org/player/11401/rookie" },

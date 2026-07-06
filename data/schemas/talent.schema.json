@@ -11,7 +11,7 @@
         "nickname": { "type": "string" },
         "name": { "type": "string" },
         "birthday": { "type": "string", "format": "date" },
-        "nationality": { "$ref": "nationality.schema.json" },
+        "nationalities": { "type": "array", "items": { "$ref": "nationality.schema.json" } },
         "links": { "type": "array", "items": { "$ref": "extern-link.schema.json" } }
     }
 }

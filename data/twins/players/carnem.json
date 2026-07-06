@@ -4,7 +4,7 @@
     "slug": "carnem",
     "nickname": "CARNEM",
     "name": "Jakob Sommer",
-    "nationality": "dk",
+    "nationalities": ["dk"],
     "tags": ["coach"],
     "links": [
         { "name": "HLTV", "url": "https://www.hltv.org/coach/23139/carnem" },

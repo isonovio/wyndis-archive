@@ -6,7 +6,7 @@ type PlayerRaw = {
     nickname: string;
     name?: string;
     birthday?: string;
-    nationality: string;
+    nationalities: string[];
     tags?: string[];
     links?: ExternalLink[];
 };
@@ -24,7 +24,7 @@ export type Player = {
     nickname: string;
     name?: string;
     birthday?: Temporal.PlainDate;
-    nationality: string;
+    nationalities: string[];
     tags: PlayerTag[];
     links: ExternalLink[];
 };

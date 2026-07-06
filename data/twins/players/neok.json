@@ -4,7 +4,7 @@
     "slug": "neok",
     "nickname": "NEOK",
     "birthday": "1999-03-17",
-    "nationality": "nl",
+    "nationalities": ["nl"],
     "links": [
         { "name": "NEOK", "url": "https://neokcs.com/" },
         { "name": "FACEIT", "url": "https://www.faceit.com/en/players/neok" },

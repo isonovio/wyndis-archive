@@ -5,7 +5,7 @@
     "nickname": "ManeschijnX",
     "name": "Luna Akkermans",
     "birthday": "2000-09-06",
-    "nationality": "nl",
+    "nationalities": ["nl"],
     "tags": ["impact"],
     "links": [
         { "name": "ESEA", "url": "https://play.esea.net/users/2760749" },

@@ -5,7 +5,7 @@
     "nickname": "Rezst",
     "name": "Jacob Hemming",
     "birthday": "2000-07-10",
-    "nationality": "nl",
+    "nationalities": ["nl"],
     "links": [
         { "name": "ESEA", "url": "https://play.esea.net/users/1252964" },
         { "name": "FACEIT", "url": "https://www.faceit.com/en/players/Rezst" },

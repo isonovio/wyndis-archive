@@ -5,6 +5,6 @@
     "nickname": "GooseBreeder",
     "name": "Mounira Dobie",
     "birthday": "1995-12-08",
-    "nationality": "ca",
+    "nationalities": ["ca"],
     "tags": ["impact"]
 }

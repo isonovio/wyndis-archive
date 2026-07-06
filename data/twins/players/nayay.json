@@ -5,7 +5,7 @@
     "nickname": "nayay",
     "name": "Naja Block Bach",
     "birthday": "1998-08-27",
-    "nationality": "dk",
+    "nationalities": ["dk"],
     "tags": ["impact"],
     "links": [
         { "name": "HLTV", "url": "https://www.hltv.org/player/22651/nayay" },

@@ -3,6 +3,6 @@
     "slug": "tiddler",
     "nickname": "Tiddler",
     "name": "Tyler Rocamora",
-    "nationality": "ie",
+    "nationalities": ["ie"],
     "links": []
 }
