@@ -415,6 +415,7 @@
                         },
                         {
                             "slug": "r5",
+                            "tags": ["lan"],
                             "matches": [
                                 {
                                     "id": 1,
