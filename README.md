@@ -1,4 +1,4 @@
-# Ninjas Archive
+# Wyndis Archive
 
 ## Roadmap
 - [Planned Features](TODO.md)

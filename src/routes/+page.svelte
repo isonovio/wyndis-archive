@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-    <title>Ninjas Archive</title>
+    <title>Wyndis Archive</title>
 </svelte:head>
 
 <Timeline />

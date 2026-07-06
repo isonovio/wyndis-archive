@@ -10,7 +10,7 @@
 </script>
 
 <svelte:head>
-    <title>{player.nickname} | Ninjas Archive</title>
+    <title>{player.nickname} | Wyndis Archive</title>
 </svelte:head>
 
 <Timeline {prefilter} />

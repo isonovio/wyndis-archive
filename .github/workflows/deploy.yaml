@@ -28,7 +28,7 @@ jobs:
             - name: Deploy build via API
               env:
                   ACCESS_KEY: ${{ secrets.BUNNY_STORAGE_PASSWORD }}
-                  STORAGE_ZONE_NAME: ninjas-archive
+                  STORAGE_ZONE_NAME: wyndis-archive
               run: |
                   find build -type f | while read file; do
                       remote_path="${file#build/}"

@@ -1,2 +1,2 @@
 github:
-    open https://github.com/isonovio/ninjas-archive
+    open https://github.com/isonovio/wyndis-archive

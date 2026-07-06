@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Credits | Ninjas Archive</title>
+    <title>Credits | Wyndis Archive</title>
 </svelte:head>
 
 # Credits

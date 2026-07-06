@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Why | Ninjas Archive</title>
+    <title>Why | Wyndis Archive</title>
 </svelte:head>
 
 # Why did I build this?

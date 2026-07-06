@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>License | Ninjas Archive</title>
+    <title>License | Wyndis Archive</title>
 </svelte:head>
 
 # License

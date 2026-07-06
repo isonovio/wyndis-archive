@@ -3,7 +3,7 @@
 
     const navs: [string, string][] = [
         ["/why/", "Why"],
-        ["https://github.com/isonovio/ninjas-archive", "Source Code"],
+        ["https://github.com/isonovio/wyndis-archive", "Source Code"],
         ["/license/", "License"],
         ["/credits/", "Credits"],
     ];
@@ -11,7 +11,7 @@
 
 <footer class="border-t border-gray-200 px-20 pb-8 pt-4 flex justify-between">
     <div class="flex gap-10">
-        <div>Ninjas Archive © {currentYear}</div>
+        <div>Wyndis Archive © {currentYear}</div>
         <div>Crafted by WYND with ♥︎</div>
     </div>
     <nav class="flex gap-10">

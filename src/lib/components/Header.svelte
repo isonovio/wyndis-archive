@@ -12,7 +12,7 @@
 
 <header class="px-8 py-3 flex justify-between">
     <nav class="flex gap-8">
-        <a href="/" class="home"> Ninjas Archive </a>
+        <a href="/" class="home"> Wyndis Archive </a>
         {#each navs as [route, title]}
             {#if currentPath === route}
                 <a href={route} class="border-b-2">{title}</a>
