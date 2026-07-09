@@ -1,0 +1,11 @@
+{
+    "$schema": "../../schemas/talent.schema.json",
+    "slug": "litmus",
+    "nickname": "Litmus",
+    "links": [
+        { "name": "Steam", "url": "https://steamcommunity.com/id/Litmusq" },
+        { "name": "Twitch", "url": "https://x.com/Litmusq" },
+        { "name": "Twitter", "url": "https://x.com/Litmusq" },
+        { "name": "YouTube", "url": "https://www.youtube.com/@Litmusq" }
+    ]
+}
