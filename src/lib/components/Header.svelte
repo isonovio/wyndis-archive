@@ -7,7 +7,6 @@
         ["/", "Wyndis Archive"],
         ["/officials/", "Officials"],
         ["/news/", "News"],
-        ["/twins/", "The Twins"],
     ];
 </script>
 

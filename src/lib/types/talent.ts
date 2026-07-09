@@ -10,7 +10,7 @@ type TalentRaw = {
     links?: ExternalLink[];
 };
 
-const talentsBlob = import.meta.glob<TalentRaw>("$data/**/talents/*.json", {
+const talentsBlob = import.meta.glob<TalentRaw>("$data/twins/talents/*.json", {
     eager: true,
 });
 

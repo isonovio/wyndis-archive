@@ -27,7 +27,7 @@ type OeventRaw = {
     note?: string;
 };
 
-const oeventBlob = import.meta.glob<OeventRaw>("$data/**/events/*.json", {
+const oeventBlob = import.meta.glob<OeventRaw>("$data/twins/events/*.json", {
     eager: true,
 });
 

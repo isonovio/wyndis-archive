@@ -3,7 +3,7 @@ export type Team = {
     name: string;
 };
 
-const teamsBlob = import.meta.glob<Team>("$data/**/teams/*.json", {
+const teamsBlob = import.meta.glob<Team>("$data/twins/teams/*.json", {
     eager: true,
 });
 

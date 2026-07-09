@@ -12,7 +12,7 @@ type NewspieceRaw = {
     links: ExternalLink[];
 };
 
-const newspiecesRaw = import.meta.glob<NewspieceRaw>("$data/**/news/*.json", {
+const newspiecesRaw = import.meta.glob<NewspieceRaw>("$data/twins/news/*.json", {
     eager: true,
 });
 

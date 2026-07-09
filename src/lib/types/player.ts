@@ -11,7 +11,7 @@ type PlayerRaw = {
     links?: ExternalLink[];
 };
 
-const playerBlob = import.meta.glob<PlayerRaw>("$data/**/players/*.json", {
+const playerBlob = import.meta.glob<PlayerRaw>("$data/twins/players/*.json", {
     eager: true,
 });
 

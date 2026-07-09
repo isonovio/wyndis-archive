@@ -14,7 +14,7 @@ type RosterRaw = {
     duration?: DaterangeRaw;
 };
 
-const rosterBlob = import.meta.glob<RosterRaw>("$data/**/rosters/*.json", {
+const rosterBlob = import.meta.glob<RosterRaw>("$data/twins/rosters/*.json", {
     eager: true,
 });
 
