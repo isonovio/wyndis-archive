@@ -1,0 +1,16 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "olaie",
+    "nickname": "Olaie",
+    "name": "Benjamin Olaie",
+    "nationalities": ["dk"],
+    "birthday": "2003-02-18",
+    "links": [
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/Olaie" },
+        { "name": "HLTV", "url": "https://www.hltv.org/player/25431/olaie" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/benolaie" },
+        { "name": "Twitter", "url": "https://x.com/FLCOlaie" },
+        { "name": "YouTube", "url": "https://www.youtube.com/@Olaie" }
+    ]
+}

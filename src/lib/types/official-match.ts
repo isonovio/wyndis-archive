@@ -33,10 +33,12 @@ type OmatchNewspieceRaw = {
     links?: ExternalLink[];
 };
 
-export type OmatchTag = "impact" | "lan";
+export type OmatchTag = "esea" | "impact" | "lan";
 
 export function displayOmatchTag(tag: OmatchTag): string {
     switch (tag) {
+        case "esea":
+            return "ESEA";
         case "impact":
             return "Impact";
         case "lan":

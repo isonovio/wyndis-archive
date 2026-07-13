@@ -1,0 +1,13 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "kniven",
+    "nickname": "kniven",
+    "nationalities": [],
+    "links": [
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/kniven" },
+        { "name": "Instagram", "url": "https://www.instagram.com/knivencs/" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/kniven" },
+        { "name": "Steam", "url": "https://steamcommunity.com/id/regretfully/" }
+    ]
+}
