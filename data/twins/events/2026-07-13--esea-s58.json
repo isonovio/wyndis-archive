@@ -33,7 +33,7 @@
                                                     "date": "2026-07-13",
                                                     "lineups": { "team1": { "name": "Royal Legion" }, "team2": { "shorthand": "fd" } },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-c167def3-1c42-4660-8eab-e92125a3031f" }],
-                                                    "maps": []
+                                                    "maps": [{ "id": 1, "map": "d2", "result": "13:11" }]
                                                 },
                                                 {
                                                     "id": 2,
