@@ -1,0 +1,17 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "mariab0b",
+    "nickname": "mariab0b",
+    "name": "Maria Beta",
+    "nationalities": ["gr", "rs"],
+    "tags": ["impact"],
+    "links": [
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/mariab0b" },
+        { "name": "HLTV", "url": "https://www.hltv.org/player/25728/mariab0b" },
+        { "name": "Instagram", "url": "https://www.instagram.com/mariab0b" },
+        { "name": "Steam", "url": "https://steamcommunity.com/id/mariab0b/" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/mariab0b" },
+        { "name": "Twitter", "url": "https://x.com/mariab0b" }
+    ]
+}

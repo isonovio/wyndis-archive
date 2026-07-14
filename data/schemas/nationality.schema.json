@@ -2,5 +2,36 @@
     "$schema": "http://json-schema.org/draft-07/schema",
 
     "type": "string",
-    "enum": ["be", "bg", "br", "ca", "cl", "de", "dk", "es", "fi", "fr", "gb", "ge", "hu", "ie", "il", "lb", "lv", "nl", "pk", "pl", "pt", "ro", "ru", "se", "sy", "tr", "ua", "us"]
+    "enum": [
+        "be",
+        "bg",
+        "br",
+        "ca",
+        "cl",
+        "de",
+        "dk",
+        "es",
+        "fi",
+        "fr",
+        "gb",
+        "ge",
+        "gr",
+        "hu",
+        "ie",
+        "il",
+        "lb",
+        "lv",
+        "nl",
+        "pk",
+        "pl",
+        "pt",
+        "ro",
+        "rs",
+        "ru",
+        "se",
+        "sy",
+        "tr",
+        "ua",
+        "us"
+    ]
 }
