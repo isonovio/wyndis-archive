@@ -6,7 +6,6 @@
     "duration": { "start": "2026-07-13", "end": "2026-08-30" },
     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/league/ESEA%20League/a14b8616-45b9-4581-8637-4dfd0b5f6af8/ec187700-30e2-4245-b5e2-daa762db12fc/overview" }],
     "tags": ["esea"],
-    "participants": [{ "shorthand": "fd", "lineup": { "name": "FACEIT DEMON", "players": ["d0cc", "mariab0b", "nayomy", "qiyarah", "olaie"] } }],
     "brackets": [
         {
             "slug": "eu",
@@ -31,16 +30,22 @@
                                                 {
                                                     "id": 1,
                                                     "date": "2026-07-13",
-                                                    "lineups": { "team1": { "name": "Royal Legion" }, "team2": { "shorthand": "fd" } },
+                                                    "lineups": {
+                                                        "team1": { "name": "Royal Legion" },
+                                                        "team2": { "name": "FACEIT DEMON", "players": ["d0cc", "mariab0b", "nayomy", "qiyarah", "olaie"] }
+                                                    },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-c167def3-1c42-4660-8eab-e92125a3031f" }],
                                                     "maps": [{ "id": 1, "map": "d2", "result": "13:11" }]
                                                 },
                                                 {
                                                     "id": 2,
                                                     "date": "2026-07-15",
-                                                    "lineups": { "team1": { "name": "Oxingame Esports" }, "team2": { "shorthand": "fd" } },
+                                                    "lineups": {
+                                                        "team1": { "name": "Oxingame Esports" },
+                                                        "team2": { "name": "FACEIT DEMON", "players": ["d0cc", "kniven", "nayomy", "neok", "qiyarah"], "coach": "olaie" }
+                                                    },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-081787d8-0da5-4903-95b5-07d39293d4a9" }],
-                                                    "maps": []
+                                                    "maps": [{ "id": 1, "map": "inf", "result": "13:6" }]
                                                 }
                                             ]
                                         }
