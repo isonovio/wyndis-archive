@@ -46,6 +46,16 @@
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-081787d8-0da5-4903-95b5-07d39293d4a9" }],
                                                     "maps": [{ "id": 1, "map": "inf", "result": "13:6" }]
+                                                },
+                                                {
+                                                    "id": 3,
+                                                    "date": "2026-07-20",
+                                                    "lineups": {
+                                                        "team1": { "name": "Aisha Legion" },
+                                                        "team2": { "name": "FACEIT DEMON", "players": ["d0cc", "kniven", "nayomy", "qiyarah"], "coach": "olaie" }
+                                                    },
+                                                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-09b917ff-6be8-437e-958f-d868bf4da157" }],
+                                                    "maps": []
                                                 }
                                             ]
                                         }
