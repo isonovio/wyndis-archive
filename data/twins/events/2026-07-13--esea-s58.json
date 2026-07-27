@@ -71,10 +71,21 @@
                                                     "id": 5,
                                                     "date": "2026-07-27",
                                                     "lineups": {
-                                                        "team1": { "name": "FACEIT DEMON", "players": ["mariab0b", "nayomy", "neok", "olaie", "qiyarah"], "coach": "kniven" },
+                                                        "team1": { "name": "FACEIT DEMON", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"], "coach": "kniven" },
                                                         "team2": { "name": "3BaC1TEAM" }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-c09fbd65-a7cf-4e76-9952-4cbae1f2f6ea" }],
+                                                    "maps": [],
+                                                    "note": "3BaC1TEAM forfeited the match."
+                                                },
+                                                {
+                                                    "id": 6,
+                                                    "date": "2026-07-29",
+                                                    "lineups": {
+                                                        "team1": { "name": "singular" },
+                                                        "team2": { "name": "FACEIT DEMON", "players": ["mariab0b", "nayomy", "neok", "olaie", "qiyarah"], "coach": "kniven" }
+                                                    },
+                                                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-8b27018c-0292-44eb-899c-a9345e93b8fc" }],
                                                     "maps": []
                                                 }
                                             ]
