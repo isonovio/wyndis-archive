@@ -90,12 +90,22 @@
                                                 },
                                                 {
                                                     "id": 7,
-                                                    "date": "2026-08-03",
+                                                    "date": "2026-08-04",
                                                     "lineups": {
-                                                        "team1": { "name": "FACEIT DEMON", "players": ["d0cc", "mariab0b", "nayomy", "olaie", "qiyarah"] },
+                                                        "team1": { "name": "FACEIT DEMON", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] },
                                                         "team2": { "name": "Born to Kill" }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-6673bd79-ceee-4d10-a01c-d3b44b477dcc" }],
+                                                    "maps": [{ "id": 1, "map": "d2", "result": "19:16" }]
+                                                },
+                                                {
+                                                    "id": 8,
+                                                    "date": "2026-08-05",
+                                                    "lineups": {
+                                                        "team1": { "name": "FACEIT DEMON", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] },
+                                                        "team2": { "name": "MindHunters" }
+                                                    },
+                                                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-7aa03e25-4d80-4887-b182-b1f1c4ae40a9" }],
                                                     "maps": []
                                                 }
                                             ]
