@@ -102,11 +102,21 @@
                                                     "id": 8,
                                                     "date": "2026-08-05",
                                                     "lineups": {
-                                                        "team1": { "name": "FACEIT DEMON", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] },
+                                                        "team1": { "name": "FACEIT DEMON", "players": ["d0cc", "mariab0b", "nayomy", "olaie", "qiyarah"] },
                                                         "team2": { "name": "MindHunters" }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-7aa03e25-4d80-4887-b182-b1f1c4ae40a9" }],
-                                                    "maps": []
+                                                    "maps": [{ "id": 1, "map": "d2", "result": "13:6" }]
+                                                },
+                                                {
+                                                    "id": 9,
+                                                    "date": "2026-08-10",
+                                                    "lineups": {
+                                                        "team1": { "name": "LFORG" },
+                                                        "team2": { "name": "FACEIT DEMON", "players": ["d0cc", "mariab0b", "nayomy", "olaie", "qiyarah"] }
+                                                    },
+                                                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-1804631a-966e-4023-a170-3a711658d220" }],
+                                                    "maps": [{ "id": 1, "map": "unk", "result": "0:0" }]
                                                 }
                                             ]
                                         }
