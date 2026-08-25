@@ -142,7 +142,7 @@
                                                     "id": 12,
                                                     "date": "2026-08-19",
                                                     "lineups": {
-                                                        "team1": { "name": "FACEIT DEMON", "players": ["d0cc", "nayomy", "mariab0b", "olaie", "qiyarah"] },
+                                                        "team1": { "name": "FACEIT DEMON", "players": ["d0cc", "mariab0b", "nayomy", "olaie", "qiyarah"] },
                                                         "team2": { "name": "Paradox" }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-9dc9f5d1-f2da-42f7-84d5-3a80a6645a88" }],
@@ -152,11 +152,22 @@
                                                     "id": 13,
                                                     "date": "2026-08-24",
                                                     "lineups": {
-                                                        "team1": { "name": "FACEIT DEMON", "players": ["d0cc", "nayomy", "mariab0b", "olaie", "qiyarah"] },
+                                                        "team1": { "name": "FACEIT DEMON", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] },
                                                         "team2": { "name": "Wickeds1ck" }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-5a96a91d-b87d-43ed-b21a-3803f31b90ca" }],
-                                                    "maps": [{ "id": 1, "map": "unk", "result": "0:0" }]
+                                                    "maps": [],
+                                                    "note": "Wickeds1ck forfeited the match"
+                                                },
+                                                {
+                                                    "id": 14,
+                                                    "date": "2026-08-26",
+                                                    "lineups": {
+                                                        "team1": { "name": "EMPIRE" },
+                                                        "team2": { "name": "FACEIT DEMON", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] }
+                                                    },
+                                                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-62439ded-c504-43df-8a05-115ddb0012f3" }],
+                                                    "maps": []
                                                 }
                                             ]
                                         }
