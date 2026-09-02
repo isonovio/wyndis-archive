@@ -1,0 +1,32 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "exort-s32",
+    "name": "Exort Series #32",
+    "duration": { "start": "2026-08-31", "end": "2026-09-20" },
+    "links": [{ "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Exort_Series/32" }],
+    "brackets": [
+        {
+            "slug": "s1",
+            "name": "Contenders",
+            "links": [{ "name": "L.p.", "url": "https://liquipedia.net/counterstrike/Exort_Series/32/Contenders_Stage" }],
+            "brackets": [
+                {
+                    "slug": "r00",
+                    "name": "Bracket 0-0",
+                    "matches": [
+                        {
+                            "id": 6,
+                            "date": "2026-09-01",
+                            "lineups": { "team1": { "name": "Faceit Demon", "players": ["kd69z", "litmus", "nayomy", "olaie", "qiyarah"] }, "team2": { "name": "Genesis" } },
+                            "maps": [
+                                { "id": 1, "map": "inf", "result": "6:13" },
+                                { "id": 2, "map": "anc", "result": "9:13" }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
