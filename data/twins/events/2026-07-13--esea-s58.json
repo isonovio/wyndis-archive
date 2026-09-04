@@ -32,7 +32,7 @@
                                                     "date": "2026-07-13",
                                                     "lineups": {
                                                         "team1": { "name": "Royal Legion" },
-                                                        "team2": { "name": "FACEIT DEMON", "players": ["d0cc", "mariab0b", "nayomy", "qiyarah", "olaie"] }
+                                                        "team2": { "name": "FACEIT Demons", "players": ["d0cc", "mariab0b", "nayomy", "qiyarah", "olaie"] }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-c167def3-1c42-4660-8eab-e92125a3031f" }],
                                                     "maps": [{ "id": 1, "map": "d2", "result": "13:11" }]
@@ -42,7 +42,7 @@
                                                     "date": "2026-07-15",
                                                     "lineups": {
                                                         "team1": { "name": "Oxingame Esports" },
-                                                        "team2": { "name": "FACEIT DEMON", "players": ["d0cc", "kniven", "nayomy", "neok", "qiyarah"], "coach": "olaie" }
+                                                        "team2": { "name": "FACEIT Demons", "players": ["d0cc", "kniven", "nayomy", "neok", "qiyarah"], "coach": "olaie" }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-081787d8-0da5-4903-95b5-07d39293d4a9" }],
                                                     "maps": [{ "id": 1, "map": "inf", "result": "13:6" }]
@@ -52,7 +52,7 @@
                                                     "date": "2026-07-20",
                                                     "lineups": {
                                                         "team1": { "name": "Aisha Legion" },
-                                                        "team2": { "name": "FACEIT DEMON", "players": ["d0cc", "kniven", "nayomy", "neok", "qiyarah"], "coach": "olaie" }
+                                                        "team2": { "name": "FACEIT Demons", "players": ["d0cc", "kniven", "nayomy", "neok", "qiyarah"], "coach": "olaie" }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-09b917ff-6be8-437e-958f-d868bf4da157" }],
                                                     "maps": [{ "id": 1, "map": "d2", "result": "13:16" }]
@@ -62,7 +62,7 @@
                                                     "date": "2026-07-22",
                                                     "lineups": {
                                                         "team1": { "name": "CFS" },
-                                                        "team2": { "name": "FACEIT DEMON", "players": ["mariab0b", "nayomy", "neok", "olaie", "qiyarah"], "coach": "kniven" }
+                                                        "team2": { "name": "FACEIT Demons", "players": ["mariab0b", "nayomy", "neok", "olaie", "qiyarah"], "coach": "kniven" }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-cb366ea1-a5ca-4838-a615-549ce26b0159" }],
                                                     "maps": [{ "id": 1, "map": "mrg", "result": "3:13" }]
@@ -71,7 +71,7 @@
                                                     "id": 5,
                                                     "date": "2026-07-27",
                                                     "lineups": {
-                                                        "team1": { "name": "FACEIT DEMON", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"], "coach": "kniven" },
+                                                        "team1": { "name": "FACEIT Demons", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"], "coach": "kniven" },
                                                         "team2": { "name": "3BaC1TEAM" }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-c09fbd65-a7cf-4e76-9952-4cbae1f2f6ea" }],
@@ -83,7 +83,7 @@
                                                     "date": "2026-07-29",
                                                     "lineups": {
                                                         "team1": { "name": "singular" },
-                                                        "team2": { "name": "FACEIT DEMON", "players": ["d0cc", "mariab0b", "nayomy", "olaie", "qiyarah"] }
+                                                        "team2": { "name": "FACEIT Demons", "players": ["d0cc", "mariab0b", "nayomy", "olaie", "qiyarah"] }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-8b27018c-0292-44eb-899c-a9345e93b8fc" }],
                                                     "maps": [{ "id": 1, "map": "mrg", "result": "7:13" }]
@@ -92,7 +92,7 @@
                                                     "id": 7,
                                                     "date": "2026-08-04",
                                                     "lineups": {
-                                                        "team1": { "name": "FACEIT DEMON", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] },
+                                                        "team1": { "name": "FACEIT Demons", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] },
                                                         "team2": { "name": "Born to Kill" }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-6673bd79-ceee-4d10-a01c-d3b44b477dcc" }],
@@ -102,7 +102,7 @@
                                                     "id": 8,
                                                     "date": "2026-08-05",
                                                     "lineups": {
-                                                        "team1": { "name": "FACEIT DEMON", "players": ["d0cc", "mariab0b", "nayomy", "olaie", "qiyarah"] },
+                                                        "team1": { "name": "FACEIT Demons", "players": ["d0cc", "mariab0b", "nayomy", "olaie", "qiyarah"] },
                                                         "team2": { "name": "MindHunters" }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-7aa03e25-4d80-4887-b182-b1f1c4ae40a9" }],
@@ -112,7 +112,7 @@
                                                     "id": 9,
                                                     "date": "2026-08-12",
                                                     "lineups": {
-                                                        "team1": { "name": "FACEIT DEMON", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] },
+                                                        "team1": { "name": "FACEIT Demons", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] },
                                                         "team2": { "name": "Atexy" }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-9be5c8df-28b8-4786-b0e4-17b0ccc6cff2" }],
@@ -123,7 +123,7 @@
                                                     "date": "2026-08-13",
                                                     "lineups": {
                                                         "team1": { "name": "LFORG" },
-                                                        "team2": { "name": "FACEIT DEMON", "players": ["d0cc", "mariab0b", "nayomy", "olaie", "qiyarah"] }
+                                                        "team2": { "name": "FACEIT Demons", "players": ["d0cc", "mariab0b", "nayomy", "olaie", "qiyarah"] }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-1804631a-966e-4023-a170-3a711658d220" }],
                                                     "maps": [{ "id": 1, "map": "mrg", "result": "6:13" }]
@@ -133,7 +133,7 @@
                                                     "date": "2026-08-17",
                                                     "lineups": {
                                                         "team1": { "name": "Force Syndicate" },
-                                                        "team2": { "name": "FACEIT DEMON", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] }
+                                                        "team2": { "name": "FACEIT Demons", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-81be8299-96eb-4edb-9737-347f3563d4d4" }],
                                                     "maps": [{ "id": 1, "map": "mrg", "result": "9:13" }]
@@ -142,7 +142,7 @@
                                                     "id": 12,
                                                     "date": "2026-08-19",
                                                     "lineups": {
-                                                        "team1": { "name": "FACEIT DEMON", "players": ["d0cc", "mariab0b", "nayomy", "olaie", "qiyarah"] },
+                                                        "team1": { "name": "FACEIT Demons", "players": ["d0cc", "mariab0b", "nayomy", "olaie", "qiyarah"] },
                                                         "team2": { "name": "Paradox" }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-9dc9f5d1-f2da-42f7-84d5-3a80a6645a88" }],
@@ -152,7 +152,7 @@
                                                     "id": 13,
                                                     "date": "2026-08-24",
                                                     "lineups": {
-                                                        "team1": { "name": "FACEIT DEMON", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] },
+                                                        "team1": { "name": "FACEIT Demons", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] },
                                                         "team2": { "name": "Wickeds1ck" }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-5a96a91d-b87d-43ed-b21a-3803f31b90ca" }],
@@ -164,7 +164,7 @@
                                                     "date": "2026-08-26",
                                                     "lineups": {
                                                         "team1": { "name": "EMPIRE" },
-                                                        "team2": { "name": "FACEIT DEMON", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] }
+                                                        "team2": { "name": "FACEIT Demons", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-62439ded-c504-43df-8a05-115ddb0012f3" }],
                                                     "maps": [{ "id": 1, "map": "cch", "result": "4:13" }]
@@ -189,7 +189,7 @@
                                                             "id": 13,
                                                             "date": "2026-09-03",
                                                             "lineups": {
-                                                                "team1": { "name": "FACEIT DEMON", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] },
+                                                                "team1": { "name": "FACEIT Demons", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] },
                                                                 "team2": { "name": "Warzywniak" }
                                                             },
                                                             "links": [{ "name": "Faceit", "url": "https://www.faceit.com/en/cs2/room/1-56794eb6-6d92-4337-8d0b-c9ff4f58e963" }],
@@ -208,7 +208,7 @@
                                                             "id": 7,
                                                             "date": "2026-09-05",
                                                             "lineups": {
-                                                                "team1": { "name": "FACEIT DEMON", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] },
+                                                                "team1": { "name": "FACEIT Demons", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] },
                                                                 "team2": { "name": "Force Syndicate" }
                                                             },
                                                             "links": [{ "name": "Faceit", "url": "https://www.faceit.com/en/cs2/room/1-73677e15-c8e8-4eab-84c9-e705b24c9092" }],
