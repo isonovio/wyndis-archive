@@ -1,0 +1,13 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "half",
+    "nickname": "Half",
+    "name": "Halfdan Kjærsgaard",
+    "nationalities": ["dk"],
+    "links": [
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/Half" },
+        { "name": "HLTV", "url": "https://www.hltv.org/player/26118/half" },
+        { "name": "Twitter", "url": "https://x.com/HalfFPS" }
+    ]
+}

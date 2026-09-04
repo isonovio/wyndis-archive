@@ -18,10 +18,25 @@
                         {
                             "id": 6,
                             "date": "2026-09-01",
-                            "lineups": { "team1": { "name": "Faceit Demon", "players": ["kd69z", "litmus", "nayomy", "olaie", "qiyarah"] }, "team2": { "name": "Genesis" } },
+                            "lineups": { "team1": { "name": "FACEIT Demons", "players": ["kd69z", "litmus", "nayomy", "olaie", "qiyarah"] }, "team2": { "name": "Genesis" } },
                             "maps": [
                                 { "id": 1, "map": "inf", "result": "6:13" },
                                 { "id": 2, "map": "anc", "result": "9:13" }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "slug": "r01",
+                    "name": "Bracket 0-1",
+                    "matches": [
+                        {
+                            "id": 1,
+                            "date": "2026-09-03",
+                            "lineups": { "team1": { "name": "FACEIT Demons", "players": ["half", "kniven", "nayomy", "olaie", "qiyarah"] }, "team2": { "name": "drosselfamily" } },
+                            "maps": [
+                                { "id": 1, "map": "cch", "result": "13:3" },
+                                { "id": 2, "map": "anc", "result": "13:9" }
                             ]
                         }
                     ]
