@@ -173,7 +173,53 @@
                                         }
                                     ]
                                 },
-                                { "slug": "s2", "name": "Playoffs", "brackets": [{ "slug": "ga", "name": "A", "matches": [] }] }
+                                {
+                                    "slug": "s2",
+                                    "name": "Playoffs",
+                                    "brackets": [
+                                        {
+                                            "slug": "ga",
+                                            "name": "A",
+                                            "brackets": [
+                                                {
+                                                    "slug": "r2b1",
+                                                    "name": "Upper Round 2",
+                                                    "matches": [
+                                                        {
+                                                            "id": 13,
+                                                            "date": "2026-09-03",
+                                                            "lineups": {
+                                                                "team1": { "name": "FACEIT DEMON", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] },
+                                                                "team2": { "name": "Warzywniak" }
+                                                            },
+                                                            "links": [{ "name": "Faceit", "url": "https://www.faceit.com/en/cs2/room/1-56794eb6-6d92-4337-8d0b-c9ff4f58e963" }],
+                                                            "maps": [
+                                                                { "id": 1, "map": "anc", "result": "13:9" },
+                                                                { "id": 2, "map": "cch", "result": "13:4" }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "slug": "r3b1",
+                                                    "name": "Upper Round 3",
+                                                    "matches": [
+                                                        {
+                                                            "id": 7,
+                                                            "date": "2026-09-05",
+                                                            "lineups": {
+                                                                "team1": { "name": "FACEIT DEMON", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] },
+                                                                "team2": { "name": "Force Syndicate" }
+                                                            },
+                                                            "links": [{ "name": "Faceit", "url": "https://www.faceit.com/en/cs2/room/1-73677e15-c8e8-4eab-84c9-e705b24c9092" }],
+                                                            "maps": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
                             ]
                         }
                     ]
