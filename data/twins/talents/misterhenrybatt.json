@@ -1,0 +1,11 @@
+{
+    "$schema": "../../schemas/talent.schema.json",
+    "slug": "misterhenrybatt",
+    "nickname": "MisterHenryBatt",
+    "links": [
+        { "name": "Kick", "url": "https://kick.com/misterhenrybatt" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/misterhenrybatt" },
+        { "name": "Twitter", "url": "https://x.com/MisterHenryBatt" },
+        { "name": "Youtube", "url": "https://www.youtube.com/@MrHbatt" }
+    ]
+}
