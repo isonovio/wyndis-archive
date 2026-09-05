@@ -116,7 +116,7 @@
                         {
                             "id": 1,
                             "date": "2026-09-05",
-                            "lineups": { "team1": { "name": "FACEIT Demons", "players": ["kniven", "nayomy", "neok", "olaie", "qiyarah"] }, "team2": { "name": "NOVA" } },
+                            "lineups": { "team1": { "name": "FACEIT Demons", "players": ["kniven", "nayomy", "neok", "olaie", "qiyarah"] }, "team2": { "name": "NOVA GAMING" } },
                             "maps": [
                                 {
                                     "id": 1,
