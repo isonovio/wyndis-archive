@@ -116,7 +116,7 @@
                         {
                             "id": 1,
                             "date": "2026-09-05",
-                            "lineups": { "team1": { "name": "FACEIT Demons", "players": ["kniven", "nayomy", "neok", "olaie", "qiyarah"] }, "team2": { "name": "NOVA GAMING" } },
+                            "lineups": { "team1": { "name": "NOVA GAMING" }, "team2": { "name": "FACEIT Demons", "players": ["kniven", "nayomy", "neok", "olaie", "qiyarah"] } },
                             "maps": [
                                 {
                                     "id": 1,
@@ -127,7 +127,7 @@
                                 {
                                     "id": 2,
                                     "map": "inf",
-                                    "result": "13:2",
+                                    "result": "2:13",
                                     "rewatches": [
                                         {
                                             "language": "en",
@@ -145,7 +145,7 @@
                                 {
                                     "id": 3,
                                     "map": "mrg",
-                                    "result": "13:9",
+                                    "result": "9:13",
                                     "rewatches": [
                                         {
                                             "language": "en",
@@ -170,8 +170,57 @@
                     "matches": [
                         {
                             "id": 1,
-                            "date": "2026-09-07",
-                            "lineups": { "team1": { "name": "FACEIT Demons", "players": ["kniven", "nayomy", "neok", "olaie", "qiyarah"] }, "team2": { "name": "UNKNOWN" } },
+                            "date": "2026-09-06",
+                            "lineups": { "team1": { "name": "Bezprizorniki" }, "team2": { "name": "FACEIT Demons", "players": ["kniven", "nayomy", "neok", "olaie", "qiyarah"] } },
+                            "maps": [
+                                {
+                                    "id": 1,
+                                    "map": "nuke",
+                                    "result": "13:1",
+                                    "rewatches": [
+                                        {
+                                            "language": "en",
+                                            "casters": [],
+                                            "tags": ["official"],
+                                            "parts": [
+                                                {
+                                                    "link": { "name": "Kick", "url": "https://kick.com/exort_en2/videos/01a0769e-6840-7e8b-bafb-f707ac75a960" },
+                                                    "duration": "00:28:22-08:49:15"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 2,
+                                    "map": "d2",
+                                    "result": "13:9",
+                                    "rewatches": [
+                                        {
+                                            "language": "en",
+                                            "casters": [],
+                                            "tags": ["official"],
+                                            "parts": [
+                                                {
+                                                    "link": { "name": "Kick", "url": "https://kick.com/exort_en2/videos/01a0769e-6840-7e8b-bafb-f707ac75a960" },
+                                                    "duration": "00:59:42-01:30:14"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "slug": "r22",
+                    "name": "Bracket 2-2",
+                    "matches": [
+                        {
+                            "id": 1,
+                            "date": "2026-09-08",
+                            "lineups": { "team1": { "name": "FACEIT Demons", "players": ["bl4ze", "kniven", "nayomy", "olaie", "qiyarah"] }, "team2": { "name": "UNKNOWN" } },
                             "maps": []
                         }
                     ]

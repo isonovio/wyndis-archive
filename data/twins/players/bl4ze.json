@@ -1,0 +1,12 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "bl4ze",
+    "nickname": "Bl4zE",
+    "name": "Tristan Sanaye",
+    "nationalities": ["dk"],
+    "links": [
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/Bl4zE333" },
+        { "name": "HLTV", "url": "https://www.hltv.org/player/25484/bl4ze" }
+    ]
+}
