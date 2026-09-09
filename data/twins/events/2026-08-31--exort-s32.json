@@ -220,8 +220,66 @@
                         {
                             "id": 1,
                             "date": "2026-09-08",
-                            "lineups": { "team1": { "name": "FACEIT Demons", "players": ["bl4ze", "kniven", "nayomy", "olaie", "qiyarah"] }, "team2": { "name": "UNKNOWN" } },
-                            "maps": []
+                            "lineups": {
+                                "team1": { "name": "FACEIT Demons", "players": ["bl4ze", "kniven", "nayomy", "olaie", "qiyarah"] },
+                                "team2": { "name": "Royal Foxes Esports" }
+                            },
+                            "maps": [
+                                {
+                                    "id": 1,
+                                    "map": "cch",
+                                    "result": "10:13",
+                                    "rewatches": [
+                                        {
+                                            "language": "en",
+                                            "casters": ["misterhenrybatt"],
+                                            "tags": ["official"],
+                                            "parts": [
+                                                {
+                                                    "link": { "name": "Kick", "url": "https://kick.com/exort_en2/videos/01a08101-1d28-7cb8-b879-437d7ed0ab85" },
+                                                    "duration": "03:05:39-03:45:22"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 2,
+                                    "map": "d2",
+                                    "result": "13:11",
+                                    "rewatches": [
+                                        {
+                                            "language": "en",
+                                            "casters": ["misterhenrybatt"],
+                                            "tags": ["official"],
+                                            "parts": [
+                                                {
+                                                    "link": { "name": "Kick", "url": "https://kick.com/exort_en2/videos/01a08101-1d28-7cb8-b879-437d7ed0ab85" },
+                                                    "duration": "03:58:42-04:39:25"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 3,
+                                    "map": "mrg",
+                                    "result": "5:13",
+                                    "rewatches": [
+                                        {
+                                            "language": "en",
+                                            "casters": ["misterhenrybatt"],
+                                            "tags": ["official"],
+                                            "parts": [
+                                                {
+                                                    "link": { "name": "Kick", "url": "https://kick.com/exort_en2/videos/01a08101-1d28-7cb8-b879-437d7ed0ab85" },
+                                                    "duration": "04:55:33-05:26:21"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }
