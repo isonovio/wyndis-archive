@@ -220,16 +220,33 @@
                                                 },
                                                 {
                                                     "slug": "r3b3",
-                                                    "name": "Consolidation Round 3",
+                                                    "name": "Lower Round 4",
                                                     "matches": [
                                                         {
                                                             "id": 6,
                                                             "date": "2026-09-09",
                                                             "lineups": {
                                                                 "team1": { "name": "FACEIT Demons", "players": ["kniven", "nayomy", "neok", "olaie", "qiyarah"] },
-                                                                "team2": { "name": "UNKNOWN" }
+                                                                "team2": { "name": "NoGamePlan" }
                                                             },
-                                                            "links": [],
+                                                            "links": [{ "name": "Faceit", "url": "https://www.faceit.com/en/cs2/room/1-93b53293-58da-4f79-b374-9f9dc17815b5" }],
+                                                            "maps": [],
+                                                            "note": "NoGamePlan forfeited the match."
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "slug": "r4b2",
+                                                    "name": "Lower Round 5",
+                                                    "matches": [
+                                                        {
+                                                            "id": 3,
+                                                            "date": "2026-09-13",
+                                                            "lineups": {
+                                                                "team1": { "name": "Prestige Academy" },
+                                                                "team2": { "name": "FACEIT Demons", "players": ["kniven", "nayomy", "neok", "olaie", "qiyarah"] }
+                                                            },
+                                                            "links": [{ "name": "Faceit", "url": "https://www.faceit.com/en/cs2/room/1-f02e34ea-eb4b-48e4-b93f-cb9239f43942" }],
                                                             "maps": []
                                                         }
                                                     ]
