@@ -264,9 +264,26 @@
                                                             "date": "2026-09-14",
                                                             "lineups": {
                                                                 "team1": { "name": "Revise" },
-                                                                "team2": { "name": "FACEIT Demons", "players": ["kniven", "mariab0b", "nayomy", "olaie", "qiyarah"] }
+                                                                "team2": { "name": "FACEIT Demons", "players": ["d0cc", "kniven", "nayomy", "olaie", "qiyarah"] }
                                                             },
                                                             "links": [{ "name": "Faceit", "url": "https://www.faceit.com/en/cs2/room/1-e7dbf8c7-9574-480e-8432-f1e6a162678e" }],
+                                                            "maps": [],
+                                                            "note": "Revise forfeited the match."
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "slug": "r5b2",
+                                                    "name": "Lower Round 7",
+                                                    "matches": [
+                                                        {
+                                                            "id": 3,
+                                                            "date": "2026-09-16",
+                                                            "lineups": {
+                                                                "team1": { "name": "FACEIT Demons", "players": ["d0cc", "kniven", "nayomy", "olaie", "qiyarah"] },
+                                                                "team2": { "name": "DevL33T" }
+                                                            },
+                                                            "links": [{ "name": "Faceit", "url": "https://www.faceit.com/en/cs2/room/1-c4fb33d8-fc1a-4c99-916b-a880cb02a25c" }],
                                                             "maps": []
                                                         }
                                                     ]
