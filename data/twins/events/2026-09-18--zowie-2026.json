@@ -1,0 +1,49 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "zowie-2026",
+    "name": "ZOWIE CS2 Tournament 2026",
+    "duration": { "start": "2026-09-18", "end": "2026-09-19" },
+    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/championship/f16b22b8-6cef-4501-b539-b5400497842f" }],
+    "brackets": [
+        {
+            "slug": "r1",
+            "name": "Round of 16",
+            "matches": [
+                {
+                    "id": 6,
+                    "date": "2026-09-18",
+                    "lineups": { "team1": { "name": "Team mikanix" }, "team2": { "name": "FACEIT Demons", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-1f34ae96-88d8-4342-a1d0-f7b5d9ddd6e9" }],
+                    "maps": [{ "id": 1, "map": "mrg", "result": "6:13" }]
+                }
+            ]
+        },
+        {
+            "slug": "r2",
+            "name": "Quarterfinals",
+            "matches": [
+                {
+                    "id": 3,
+                    "date": "2026-09-18",
+                    "lineups": { "team1": { "name": "LATVJUBANDA" }, "team2": { "name": "FACEIT Demons", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-d0a5d81b-f8bb-4eac-9a67-4f2484101901" }],
+                    "maps": [{ "id": 1, "map": "cch", "result": "5:13" }]
+                }
+            ]
+        },
+        {
+            "slug": "r3",
+            "name": "Semifinals",
+            "matches": [
+                {
+                    "id": 2,
+                    "date": "2026-09-19",
+                    "lineups": { "team1": { "name": "FACEIT Demons", "players": ["d0cc", "nayomy", "neok", "olaie", "qiyarah"] }, "team2": { "name": "OLDBOYS" } },
+                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-33a03503-4f55-45c2-8eb0-44e7211a5ae6" }],
+                    "maps": []
+                }
+            ]
+        }
+    ]
+}
