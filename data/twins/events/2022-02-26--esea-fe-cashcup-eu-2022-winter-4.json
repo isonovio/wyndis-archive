@@ -11,7 +11,7 @@
         { "name": "HLTV", "url": "https://www.hltv.org/events/6439/esea-winter-2021-women-cash-cup-4-europe" }
     ],
     "tags": ["impact"],
-    "participants": [{ "shorthand": "nsc", "lineup": { "roster": "nsc-2021-2" } }],
+    "participants": [{ "shorthand": "nsc", "lineup": { "roster": "nsc-2021-2", "coach": "amirz" } }],
     "brackets": [
         {
             "slug": "r2",

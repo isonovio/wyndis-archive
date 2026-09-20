@@ -11,7 +11,7 @@
         { "name": "HLTV", "url": "https://www.hltv.org/events/6486/esl-impact-winter-2021-cash-cup-5-europe" }
     ],
     "tags": ["impact"],
-    "participants": [{ "shorthand": "nsc", "lineup": { "roster": "nsc-2021-2" } }],
+    "participants": [{ "shorthand": "nsc", "lineup": { "roster": "nsc-2021-2", "coach": "amirz" } }],
     "brackets": [
         {
             "slug": "r2",

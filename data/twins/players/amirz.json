@@ -1,0 +1,10 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "amirz",
+    "nickname": "AmirZ",
+    "name": "Amirali Zahedi",
+    "nationalities": ["gb"],
+    "tags": ["coach"],
+    "links": [{ "name": "HLTV", "url": "https://www.hltv.org/coach/21803/amirz" }]
+}
