@@ -1,0 +1,62 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "esea-s58",
+    "name": "ESEA Season 58",
+    "duration": { "start": "2026-10-01", "end": "2026-11-30" },
+    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/league/Season%2059/a14b8616-45b9-4581-8637-4dfd0b5f6af8/71f19bf6-4032-4b65-8b4a-6f98a6d271d3" }],
+    "tags": ["esea"],
+    "brackets": [
+        {
+            "slug": "eu",
+            "name": "EU",
+            "brackets": [
+                {
+                    "slug": "s1",
+                    "name": "League",
+                    "brackets": [
+                        {
+                            "slug": "l3",
+                            "name": "Intermediate",
+                            "brackets": [
+                                {
+                                    "slug": "gb",
+                                    "name": "B",
+                                    "brackets": [
+                                        {
+                                            "slug": "s1",
+                                            "name": "Regular Season",
+                                            "matches": [
+                                                {
+                                                    "id": 5,
+                                                    "date": "2026-10-20",
+                                                    "lineups": {
+                                                        "team1": { "name": "FACEIT Demons", "players": ["d0cc", "mariab0b", "nayomy", "qiyarah", "olaie"] },
+                                                        "team2": { "name": "Insiders Esport" }
+                                                    },
+                                                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-5d4f2f34-b98d-4856-a10d-8ab1dcecc6ff" }],
+                                                    "maps": [],
+                                                    "note": "Insiders Esport forfeited the match."
+                                                },
+                                                {
+                                                    "id": 6,
+                                                    "date": "2026-10-28",
+                                                    "lineups": {
+                                                        "team1": { "name": "FACEIT Demons", "players": ["d0cc", "mariab0b", "nayomy", "qiyarah", "olaie"] },
+                                                        "team2": { "name": "MEGAKICH" }
+                                                    },
+                                                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-9990d390-4d19-4859-a410-c9a28476a239" }],
+                                                    "maps": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
