@@ -40,12 +40,32 @@
                                                 },
                                                 {
                                                     "id": 6,
+                                                    "date": "2026-10-27",
+                                                    "lineups": {
+                                                        "team1": { "name": "FUSION" },
+                                                        "team2": { "name": "FACEIT Demons", "players": ["d0cc", "jodee", "nayomy", "qiyarah", "olaie"] }
+                                                    },
+                                                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-9743df89-37d2-4f8e-923a-52725cd6b4a8" }],
+                                                    "maps": [{ "id": 1, "map": "d2", "result": "6:13" }]
+                                                },
+                                                {
+                                                    "id": 7,
                                                     "date": "2026-10-28",
                                                     "lineups": {
-                                                        "team1": { "name": "FACEIT Demons", "players": ["d0cc", "mariab0b", "nayomy", "qiyarah", "olaie"] },
+                                                        "team1": { "name": "FACEIT Demons", "players": ["d0cc", "jodee", "nayomy", "qiyarah", "olaie"] },
                                                         "team2": { "name": "MEGAKICH" }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-9990d390-4d19-4859-a410-c9a28476a239" }],
+                                                    "maps": []
+                                                },
+                                                {
+                                                    "id": 8,
+                                                    "date": "2026-10-29",
+                                                    "lineups": {
+                                                        "team1": { "name": "FACEIT Demons", "players": ["d0cc", "jodee", "nayomy", "qiyarah", "olaie"] },
+                                                        "team2": { "name": "EX-EfAC" }
+                                                    },
+                                                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-1f1a1dcb-67a9-4326-be0b-c451be0a8c37" }],
                                                     "maps": []
                                                 }
                                             ]

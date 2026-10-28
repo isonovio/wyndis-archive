@@ -1,0 +1,8 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "jodee",
+    "nickname": "Jodee",
+    "nationalities": ["fi"],
+    "links": []
+}
