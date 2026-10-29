@@ -56,7 +56,7 @@
                                                         "team2": { "name": "MEGAKICH" }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-9990d390-4d19-4859-a410-c9a28476a239" }],
-                                                    "maps": []
+                                                    "maps": [{ "id": 1, "map": "cch", "result": "11:13" }]
                                                 },
                                                 {
                                                     "id": 8,
