@@ -66,6 +66,16 @@
                                                         "team2": { "name": "EX-EfAC" }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-1f1a1dcb-67a9-4326-be0b-c451be0a8c37" }],
+                                                    "maps": [{ "id": 1, "map": "cch", "result": "13:3" }]
+                                                },
+                                                {
+                                                    "id": 9,
+                                                    "date": "2026-11-03",
+                                                    "lineups": {
+                                                        "team1": { "name": "FACEIT Demons", "players": ["d0cc", "jodee", "nayomy", "qiyarah", "olaie"] },
+                                                        "team2": { "name": "Sleepers" }
+                                                    },
+                                                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-f1cfe4c4-dc15-4967-ae6a-999fa2fdfde2" }],
                                                     "maps": []
                                                 }
                                             ]
