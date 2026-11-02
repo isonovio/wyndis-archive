@@ -1,0 +1,18 @@
+{
+    "$schema": "../../schemas/official-event.schema.json",
+
+    "slug": "iesf-wec-2026",
+    "name": "IESF WEC 2026 Women",
+    "duration": { "start": "2026-12-15", "end": "2026-12-20" },
+    "links": [{ "name": "IESF", "url": "https://iesf.org/events/wec-2026" }],
+    "tags": ["impact"],
+    "participants": [{ "shorthand": "nlw", "lineup": { "roster": "nlw-2026" } }],
+    "brackets": [
+        {
+            "slug": "s1",
+            "name": "Finals",
+            "tags": ["lan"],
+            "brackets": []
+        }
+    ]
+}

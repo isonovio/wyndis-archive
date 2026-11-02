@@ -1,0 +1,13 @@
+{
+    "$schema": "../../schemas/player.schema.json",
+
+    "slug": "lieszaaa",
+    "nickname": "Lieszaaa",
+    "name": "Fabiënne Elisabeth Prins",
+    "nationalities": ["nl"],
+    "tags": ["impact"],
+    "links": [
+        { "name": "FACEIT", "url": "https://www.faceit.com/en/players/Lieszaaa" },
+        { "name": "HLTV", "url": "https://www.hltv.org/player/25292/lieszaaa" }
+    ]
+}

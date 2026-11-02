@@ -1,0 +1,8 @@
+{
+    "$schema": "../../schemas/roster.schema.json",
+    "slug": "nlw-2026",
+    "team": "nlw",
+    "players": ["lieszaaa", "maneschijnx", "missy", "nayomy", "qiyarah"],
+    "coach": "hidde-hofste",
+    "duration": { "start": "2026-12-15", "end": "2026-12-20" }
+}
