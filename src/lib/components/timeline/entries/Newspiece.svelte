@@ -2,16 +2,18 @@
     import { type Newspiece } from "$lib/types/newspiece";
     import LinkExternal from "$lib/components/timeline/links/LinkExternal.svelte";
     import LinkPlayers from "$lib/components/timeline/links/LinkPlayers.svelte";
-    import Text from "../Text.svelte";
+    import Text from "$lib/components/utils/Text.svelte";
 
-    interface Props { newspiece: Newspiece }
+    interface Props {
+        newspiece: Newspiece;
+    }
     let { newspiece }: Props = $props();
 </script>
 
 <div class="pt-1 flex justify-between gap-4">
     <div class="font-semibold text-base text-sky-700">
         <div class="leading-none">
-            <Text text={newspiece.title}></Text>
+            <Text text={newspiece.title} />
             <!-- {#each newspiece.title.match(/\w+|[^\w]+/g) as token}
                 <span class:player={newspiece.related.players.some((p) => p.nickname === token)}>{token} </span>
             {/each} -->

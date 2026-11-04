@@ -3,7 +3,7 @@
     import LinkExternal from "$lib/components/timeline/links/LinkExternal.svelte";
     import LinkRewatch from "$lib/components/timeline/links/LinkRewatch.svelte";
     import LinkPlayers from "$lib/components/timeline/links/LinkPlayers.svelte";
-    import Text from "../Text.svelte";
+    import Text from "$lib/components/utils/Text.svelte";
 
     interface Props {
         match: Omatch;
@@ -87,7 +87,7 @@
                     </div>
                     <div class="flex justify-center items-end flex-wrap gap-x-4">
                         {#if map.note}
-                            <div class="text-gray-500">{map.note}</div>
+                            <div class="text-gray-500"><Text text={map.note} /></div>
                         {/if}
                         {#each map.links as link}
                             <LinkExternal {link} />
@@ -101,7 +101,7 @@
             {#each match.news as newspiece}
                 <div class="pt-0.5 flex justify-between border-b border-dashed border-gray-400">
                     <div class="text-sky-700 text-sm">
-                        <Text text={newspiece.title}></Text>
+                        <Text text={newspiece.title} />
                     </div>
                     <div class="flex justify-center items-end flex-wrap gap-x-4">
                         {#each newspiece.links as link}
@@ -112,7 +112,7 @@
             {/each}
             {#if match.note}
                 <div class="pt-1 text-gray-500 text-xs">
-                    {match.note}
+                    <Text text={match.note} />
                 </div>
             {/if}
         </div>
