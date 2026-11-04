@@ -72,10 +72,21 @@
                                                     "id": 9,
                                                     "date": "2026-11-03",
                                                     "lineups": {
-                                                        "team1": { "name": "FACEIT Demons", "players": ["d0cc", "jodee", "nayomy", "qiyarah", "olaie"] },
+                                                        "team1": { "name": "FACEIT Demons", "players": ["d0cc", "mariab0b", "nayomy", "neok", "qiyarah", "olaie"] },
                                                         "team2": { "name": "Sleepers" }
                                                     },
                                                     "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-f1cfe4c4-dc15-4967-ae6a-999fa2fdfde2" }],
+                                                    "maps": [{ "id": 1, "map": "mrg", "result": "4:13" }],
+                                                    "note": "$nayomy stood in for $mariab0b from round 11 due to computer issues."
+                                                },
+                                                {
+                                                    "id": 10,
+                                                    "date": "2026-11-05",
+                                                    "lineups": {
+                                                        "team1": { "name": "FACEIT Demons", "players": ["d0cc", "nayomy", "neok", "qiyarah", "olaie"] },
+                                                        "team2": { "name": "Koira123" }
+                                                    },
+                                                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-5503fe7c-1324-4767-ae84-fd943299dd54" }],
                                                     "maps": []
                                                 }
                                             ]
