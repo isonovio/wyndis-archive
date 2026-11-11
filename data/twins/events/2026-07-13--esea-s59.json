@@ -81,7 +81,17 @@
                                                 },
                                                 {
                                                     "id": 10,
-                                                    "date": "2026-11-05",
+                                                    "date": "2026-11-10",
+                                                    "lineups": {
+                                                        "team1": { "name": "ElNapo" },
+                                                        "team2": { "name": "FACEIT Demons", "players": ["d0cc", "mariab0b", "nayomy", "qiyarah", "olaie"] }
+                                                    },
+                                                    "links": [{ "name": "FACEIT", "url": "https://www.faceit.com/en/cs2/room/1-fe4f9862-0753-44d2-8d50-f30b2eb03c48" }],
+                                                    "maps": [{ "id": 1, "map": "d2", "result": "13:8" }]
+                                                },
+                                                {
+                                                    "id": 11,
+                                                    "date": "2026-11-11",
                                                     "lineups": {
                                                         "team1": { "name": "FACEIT Demons", "players": ["d0cc", "nayomy", "neok", "qiyarah", "olaie"] },
                                                         "team2": { "name": "Koira123" }
